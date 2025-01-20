@@ -1,65 +1,87 @@
-
 # CS-GY 6313: Information Visualization - Coursework Repository
 
-This repository contains the coursework completed for **CS-GY 6313: Information Visualization** at New York University. The projects in this repository explore various data visualization techniques and tools, with a focus on creating interactive and insightful visualizations.
+This repository contains coursework completed for **CS-GY 6313: Information Visualization** at New York University, demonstrating proficiency in data visualization principles, interactive design, and analytical storytelling. Projects leverage Python, JavaScript, D3.js, React, and modern visualization tools to transform complex datasets into actionable insights.
 
-## Course Overview
+---
 
-CS-GY 6313: Information Visualization delves into the principles and practices of effectively visualizing data. The course covers topics such as:
+## 📚 Course Overview  
+This course explores techniques for designing effective visualizations across diverse data types. Key topics include:  
+- **Data Representation:** Visual encoding, chart types, and perceptual principles  
+- **Interaction Design:** Zoom/filter, tooltips, dynamic dashboards  
+- **Domain-Specific Techniques:** Temporal, geospatial, network, and multivariate visualization  
+- **Tools & Evaluation:** D3.js, Python libraries (Matplotlib, Seaborn), and usability testing  
 
-*   Data representation and visual encoding
-*   Interaction design for visualization
-*   Visualization techniques for different data types (e.g., temporal, geospatial, network)
-*   Evaluation of visualization effectiveness
-*   Tools and libraries for creating visualizations (e.g., D3.js, Python visualization libraries)
+---
 
-## Repository Structure
+## 🗂 Repository Structure  
+### Assignments  
+#### **Assignment 1: Exploratory Data Analysis**  
+- **Tools:** Python (`pandas`, `matplotlib`, `seaborn`)  
+- **Focus:** Data cleaning, basic visualizations (histograms, scatter plots, heatmaps)  
+- **Code:** [`Assignment_1/INFO_VIS.ipynb`](Assignment_1/INFO_VIS.ipynb)  
 
-This repository is organized by assignment, showcasing the progression of skills and concepts learned throughout the course. Here's a brief overview:
+#### **Assignment 2: Data Storytelling**  
+- **Deliverables:**  
+  - Report: [`Assignment_2/IV_ass_02_dp3979_Report.pdf`](Assignment_2/IV_ass_02_dp3979_Report.pdf)  
+  - Techniques: Data preprocessing, visualization selection, insight extraction  
 
-*   **Assignment_1:** This assignment focuses on exploratory data analysis and basic visualization techniques using Python libraries like `pandas`, `matplotlib`, and `seaborn`. The code for this assignment can be found in the Jupyter Notebook:
-```
-Assignment_1/INFO_VIS.ipynb
-startLine: 1
-endLine: 1571
-```
-*   **Assignment_4:** This assignment involves creating an interactive web application that advocates for higher education by visualizing the impact of educational attainment on economic factors. It includes two versions:
-    *   **Education_advocacy_app_v1:** This version uses HTML, CSS, and JavaScript with D3.js for visualization. The `readme.md` file provides details on running the application locally:
-    ```
-    Assignment_4/Education_advocacy_app_v1/readme.md
-    startLine: 1
-    endLine: 155
-    ```
-    *   **Education_advocacy_app_v2:** This version is built using React with Vite and utilizes Tailwind CSS for styling. The `readme.md` file explains how to install dependencies and run the application:
-    ```
-    Assignment_4/submission_iv_04/Education_advocacy_app_v2/readme.md
-    startLine: 1
-    endLine: 85
-    ```
-*   **FInal_project:** This folder contains data related to the final project, including a Jupyter Notebook for downloading Google Scholar data.
+#### **Assignment 3: Interactive Visualization**  
+- **Focus:** User-driven exploration with interactive elements  
+- **Report:** [`Assignment_3/Information_visualization_assignment_3.pdf`](Assignment_3/Information_visualization_assignment_3.pdf)  
 
-## Key Concepts Demonstrated
+#### **Assignment 4: Education Advocacy Web App**  
+- **Versions:**  
+  1. **Vanilla JS/D3.js:** [`Education_advocacy_app_v1/`](Assignment_4/Education_advocacy_app_v1/)  
+     - *Features:* Linked charts, tooltips, responsive design  
+     - Setup: See [`readme.md`](Assignment_4/Education_advocacy_app_v1/readme.md)  
+  2. **React + Tailwind CSS:** [`Education_advocacy_app_v2/`](Assignment_4/submission_iv_04/Education_advocacy_app_v2/)  
+     - *Tech Stack:* Vite, React, D3.js, Lucide icons  
+     - Setup: See [`readme.md`](Assignment_4/submission_iv_04/Education_advocacy_app_v2/readme.md)  
 
-The projects in this repository demonstrate a range of information visualization concepts, including:
+### 🏆 Final Project: Scholarly Impact Visualization  
+- **Repo:** [**info-viz-final**](https://github.com/kaartikeya15/info-viz-final)  
+- **Highlights:**  
+  - Advanced visual analytics of academic publications  
+  - Interactive network graphs and temporal trends  
+  - Comprehensive report documenting design lifecycle  
 
-*   **Data Wrangling and Preprocessing:** Cleaning, transforming, and preparing data for visualization.
-*   **Visual Encoding:** Choosing appropriate visual channels (e.g., position, size, color) to represent data attributes.
-*   **Interactivity:** Implementing user interactions (e.g., hover, click, zoom) to enable data exploration.
-*   **Chart Types:** Utilizing various chart types (e.g., bar charts, scatter plots, heatmaps, radar charts) to effectively communicate insights.
-*   **Web-Based Visualization:** Building interactive visualizations for the web using HTML, CSS, JavaScript, and libraries like D3.js and React.
+---
 
-## Tools and Technologies
+## 🔍 Key Concepts Demonstrated  
+- **Data Wrangling:** Handling missing values, normalization, feature engineering  
+- **Visual Encoding:** Strategic use of position, size, color, and shape  
+- **Interactivity:** Brushing, pan/zoom, cross-filtering, animated transitions  
+- **Responsive Design:** Mobile-first layouts, dynamic scaling  
 
-The following tools and technologies were used in the development of these projects:
+---
 
-*   **Programming Languages:** Python, JavaScript, HTML, CSS
-*   **Libraries:** `pandas`, `matplotlib`, `seaborn`, `geopandas`, `D3.js`, `React`, `lucide-react`
-*   **Frameworks:** `Vite`, `Tailwind CSS`
-*   **Development Tools:** Jupyter Notebook, Git, npm/yarn
+## 🛠 Tools & Technologies  
+| Category              | Tools                                                                 |
+|-----------------------|-----------------------------------------------------------------------|
+| **Languages**         | Python, JavaScript, HTML/CSS                                         |
+| **Visualization**     | D3.js, Matplotlib, Seaborn, Plotly                                   |
+| **Frameworks**        | React, Vite, Tailwind CSS                                            |
+| **Data Processing**   | pandas, NumPy, Jupyter Notebook                                      |
+| **Version Control**   | Git, GitHub                                                          |
 
-## Further Exploration
+---
 
-Feel free to explore the code and documentation within each assignment folder to gain a deeper understanding of the specific visualization techniques and implementations used.
+## 🚀 Getting Started  
+1. **Clone Repository**  
+   ```bash
+   git clone https://github.com/kaartikeya15/Information-Visualization.git
+   ```
+2. **Explore Assignments**  
+   - Each folder contains a dedicated `readme.md` with setup instructions.  
+   - For web apps (Assignment 4):  
+     ```bash
+     cd Assignment_4/Education_advocacy_app_v1
+     python -m http.server  # Open http://localhost:8000
+     ```
 
-**Note:** This README provides a general overview. Each assignment folder may contain its own `readme.md` file with more detailed information about the specific project.
+---
 
+## 📄 License  
+This repository is for educational purposes. Dataset usage may be subject to third-party licenses.  
+
+*For detailed project documentation, refer to individual reports and README files within each folder.*
