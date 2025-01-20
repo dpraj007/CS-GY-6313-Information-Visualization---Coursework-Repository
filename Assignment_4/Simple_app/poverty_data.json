@@ -1,0 +1,21 @@
+{
+    "Population 25 Years and Over for Whom Poverty Status is Determined by Educational Attainment Level": [
+      {
+        "Educational Level": "Less than high school graduate",
+        "Estimate": "24.3%"
+      },
+      {
+        "Educational Level": "High school graduate (includes equivalency)",
+        "Estimate": "14.6%"
+      },
+      {
+        "Educational Level": "Some college or associate's degree",
+        "Estimate": "10.0%"
+      },
+      {
+        "Educational Level": "Bachelor's degree or higher",
+        "Estimate": "4.6%"
+      }
+    ]
+  }
+  

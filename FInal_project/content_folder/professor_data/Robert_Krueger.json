@@ -1,0 +1,147 @@
+{
+    "name": "Robert Krueger",
+    "affiliation": "Assistant Professor at New York University",
+    "url": "https://scholar.google.com/citations?user=UHmEAooAAAAJ&hl=en&oi=sra",
+    "papers": [
+        {
+            "title": "The Human Tumor Atlas Network: charting tumor transitions across space and time at single-cell resolution",
+            "authors": "O Rozenblatt-Rosen, A Regev, P Oberdoerffer, T Nawy, A Hupalowska, ...",
+            "publication": "Cell 181 (2), 236-249, 2020",
+            "year": "2020",
+            "citations": "434"
+        },
+        {
+            "title": "ScatterBlogs2: Real-Time Monitoring of Microblog Messages through User-Guided Filtering.",
+            "authors": "H Bosch, D Thom, F Heimerl, E Püttmann, S Koch, R Krüger, M Wörner, ...",
+            "publication": "IEEE transactions on visualization and computer graphics 19 (12), 2022-2031, 2013",
+            "year": "2013",
+            "citations": "196"
+        },
+        {
+            "title": "TrajectoryLenses–A Set‐based Filtering and Exploration Technique for Long‐term Trajectory Data",
+            "authors": "R Krüger, D Thom, M Wörner, H Bosch, T Ertl",
+            "publication": "Computer Graphics Forum 32 (3pt4), 451-460, 2013",
+            "year": "2013",
+            "citations": "114"
+        },
+        {
+            "title": "Integrating Predictive Analytics and Social Media",
+            "authors": "Y Lu, R Krüger, D Thom, F Wang, S Koch, T Ertl, R Maciejewski",
+            "publication": "Proc. IEEE Conference on Visual Analytics Science and Technology, 2014",
+            "year": "2014",
+            "citations": "88"
+        },
+        {
+            "title": "Visual analysis of movement behavior using web data for context enrichment",
+            "authors": "R Krüger, D Thom, T Ertl",
+            "publication": "IEEE Pacific Visualization Symposium (PacificVis), editor, IEEE Pacific …, 2014",
+            "year": "2014",
+            "citations": "85"
+        },
+        {
+            "title": "Visual Interaction with Deep Learning Models through Collaborative Semantic Inference",
+            "authors": "S Gehrmann, H Strobelt, R Krüger, H Pfister, AM Rush",
+            "publication": "IEEE transactions on visualization and computer graphics, 2019",
+            "year": "2019",
+            "citations": "67"
+        },
+        {
+            "title": "Facetto: Combining Unsupervised and Supervised Learning for Hierarchical Phenotype Analysis in Multi-Channel Image Data",
+            "authors": "R Krueger, J Beyer, WD Jang, NW Kim, A Sokolov, PK Sorger, H Pfister",
+            "publication": "IEEE Transactions on Visualization and Computer Graphics, 2019",
+            "year": "2019",
+            "citations": "53"
+        },
+        {
+            "title": "Can Twitter really save your Life? A Case Study of Visual Social Media Analytics for Situation Awareness",
+            "authors": "D Thom, R Krüger, T Ertl, U Bechstedt, A Platz, J Zisgen, B Volland",
+            "publication": "",
+            "year": "2015",
+            "citations": "51"
+        },
+        {
+            "title": "MITI minimum information guidelines for highly multiplexed tissue images",
+            "authors": "D Schapiro, C Yapp, A Sokolov, SM Reynolds, YA Chen, D Sudar, Y Xie, ...",
+            "publication": "Nature methods 19 (3), 262-267, 2022",
+            "year": "2022",
+            "citations": "48"
+        },
+        {
+            "title": "Semantic Enrichment of Movement Behavior with Foursquare-A Visual Analytics Approach",
+            "authors": "R Kruger, D Thom, T Ertl",
+            "publication": "IEEE Transactions on Visualization & Computer Graphics, 1-1, 2014",
+            "year": "2014",
+            "citations": "44"
+        },
+        {
+            "title": "Immersive Modular Factory Layout Planning using Augmented Reality",
+            "authors": "D Herr, J Reinhardt, G Reina, R Krüger, RV Ferrari, T Ertl",
+            "publication": "Procedia CIRP 72, 1112-1117, 2018",
+            "year": "2018",
+            "citations": "41"
+        },
+        {
+            "title": "Lymphocyte networks are dynamic cellular communities in the immunoregulatory landscape of lung adenocarcinoma",
+            "authors": "G Gaglia, M Burger, CC Ritch, D Rammos, Y Dai, GE Crossland, ...",
+            "publication": "Cancer Cell, 2022",
+            "year": "2022",
+            "citations": "40"
+        },
+        {
+            "title": "Can Twitter save lives? A broad-scale study on visual social media analytics for public safety",
+            "authors": "D Thom, R Krüger, T Ertl",
+            "publication": "IEEE transactions on visualization and computer graphics 22 (7), 1816-1829, 2016",
+            "year": "2016",
+            "citations": "40"
+        },
+        {
+            "title": "TravelDiff: Visual comparison analytics for massive movement patterns derived from Twitter",
+            "authors": "R Krueger, G Sun, F Beck, R Liang, T Ertl",
+            "publication": "2016 IEEE Pacific Visualization Symposium (PacificVis), 176-183, 2016",
+            "year": "2016",
+            "citations": "39"
+        },
+        {
+            "title": "Visual Interactive Map Matching",
+            "authors": "R Krüger, F Beck, G Simeonov, T Ertl",
+            "publication": "IEEE Transaction on Visualization and Computer Graphics (TVCG), 2018",
+            "year": "2018",
+            "citations": "22"
+        },
+        {
+            "title": "GenNI: Human-AI Collaboration for Data-Backed Text Generation",
+            "authors": "H Strobelt, J Kinley, R Krueger, J Beyer, H Pfister, AM Rush",
+            "publication": "IEEE Transactions on Visualization and Computer Graphics, 2021",
+            "year": "2021",
+            "citations": "21"
+        },
+        {
+            "title": "Minerva: a light-weight, narrative image browser for multiplexed tissue images",
+            "authors": "J Hoffer, R Rashid, JL Muhlich, YA Chen, DPW Russell, J Ruokonen, ...",
+            "publication": "Journal of Open Source Software 5 (54), 2579, 2020",
+            "year": "2020",
+            "citations": "21"
+        },
+        {
+            "title": "Using large scale aggregated knowledge for social media location discovery",
+            "authors": "D Thom, H Bosch, R Krueger, T Ertl",
+            "publication": "System Sciences (HICSS), 2014 47th Hawaii International Conference on, 1464-1473, 2014",
+            "year": "2014",
+            "citations": "20"
+        },
+        {
+            "title": "Narrative online guides for the interpretation of digital-pathology images and tissue-atlas data",
+            "authors": "R Rashid, YA Chen, J Hoffer, JL Muhlich, JR Lin, R Krueger, H Pfister, ...",
+            "publication": "Nature Biomedical Engineering, 1-12, 2021",
+            "year": "2021",
+            "citations": "19"
+        },
+        {
+            "title": "Scope2Screen: Focus+ Context Techniques for Pathology Tumor Assessment in Multivariate Image Data",
+            "authors": "J Jessup, R Krueger, S Warchol, J Hoffer, J Muhlich, CC Ritch, G Gaglia, ...",
+            "publication": "IEEE Transactions on Visualization and Computer Graphics, 2021",
+            "year": "2021",
+            "citations": "19"
+        }
+    ]
+}

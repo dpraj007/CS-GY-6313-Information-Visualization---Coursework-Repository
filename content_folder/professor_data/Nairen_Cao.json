@@ -1,0 +1,147 @@
+{
+    "name": "Nairen Cao",
+    "affiliation": "Ph.D., Georgetown University",
+    "url": "https://scholar.google.com/citations?user=OiiBPDwAAAAJ&hl=en",
+    "papers": [
+        {
+            "title": "Efficient construction of directed hopsets and parallel approximate shortest paths",
+            "authors": "N Cao, JT Fineman, K Russell",
+            "publication": "Proceedings of the 52nd Annual ACM SIGACT Symposium on Theory of Computing …, 2020",
+            "year": "2020",
+            "citations": "21"
+        },
+        {
+            "title": "Brief announcement: An improved distributed approximate single source shortest paths algorithm",
+            "authors": "N Cao, JT Fineman, K Russell",
+            "publication": "Proceedings of the 2021 ACM Symposium on Principles of Distributed Computing …, 2021",
+            "year": "2021",
+            "citations": "17"
+        },
+        {
+            "title": "Improved work span tradeoff for single source reachability and approximate shortest paths",
+            "authors": "N Cao, JT Fineman, K Russell",
+            "publication": "Proceedings of the 32nd ACM Symposium on Parallelism in Algorithms and …, 2020",
+            "year": "2020",
+            "citations": "12"
+        },
+        {
+            "title": "Parallel exact shortest paths in almost linear work and square root depth",
+            "authors": "N Cao, JT Fineman",
+            "publication": "Proceedings of the 2023 Annual ACM-SIAM Symposium on Discrete Algorithms …, 2023",
+            "year": "2023",
+            "citations": "8"
+        },
+        {
+            "title": "Toward RSA-OAEP without random oracles",
+            "authors": "N Cao, A O’Neill, M Zaheri",
+            "publication": "IACR International Conference on Public-Key Cryptography, 279-308, 2020",
+            "year": "2020",
+            "citations": "7"
+        },
+        {
+            "title": "Understanding the Cluster Linear Program for Correlation Clustering",
+            "authors": "N Cao, V Cohen-Addad, E Lee, S Li, A Newman, L Vogl",
+            "publication": "Proceedings of the 56th Annual ACM Symposium on Theory of Computing, 1605-1616, 2024",
+            "year": "2024",
+            "citations": "5"
+        },
+        {
+            "title": "Parallel shortest paths with negative edge weights",
+            "authors": "N Cao, JT Fineman, K Russell",
+            "publication": "Proceedings of the 34th ACM Symposium on Parallelism in Algorithms and …, 2022",
+            "year": "2022",
+            "citations": "5"
+        },
+        {
+            "title": "Breaking 3-factor approximation for correlation clustering in polylogarithmic rounds",
+            "authors": "N Cao, SE Huang, HH Su",
+            "publication": "Proceedings of the 2024 Annual ACM-SIAM Symposium on Discrete Algorithms …, 2024",
+            "year": "2024",
+            "citations": "4"
+        },
+        {
+            "title": "Nearly optimal parallel algorithms for longest increasing subsequence",
+            "authors": "N Cao, SE Huang, HH Su",
+            "publication": "Proceedings of the 35th ACM Symposium on Parallelism in Algorithms and …, 2023",
+            "year": "2023",
+            "citations": "4"
+        },
+        {
+            "title": "Self-supervised Representation Learning on Electronic Health Records with Graph Kernel Infomax",
+            "authors": "HR Yao, N Cao, K Russell, DC Chang, O Frieder, JT Fineman",
+            "publication": "ACM Transactions on Computing for Healthcare 5 (2), 1-28, 2024",
+            "year": "2024",
+            "citations": "3"
+        },
+        {
+            "title": "I/O-efficient algorithms for topological sort and related problems",
+            "authors": "N Cao, JT Fineman, K Russell, E Yang",
+            "publication": "ACM Transactions on Algorithms (TALG) 18 (1), 1-24, 2022",
+            "year": "2022",
+            "citations": "3"
+        },
+        {
+            "title": "Parallel and distributed exact single-source shortest paths with negative edge weights",
+            "authors": "V Ashvinkumar, A Bernstein, N Cao, C Grunau, B Haeupler, Y Jiang, ...",
+            "publication": "arXiv preprint arXiv:2303.00811, 2023",
+            "year": "2023",
+            "citations": "1"
+        },
+        {
+            "title": "Simultaneously Approximating All Norms for Massively Parallel Correlation Clustering",
+            "authors": "N Cao, S Li, J Ye",
+            "publication": "arXiv preprint arXiv:2410.09321, 2024",
+            "year": "2024",
+            "citations": ""
+        },
+        {
+            "title": "Parallel, Distributed, and Quantum Exact Single-Source Shortest Paths with Negative Edge Weights",
+            "authors": "V Ashvinkumar, A Bernstein, N Cao, C Grunau, B Haeupler, Y Jiang, ...",
+            "publication": "32nd Annual European Symposium on Algorithms (ESA 2024) 308, 13: 1-13: 14, 2024",
+            "year": "2024",
+            "citations": ""
+        },
+        {
+            "title": "Efficient Construction of Directed Hopsets and Parallel Single-source Shortest Paths",
+            "authors": "N Cao, JT Fineman, K Russell",
+            "publication": "Proceedings of the 2023 ACM Workshop on Highlights of Parallel Computing, 3-4, 2023",
+            "year": "2023",
+            "citations": ""
+        },
+        {
+            "title": "Nested Active-Time Scheduling",
+            "authors": "N Cao, JT Fineman, S Li, J Mestre, K Russell, SW Umboh",
+            "publication": "arXiv preprint arXiv:2207.12507, 2022",
+            "year": "2022",
+            "citations": ""
+        },
+        {
+            "title": "Brief Announcement: Nested Active-Time Scheduling",
+            "authors": "N Cao, JT Fineman, S Li, J Mestre, K Russell, SW Umboh",
+            "publication": "Proceedings of the 34th ACM Symposium on Parallelism in Algorithms and …, 2022",
+            "year": "2022",
+            "citations": ""
+        },
+        {
+            "title": "Single-Source Shortest Paths for Directed Graphs",
+            "authors": "N Cao",
+            "publication": "Georgetown University, 2022",
+            "year": "2022",
+            "citations": ""
+        },
+        {
+            "title": "LRCRYPT: Leakage-Resilient Cryptographic System (Design and Implementation)",
+            "authors": "X Yu, N Cao, G Zeng, R Zhang, SM Yiu",
+            "publication": "International Workshop on Information Security Applications, 233-244, 2016",
+            "year": "2016",
+            "citations": ""
+        },
+        {
+            "title": "An ORAM Scheme with Improved Worst-Case Computational Overhead",
+            "authors": "N Cao, X Yu, Y Yang, L Zhang, SM Yiu",
+            "publication": "International Conference on Information and Communications Security, 393-405, 2015",
+            "year": "2015",
+            "citations": ""
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+[{
+  "population_16_years_and_over": {
+    "total": 271122729,
+    "labor_force_participation": "63.8%",
+    "employment_rate": "60.6%",
+    "unemployment_rate": "4.3%"
+  }
+},
+{
+  "age_data": [
+    { "age_group": "16 to 19 years", "total": 17713229, "labor_force_participation": "40.6%", "employment_rate": "34.7%", "unemployment_rate": "13.6%" },
+    { "age_group": "20 to 24 years", "total": 21618383, "labor_force_participation": "76.8%", "employment_rate": "69.2%", "unemployment_rate": "7.9%" },
+    { "age_group": "25 to 29 years", "total": 21906706, "labor_force_participation": "84.9%", "employment_rate": "79.7%", "unemployment_rate": "4.7%" },
+    { "age_group": "30 to 34 years", "total": 23405056, "labor_force_participation": "84.7%", "employment_rate": "80.3%", "unemployment_rate": "4.2%" },
+    { "age_group": "35 to 44 years", "total": 44776584, "labor_force_participation": "84.3%", "employment_rate": "80.7%", "unemployment_rate": "3.6%" },
+    { "age_group": "45 to 54 years", "total": 40521171, "labor_force_participation": "82.7%", "employment_rate": "80.0%", "unemployment_rate": "3.1%" },
+    { "age_group": "55 to 59 years", "total": 20198508, "labor_force_participation": "74.9%", "employment_rate": "72.7%", "unemployment_rate": "3.0%" },
+    { "age_group": "60 to 64 years", "total": 21676036, "labor_force_participation": "60.0%", "employment_rate": "58.5%", "unemployment_rate": "2.6%" },
+    { "age_group": "65 to 74 years", "total": 34824818, "labor_force_participation": "27.5%", "employment_rate": "26.7%", "unemployment_rate": "2.7%" },
+    { "age_group": "75 years and over", "total": 24482238, "labor_force_participation": "7.5%", "employment_rate": "7.3%", "unemployment_rate": "3.2%" }
+  ]
+},
+{
+  "race_data": [
+    { "race": "White alone", "total": 169606065, "labor_force_participation": "62.1%", "employment_rate": "59.5%", "unemployment_rate": "3.4%" },
+    { "race": "Black or African American alone", "total": 32218043, "labor_force_participation": "64.1%", "employment_rate": "58.9%", "unemployment_rate": "7.2%" },
+    { "race": "American Indian and Alaska Native alone", "total": 2603858, "labor_force_participation": "63.7%", "employment_rate": "59.2%", "unemployment_rate": "6.6%" },
+    { "race": "Asian alone", "total": 16740115, "labor_force_participation": "67.1%", "employment_rate": "64.4%", "unemployment_rate": "3.5%" },
+    { "race": "Native Hawaiian and Other Pacific Islander alone", "total": 514452, "labor_force_participation": "66.7%", "employment_rate": "61.4%", "unemployment_rate": "5.7%" },
+    { "race": "Some other race alone", "total": 18958593, "labor_force_participation": "69.1%", "employment_rate": "65.0%", "unemployment_rate": "5.4%" },
+    { "race": "Two or more races", "total": 30481603, "labor_force_participation": "68.0%", "employment_rate": "63.9%", "unemployment_rate": "5.3%" },
+    { "race": "Hispanic or Latino origin (any race)", "total": 48348071, "labor_force_participation": "68.8%", "employment_rate": "64.7%", "unemployment_rate": "5.2%" },
+    { "race": "White alone, not Hispanic or Latino", "total": 161497596, "labor_force_participation": "61.8%", "employment_rate": "59.3%", "unemployment_rate": "3.4%" }
+  ]
+},
+{
+  "gender_data": [
+    { "gender": "Male", "total": 97178184, "labor_force_participation": "83.6%", "employment_rate": "79.3%", "unemployment_rate": "4.0%" },
+    { "gender": "Female", "total": 96924260, "labor_force_participation": "75.5%", "employment_rate": "72.3%", "unemployment_rate": "4.0%" }
+  ]
+},
+{
+  "poverty_data": [
+    { "status": "Below poverty level", "total": 21569583, "labor_force_participation": "47.8%", "employment_rate": "39.0%", "unemployment_rate": "18.3%" },
+    { "status": "At or above poverty level", "total": 169051807, "labor_force_participation": "84.7%", "employment_rate": "81.7%", "unemployment_rate": "2.9%" }
+  ]
+},
+{
+  "education_data": [
+    { "education_level": "Less than high school graduate", "total": 16684455, "labor_force_participation": "63.0%", "employment_rate": "58.9%", "unemployment_rate": "6.5%" },
+    { "education_level": "High school graduate (includes equivalency)", "total": 42552280, "labor_force_participation": "73.2%", "employment_rate": "69.5%", "unemployment_rate": "4.8%" },
+    { "education_level": "Some college or associate's degree", "total": 47822851, "labor_force_participation": "80.5%", "employment_rate": "76.9%", "unemployment_rate": "3.6%" },
+    { "education_level": "Bachelor's degree or higher", "total": 65424475, "labor_force_participation": "88.1%", "employment_rate": "85.6%", "unemployment_rate": "2.3%" }
+  ]
+}
+]

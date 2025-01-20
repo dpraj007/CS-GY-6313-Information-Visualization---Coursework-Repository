@@ -1,0 +1,147 @@
+{
+    "name": "Paweł Korus",
+    "affiliation": "Amazon",
+    "url": "https://scholar.google.com/citations?user=UDEEvd0AAAAJ&hl=fil",
+    "papers": [
+        {
+            "title": "Multi-scale Analysis Strategies in PRNU-based Tampering Localization",
+            "authors": "P Korus, J Huang",
+            "publication": "IEEE Transactions on Information Forensics and Security 12 (4), 2017",
+            "year": "2017",
+            "citations": "214"
+        },
+        {
+            "title": "Digital image integrity – a survey of protection and verification techniques",
+            "authors": "P Korus",
+            "publication": "Digital Signal Processing 71, 2017",
+            "year": "2017",
+            "citations": "152"
+        },
+        {
+            "title": "Efficient Method for Content Reconstruction with Self-Embedding",
+            "authors": "P Korus, A Dziech",
+            "publication": "IEEE Transactions on Image Processing 22 (3), 1134 - 1147, 2013",
+            "year": "2013",
+            "citations": "111"
+        },
+        {
+            "title": "Multi-scale fusion for improved localization of malicious tampering in digital images",
+            "authors": "P Korus, J Huang",
+            "publication": "IEEE Transactions on Image Processing 25 (3), 1312-1326, 2016",
+            "year": "2016",
+            "citations": "98"
+        },
+        {
+            "title": "Evaluation of Random Field Models in Multi-modal Unsupervised Tampering Localization",
+            "authors": "P Korus, J Huang",
+            "publication": "IEEE International Workshop on Information Forensics and Security, 2016",
+            "year": "2016",
+            "citations": "63"
+        },
+        {
+            "title": "Band Energy Difference for Source Attribution in Audio Forensics",
+            "authors": "D Luo, P Korus, J Huang",
+            "publication": "IEEE Transactions on Information Forensics and Security, 2018",
+            "year": "2018",
+            "citations": "55"
+        },
+        {
+            "title": "FiFTy: large-scale file fragment type identification using convolutional neural networks",
+            "authors": "G Mittal, P Korus, N Memon",
+            "publication": "IEEE Transactions on Information Forensics and Security 16, 28-41, 2020",
+            "year": "2020",
+            "citations": "40"
+        },
+        {
+            "title": "Towards Practical Self-Embedding for JPEG-compressed Digital Images",
+            "authors": "P Korus, J Bialas, A Dziech",
+            "publication": "IEEE Transactions on Multimedia 17 (2), 157 - 170, 2015",
+            "year": "2015",
+            "citations": "39"
+        },
+        {
+            "title": "Hard-attention for scalable image classification",
+            "authors": "A Papadopoulos, P Korus, N Memon",
+            "publication": "Advances in Neural Information Processing Systems 34, 14694-14707, 2021",
+            "year": "2021",
+            "citations": "36"
+        },
+        {
+            "title": "Adaptive Self-Embedding Scheme with Controlled Reconstruction Performance",
+            "authors": "P Korus, A Dziech",
+            "publication": "IEEE Transactions on Information Forensics and Security 9 (2), 169 - 181, 2014",
+            "year": "2014",
+            "citations": "36"
+        },
+        {
+            "title": "Adversarial Optimization for Dictionary Attacks on Speaker Verification.",
+            "authors": "M Marras, P Korus, ND Memon, G Fenu",
+            "publication": "Interspeech, 2913-2917, 2019",
+            "year": "2019",
+            "citations": "33"
+        },
+        {
+            "title": "Improved tampering localization in digital image forensics based on maximal entropy random walk",
+            "authors": "P Korus, J Huang",
+            "publication": "IEEE Signal Processing Letters 23 (1), 169-173, 2015",
+            "year": "2015",
+            "citations": "24"
+        },
+        {
+            "title": "Content authentication for neural imaging pipelines: End-to-end optimization of photo provenance in complex distribution channels",
+            "authors": "P Korus, N Memon",
+            "publication": "Proceedings of the IEEE/CVF conference on computer vision and pattern …, 2019",
+            "year": "2019",
+            "citations": "20"
+        },
+        {
+            "title": "A new approach to high-capacity annotation watermarking based on digital fountain codes",
+            "authors": "P Korus, J Białas, A Dziech",
+            "publication": "Multimedia Tools and Applications 68, 59-77, 2014",
+            "year": "2014",
+            "citations": "18"
+        },
+        {
+            "title": "A scheme for censorship of sensitive image content with high-quality reconstruction ability",
+            "authors": "P Korus, W Szmuc, A Dziech",
+            "publication": "2010 IEEE International Conference on Multimedia and Expo, 1073-1078, 2010",
+            "year": "2010",
+            "citations": "16"
+        },
+        {
+            "title": "Every shred helps: Assembling evidence from orphaned JPEG fragments",
+            "authors": "E Durmus, P Korus, N Memon",
+            "publication": "IEEE Transactions on Information Forensics and Security 14 (9), 2372-2386, 2019",
+            "year": "2019",
+            "citations": "15"
+        },
+        {
+            "title": "A novel approach to adaptive image authentication",
+            "authors": "P Korus, A Dziech",
+            "publication": "2011 18th IEEE International Conference on Image Processing, 2765-2768, 2011",
+            "year": "2011",
+            "citations": "14"
+        },
+        {
+            "title": "Image-like 2d barcodes using generalizations of the Kuznetsov–Tsybakov problem",
+            "authors": "J Duda, P Korus, NJ Gadgil, K Tahboub, EJ Delp",
+            "publication": "IEEE Transactions on Information Forensics and Security 11 (4), 691-703, 2015",
+            "year": "2015",
+            "citations": "11"
+        },
+        {
+            "title": "Overview of recent advances in CCTV processing chain in the INDECT and INSIGMA projects",
+            "authors": "A Dziech, J Bialas, A Glowacz, P Korus, M Leszczuk, A Matiolalski, ...",
+            "publication": "2013 International Conference on Availability, Reliability and Security, 836-843, 2013",
+            "year": "2013",
+            "citations": "11"
+        },
+        {
+            "title": "Dictionary attacks on speaker verification",
+            "authors": "M Marras, P Korus, A Jain, N Memon",
+            "publication": "IEEE Transactions on Information Forensics and Security 18, 773-788, 2022",
+            "year": "2022",
+            "citations": "8"
+        }
+    ]
+}

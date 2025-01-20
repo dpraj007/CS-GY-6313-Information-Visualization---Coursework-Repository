@@ -1,0 +1,147 @@
+{
+    "name": "Aaron Bernstein",
+    "affiliation": "Professor of Computer Science, Rutgers University",
+    "url": "https://scholar.google.com/citations?user=N94spO0AAAAJ&hl=en",
+    "papers": [
+        {
+            "title": "Faster fully dynamic matchings with small approximation ratios",
+            "authors": "A Bernstein, C Stein",
+            "publication": "Proceedings of the twenty-seventh annual ACM-SIAM symposium on Discrete …, 2016",
+            "year": "2016",
+            "citations": "137"
+        },
+        {
+            "title": "Coresets meet EDCS: algorithms for matching and vertex cover on massive graphs",
+            "authors": "S Assadi, MH Bateni, A Bernstein, V Mirrokni, C Stein",
+            "publication": "Proceedings of the Thirtieth Annual ACM-SIAM Symposium on Discrete …, 2019",
+            "year": "2019",
+            "citations": "131"
+        },
+        {
+            "title": "A nearly optimal oracle for avoiding failed vertices and edges",
+            "authors": "A Bernstein, D Karger",
+            "publication": "Proceedings of the forty-first annual ACM symposium on Theory of computing …, 2009",
+            "year": "2009",
+            "citations": "117"
+        },
+        {
+            "title": "Fully dynamic matching in bipartite graphs",
+            "authors": "A Bernstein, C Stein",
+            "publication": "Automata, Languages, and Programming: 42nd International Colloquium, ICALP …, 2015",
+            "year": "2015",
+            "citations": "114"
+        },
+        {
+            "title": "Maintaining shortest paths under deletions in weighted directed graphs",
+            "authors": "A Bernstein",
+            "publication": "Proceedings of the forty-fifth annual ACM symposium on Theory of computing …, 2013",
+            "year": "2013",
+            "citations": "98"
+        },
+        {
+            "title": "Fully dynamic (2+ ε) approximate all-pairs shortest paths with fast query and close to linear update time",
+            "authors": "A Bernstein",
+            "publication": "2009 50th Annual IEEE Symposium on Foundations of Computer Science, 693-702, 2009",
+            "year": "2009",
+            "citations": "92"
+        },
+        {
+            "title": "A deamortization approach for dynamic spanner and dynamic maximal matching",
+            "authors": "A Bernstein, S Forster, M Henzinger",
+            "publication": "ACM Transactions on Algorithms (TALG) 17 (4), 1-51, 2021",
+            "year": "2021",
+            "citations": "79"
+        },
+        {
+            "title": "Improved dynamic algorithms for maintaining approximate shortest paths under deletions",
+            "authors": "A Bernstein, L Roditty",
+            "publication": "Proceedings of the twenty-second annual ACM-SIAM symposium on Discrete …, 2011",
+            "year": "2011",
+            "citations": "76"
+        },
+        {
+            "title": "Deterministic decremental reachability, scc, and shortest paths via directed expanders and congestion balancing",
+            "authors": "A Bernstein, MP Gutenberg, T Saranurak",
+            "publication": "2020 IEEE 61st Annual Symposium on Foundations of Computer Science (FOCS …, 2020",
+            "year": "2020",
+            "citations": "69"
+        },
+        {
+            "title": "A nearly optimal algorithm for approximating replacement paths and k shortest simple paths in general graphs",
+            "authors": "A Bernstein",
+            "publication": "Proceedings of the twenty-first annual ACM-SIAM symposium on Discrete …, 2010",
+            "year": "2010",
+            "citations": "65"
+        },
+        {
+            "title": "Online Bipartite Matching with Amortized O(log 2 n) Replacements",
+            "authors": "A Bernstein, J Holm, E Rotenberg",
+            "publication": "Journal of the ACM (JACM) 66 (5), 1-23, 2019",
+            "year": "2019",
+            "citations": "64"
+        },
+        {
+            "title": "Deterministic decremental sssp and approximate min-cost flow in almost-linear time",
+            "authors": "A Bernstein, MP Gutenberg, T Saranurak",
+            "publication": "2021 IEEE 62nd Annual Symposium on Foundations of Computer Science (FOCS …, 2022",
+            "year": "2022",
+            "citations": "62"
+        },
+        {
+            "title": "Deterministic decremental single source shortest paths: beyond the o (mn) bound",
+            "authors": "A Bernstein, S Chechik",
+            "publication": "Proceedings of the forty-eighth annual ACM symposium on Theory of Computing …, 2016",
+            "year": "2016",
+            "citations": "62"
+        },
+        {
+            "title": "Fully-dynamic graph sparsifiers against an adaptive adversary",
+            "authors": "A Bernstein, J Brand, MP Gutenberg, D Nanongkai, T Saranurak, ...",
+            "publication": "arXiv preprint arXiv:2004.08432, 2020",
+            "year": "2020",
+            "citations": "56"
+        },
+        {
+            "title": "Distributed exact weighted all-pairs shortest paths in near-linear time",
+            "authors": "A Bernstein, D Nanongkai",
+            "publication": "Proceedings of the 51st Annual ACM SIGACT Symposium on Theory of Computing …, 2019",
+            "year": "2019",
+            "citations": "56"
+        },
+        {
+            "title": "Towards a unified theory of sparsification for matching problems",
+            "authors": "S Assadi, A Bernstein",
+            "publication": "arXiv preprint arXiv:1811.02009, 2018",
+            "year": "2018",
+            "citations": "56"
+        },
+        {
+            "title": "A generative theory of similarity",
+            "authors": "C Kemp, A Bernstein, JB Tenenbaum",
+            "publication": "Proceedings of the 27th annual conference of the cognitive science society …, 2005",
+            "year": "2005",
+            "citations": "51"
+        },
+        {
+            "title": "Improved bounds for matching in random-order streams",
+            "authors": "A Bernstein",
+            "publication": "Theory of Computing Systems 68 (4), 758-772, 2024",
+            "year": "2024",
+            "citations": "49"
+        },
+        {
+            "title": "Decremental strongly-connected components and single-source reachability in near-linear time",
+            "authors": "A Bernstein, M Probst, C Wulff-Nilsen",
+            "publication": "Proceedings of the 51st Annual ACM SIGACT Symposium on theory of computing …, 2019",
+            "year": "2019",
+            "citations": "47"
+        },
+        {
+            "title": "Improved distance sensitivity oracles via random sampling",
+            "authors": "A Bernstein, D Karger",
+            "publication": "Proceedings of the nineteenth annual ACM-SIAM symposium on Discrete …, 2008",
+            "year": "2008",
+            "citations": "45"
+        }
+    ]
+}

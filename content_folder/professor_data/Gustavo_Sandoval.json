@@ -1,0 +1,28 @@
+{
+    "name": "Gustavo Sandoval",
+    "affiliation": "Industry Professor New York University",
+    "url": "https://scholar.google.com/citations?user=65_TUrIAAAAJ&hl=en",
+    "papers": [
+        {
+            "title": "Method and system for generating and displaying a slide show with animations and transitions in a browser",
+            "authors": "II Qureshi, RU Gasser, G Sandoval, RLC Parker",
+            "publication": "US Patent 6,396,500, 2002",
+            "year": "2002",
+            "citations": "233"
+        },
+        {
+            "title": "Lost at c: A user study on the security implications of large language model code assistants",
+            "authors": "G Sandoval, H Pearce, T Nys, R Karri, S Garg, B Dolan-Gavitt",
+            "publication": "32nd USENIX Security Symposium (USENIX Security 23), 2205-2222, 2023",
+            "year": "2023",
+            "citations": "95"
+        },
+        {
+            "title": "Security implications of large language model code assistants: A user study",
+            "authors": "G Sandoval, H Pearce, T Nys, R Karri, B Dolan-Gavitt, S Garg",
+            "publication": "arXiv preprint arXiv:2208.09727, 2022",
+            "year": "2022",
+            "citations": "36"
+        }
+    ]
+}

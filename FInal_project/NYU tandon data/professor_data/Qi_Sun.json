@@ -1,0 +1,147 @@
+{
+    "name": "Qi Sun",
+    "affiliation": "New York University",
+    "url": "https://scholar.google.com/citations?hl=en&user=oN7gaqMAAAAJ",
+    "papers": [
+        {
+            "title": "Difftaichi: Differentiable programming for physical simulation",
+            "authors": "Y Hu, L Anderson, TM Li, Q Sun, N Carr, J Ragan-Kelley, F Durand",
+            "publication": "International Conference on Learning Representations (ICLR) 2020, 2019",
+            "year": "2019",
+            "citations": "416"
+        },
+        {
+            "title": "Towards virtual reality infinite walking: dynamic saccadic redirection",
+            "authors": "Q Sun, A Patney, LY Wei, O Shapira, J Lu, P Asente, S Zhu, M McGuire, ...",
+            "publication": "ACM Transactions on Graphics (TOG) 37 (4), 1-13, 2018",
+            "year": "2018",
+            "citations": "251"
+        },
+        {
+            "title": "Mapping virtual and physical reality",
+            "authors": "Q Sun, LY Wei, A Kaufman",
+            "publication": "ACM Transactions on Graphics (TOG) 35 (4), 1-12, 2016",
+            "year": "2016",
+            "citations": "142"
+        },
+        {
+            "title": "Fov-nerf: Foveated neural radiance fields for virtual reality",
+            "authors": "N Deng, Z He, J Ye, B Duinkharjav, P Chakravarthula, X Yang, Q Sun",
+            "publication": "IEEE Transactions on Visualization and Computer Graphics 28 (11), 3854-3864, 2022",
+            "year": "2022",
+            "citations": "86"
+        },
+        {
+            "title": "System and method for generating a progressive representation associated with surjectively mapped virtual and physical reality image data",
+            "authors": "A Kaufman, Q Sun, LY Wei",
+            "publication": "CA Patent 3,023,488 A, 2017",
+            "year": "2017",
+            "citations": "77"
+        },
+        {
+            "title": "Learning to reconstruct 3d manhattan wireframes from a single image",
+            "authors": "Y Zhou, H Qi, Y Zhai, Q Sun, Z Chen, LY Wei, Y Ma",
+            "publication": "Proceedings of the IEEE/CVF International Conference on Computer Vision …, 2019",
+            "year": "2019",
+            "citations": "70"
+        },
+        {
+            "title": "Perceptually-guided foveation for light field displays",
+            "authors": "Q Sun, FC Huang, J Kim, LY Wei, D Luebke, A Kaufman",
+            "publication": "ACM Transactions on Graphics (TOG) 36 (6), 1-13, 2017",
+            "year": "2017",
+            "citations": "57"
+        },
+        {
+            "title": "Reducing simulator sickness with perceptual camera control",
+            "authors": "P Hu, Q Sun, P Didyk, LY Wei, AE Kaufman",
+            "publication": "ACM Transactions on Graphics (TOG) 38 (6), 1-12, 2019",
+            "year": "2019",
+            "citations": "51"
+        },
+        {
+            "title": "Deep multi depth panoramas for view synthesis",
+            "authors": "KE Lin, Z Xu, B Mildenhall, PP Srinivasan, Y Hold-Geoffroy, S DiVerdi, ...",
+            "publication": "European Conference on Computer Vision, 328-344, 2020",
+            "year": "2020",
+            "citations": "40"
+        },
+        {
+            "title": "Gaze-contingent retinal speckle suppression for perceptually-matched foveated holographic displays",
+            "authors": "P Chakravarthula, Z Zhang, O Tursun, P Didyk, Q Sun, H Fuchs",
+            "publication": "IEEE Transactions on Visualization and Computer Graphics 27 (11), 4194-4203, 2021",
+            "year": "2021",
+            "citations": "32"
+        },
+        {
+            "title": "Benefits of 3D immersion for virtual colonoscopy",
+            "authors": "K Mirhosseini, Q Sun, KC Gurijala, B Laha, AE Kaufman",
+            "publication": "2014 IEEE VIS international workshop on 3DVis (3DVis), 75-79, 2014",
+            "year": "2014",
+            "citations": "31"
+        },
+        {
+            "title": "Color-perception-guided display power reduction for virtual reality",
+            "authors": "B Duinkharjav, K Chen, A Tyagi, J He, Y Zhu, Q Sun",
+            "publication": "ACM Transactions on Graphics (TOG) 41 (6), 1-16, 2022",
+            "year": "2022",
+            "citations": "29"
+        },
+        {
+            "title": "Path planning for virtual reality locomotion",
+            "authors": "Q Sun, A Patney, O Shapira, M McGuire, AE Lefohn, DP Luebke",
+            "publication": "US Patent 10,573,071, 2020",
+            "year": "2020",
+            "citations": "29"
+        },
+        {
+            "title": "Force-aware interface via electromyography for natural VR/AR interaction",
+            "authors": "Y Zhang, B Liang, B Chen, PM Torrens, SF Atashzar, D Lin, Q Sun",
+            "publication": "ACM Transactions on Graphics (TOG) 41 (6), 1-18, 2022",
+            "year": "2022",
+            "citations": "24"
+        },
+        {
+            "title": "Eccentricity effects on blur and depth perception",
+            "authors": "Q Sun, FC Huang, LY Wei, D Luebke, A Kaufman, J Kim",
+            "publication": "Optics express 28 (5), 6734-6739, 2020",
+            "year": "2020",
+            "citations": "24"
+        },
+        {
+            "title": "Instant Reality: Gaze-Contingent Perceptual Optimization for 3D Virtual Reality Streaming",
+            "authors": "S Chen, B Duinkharjav, X Sun, LY Wei, S Petrangeli, J Echevarria, C Silva, ...",
+            "publication": "IEEE Transactions on Visualization and Computer Graphics, 2022",
+            "year": "2022",
+            "citations": "23"
+        },
+        {
+            "title": "Kinect-based automatic 3D high-resolution face modeling",
+            "authors": "Q Sun, Y Tang, P Hu, J Peng",
+            "publication": "2012 International Conference on Image Analysis and Signal Processing, 1-4, 2012",
+            "year": "2012",
+            "citations": "19"
+        },
+        {
+            "title": "Tailored reality: Perception-aware scene restructuring for adaptive vr navigation",
+            "authors": "ZC Dong, W Wu, Z Xu, Q Sun, G Yuan, L Liu, XM Fu",
+            "publication": "ACM Transactions on Graphics (TOG) 40 (5), 1-15, 2021",
+            "year": "2021",
+            "citations": "18"
+        },
+        {
+            "title": "Image features influence reaction time: a learned probabilistic perceptual model for saccade latency",
+            "authors": "B Duinkharjav, P Chakravarthula, R Brown, A Patney, Q Sun",
+            "publication": "ACM Transactions on Graphics (TOG) 41 (4), 15, 2022",
+            "year": "2022",
+            "citations": "17"
+        },
+        {
+            "title": "Dually noted: layout-aware annotations with smartphone augmented reality",
+            "authors": "J Qian, Q Sun, C Wigington, HL Han, T Sun, J Healey, J Tompkin, ...",
+            "publication": "Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems …, 2022",
+            "year": "2022",
+            "citations": "15"
+        }
+    ]
+}

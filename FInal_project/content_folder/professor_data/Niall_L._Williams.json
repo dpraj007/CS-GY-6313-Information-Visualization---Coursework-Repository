@@ -1,0 +1,126 @@
+{
+    "name": "Niall L. Williams",
+    "affiliation": "Ph.D. Student, University of Maryland, College Park",
+    "url": "https://scholar.google.com/citations?user=KIUsT1cAAAAJ&hl=en",
+    "papers": [
+        {
+            "title": "Pettingzoo: Gym for multi-agent reinforcement learning",
+            "authors": "J Terry, B Black, N Grammel, M Jayakumar, A Hari, R Sullivan, LS Santos, ...",
+            "publication": "Advances in Neural Information Processing Systems 34, 15032-15043, 2021",
+            "year": "2021",
+            "citations": "324"
+        },
+        {
+            "title": "Estimation of rotation gain thresholds considering fov, gender, and distractors",
+            "authors": "NL Williams, TC Peck",
+            "publication": "IEEE transactions on visualization and computer graphics 25 (11), 3158-3168, 2019",
+            "year": "2019",
+            "citations": "62"
+        },
+        {
+            "title": "ARC: Alignment-based Redirection Controller for Redirected Walking in Complex Environments",
+            "authors": "NL Williams, A Bera, D Manocha",
+            "publication": "IEEE Transactions on Visualization and Computer Graphics 27 (05), 2535 - 2544, 2021",
+            "year": "2021",
+            "citations": "61"
+        },
+        {
+            "title": "Redirected walking in static and dynamic scenes using visibility polygons",
+            "authors": "NL Williams, A Bera, D Manocha",
+            "publication": "IEEE transactions on visualization and computer graphics 27 (11), 4267-4277, 2021",
+            "year": "2021",
+            "citations": "41"
+        },
+        {
+            "title": "Generating emotive gaits for virtual agents using affect-based autoregression",
+            "authors": "U Bhattacharya, N Rewkowski, P Guhan, NL Williams, T Mittal, A Bera, ...",
+            "publication": "2020 IEEE International Symposium on Mixed and Augmented Reality (ISMAR), 24-35, 2020",
+            "year": "2020",
+            "citations": "13"
+        },
+        {
+            "title": "Eni: Quantifying environment compatibility for natural walking in virtual reality",
+            "authors": "NL Williams, A Bera, D Manocha",
+            "publication": "2022 IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 419-427, 2022",
+            "year": "2022",
+            "citations": "10"
+        },
+        {
+            "title": "Augmenting physics education with haptic and visual feedback",
+            "authors": "K Qi, D Borland, NL Williams, E Jackson, J Minogue, TC Peck",
+            "publication": "2020 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and …, 2020",
+            "year": "2020",
+            "citations": "10"
+        },
+        {
+            "title": "Pettingzoo: Gym for multi-agent reinforcement learning (2020)",
+            "authors": "JK Terry, B Black, A Hari, LS Santos, C Dieffendahl, NL Williams, ...",
+            "publication": "arXiv preprint arXiv:2009.14471, 2020",
+            "year": "2020",
+            "citations": "6"
+        },
+        {
+            "title": "Estimation of rotation gain thresholds for redirected walking considering FOV and gender",
+            "authors": "N Williams, TC Peck",
+            "publication": "2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR), 1229-1230, 2019",
+            "year": "2019",
+            "citations": "6"
+        },
+        {
+            "title": "PettingZoo: A Standard API for Multi-Agent Reinforcement Learning",
+            "authors": "JK Terry, B Black, N Grammel, M Jayakumar, A Hari, R Sullivan, L Santos, ...",
+            "publication": "Advances in Neural Information Processing Systems 18, 15, 0",
+            "year": "",
+            "citations": "3"
+        },
+        {
+            "title": "A framework for active haptic guidance using robotic haptic proxies",
+            "authors": "NL Williams, N Rewkowski, J Li, MC Lin",
+            "publication": "2023 IEEE International Conference on Robotics and Automation (ICRA), 12478 …, 2023",
+            "year": "2023",
+            "citations": "2"
+        },
+        {
+            "title": "The impact of haptic and visual feedback on teaching",
+            "authors": "K Qi, D Borland, E Jackson, NL Williams, J Minogue, TC Peck",
+            "publication": "2020 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and …, 2020",
+            "year": "2020",
+            "citations": "2"
+        },
+        {
+            "title": "Robust redirected walking in the wild",
+            "authors": "NL Williams",
+            "publication": "2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and …, 2022",
+            "year": "2022",
+            "citations": "1"
+        },
+        {
+            "title": "Redirection Using Alignment",
+            "authors": "NL Williams, A Bera, D Manocha",
+            "publication": "2021 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and …, 2021",
+            "year": "2021",
+            "citations": "1"
+        },
+        {
+            "title": "Who you lookin'at? Perception of gaze direction in group settings depends on naturalness of gaze behavior and clutter",
+            "authors": "R Rosenholtz, N Williams",
+            "publication": "Journal of Vision 24 (10), 1295-1295, 2024",
+            "year": "2024",
+            "citations": ""
+        },
+        {
+            "title": "Perceptual Thresholds for Radial Optic Flow Distortion in Near-Eye Stereoscopic Displays",
+            "authors": "MR Saeedpour-Parizi, NL Williams, T Wong, P Guan, D Manocha, ...",
+            "publication": "IEEE transactions on visualization and computer graphics 30 (5), 2570-2579, 2024",
+            "year": "2024",
+            "citations": ""
+        },
+        {
+            "title": "Natural Walking Interfaces to Improve Immersive Training in Virtual Reality",
+            "authors": "NL Williams",
+            "publication": "",
+            "year": "2023",
+            "citations": ""
+        }
+    ]
+}

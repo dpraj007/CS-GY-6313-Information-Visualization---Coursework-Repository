@@ -1,0 +1,77 @@
+{
+    "name": "Darryl Reeves",
+    "affiliation": "Industry Associate Professor",
+    "url": "https://scholar.google.com/citations?user=HA_YoR0AAAAJ&hl=en",
+    "papers": [
+        {
+            "title": "Geospatial resolution of human and bacterial diversity with city-scale metagenomics",
+            "authors": "E Afshinnekoo, C Meydan, S Chowdhury, D Jaroudi, C Boyer, N Bernstein, ...",
+            "publication": "Cell systems 1 (1), 72-87, 2015",
+            "year": "2015",
+            "citations": "344"
+        },
+        {
+            "title": "Genome assembly and geospatial phylogenomics of the bed bug Cimex lectularius",
+            "authors": "JA Rosenfeld, D Reeves, MR Brugler, A Narechania, S Simon, R Durrett, ...",
+            "publication": "Nature communications 7 (1), 10164, 2016",
+            "year": "2016",
+            "citations": "94"
+        },
+        {
+            "title": "Fungal high‐throughput taxonomic identification tool for use with next‐generation sequencing (FHiTINGS)",
+            "authors": "KC Dannemiller, D Reeves, K Bibby, N Yamamoto, J Peccia",
+            "publication": "Journal of Basic Microbiology 54 (4), 315-321, 2014",
+            "year": "2014",
+            "citations": "87"
+        },
+        {
+            "title": "A Genome Sequence Resource for the Aye-Aye (Daubentonia madagascariensis), a Nocturnal Lemur from Madagascar",
+            "authors": "GH Perry, D Reeves, P Melsted, A Ratan, W Miller, K Michelini, ...",
+            "publication": "Genome biology and evolution 4 (2), 126-135, 2012",
+            "year": "2012",
+            "citations": "81"
+        },
+        {
+            "title": "Optimization of de novo transcriptome assembly from high-throughput short read sequencing data improves functional annotation for non-model organisms",
+            "authors": "BZ Haznedaroglu, D Reeves, H Rismani-Yazdi, J Peccia",
+            "publication": "BMC bioinformatics 13 (1), 1-9, 2012",
+            "year": "2012",
+            "citations": "37"
+        },
+        {
+            "title": "Geospatial resolution of human and bacterial diversity with city-scale metagenomics. Cell Syst 1: 72–87",
+            "authors": "E Afshinnekoo, C Meydan, S Chowdhury, D Jaroudi, C Boyer, N Bernstein, ...",
+            "publication": "",
+            "year": "2015",
+            "citations": "20"
+        },
+        {
+            "title": "Modern methods for delineating metagenomic complexity",
+            "authors": "E Afshinnekoo, C Meydan, S Chowdhury, D Jaroudi, C Boyer, N Bernstein, ...",
+            "publication": "Cell systems 1 (1), 6-7, 2015",
+            "year": "2015",
+            "citations": "15"
+        },
+        {
+            "title": "Algal biorefinery for high-value platform chemicals",
+            "authors": "BZ Haznedaroglu, H Rismani-Yazdi, FCT Allnutt, D Reeves, J Peccia",
+            "publication": "Platform Chemical Biorefinery, 333-360, 2016",
+            "year": "2016",
+            "citations": "9"
+        },
+        {
+            "title": "The mitogenome of the bed bug Cimex lectularius (Hemiptera: Cimicidae)",
+            "authors": "SO Kolokotronis, J Foox, JA Rosenfeld, MR Brugler, D Reeves, JB Benoit, ...",
+            "publication": "Mitochondrial DNA Part B 1 (1), 425-427, 2016",
+            "year": "2016",
+            "citations": "8"
+        },
+        {
+            "title": "The mitogenome of the bed bug Cimex lectularius (Hemiptera: Cimicidae)(vol 1, pg 425, 2016)",
+            "authors": "SO Kolokotronis, J Foox, JA Rosenfeld, MR Brugler, D Reeves, JB Benoit, ...",
+            "publication": "MITOCHONDRIAL DNA PART B-RESOURCES 1, 646-646, 2016",
+            "year": "2016",
+            "citations": ""
+        }
+    ]
+}

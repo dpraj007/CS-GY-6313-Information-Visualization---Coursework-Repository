@@ -1,0 +1,147 @@
+{
+    "name": "Ramesh Karri  కర్రి రమేష్",
+    "affiliation": "Professor of Electrical and Computer Engineering, New York University",
+    "url": "https://scholar.google.com/citations?user=o60TaTEAAAAJ&hl=en",
+    "papers": [
+        {
+            "title": "A primer on hardware security: Models, methods, and metrics",
+            "authors": "M Rostami, F Koushanfar, R Karri",
+            "publication": "Proceedings of the IEEE 102 (8), 1283-1295, 2014",
+            "year": "2014",
+            "citations": "781"
+        },
+        {
+            "title": "Trustworthy hardware: Identifying and classifying hardware trojans",
+            "authors": "R Karri, J Rajendran, K Rosenfeld, M Tehranipoor",
+            "publication": "Computer 43 (10), 39-46, 2010",
+            "year": "2010",
+            "citations": "701"
+        },
+        {
+            "title": "Security analysis of logic obfuscation",
+            "authors": "J Rajendran, Y Pino, O Sinanoglu, R Karri",
+            "publication": "Proceedings of the 49th annual design automation conference, 83-89, 2012",
+            "year": "2012",
+            "citations": "619"
+        },
+        {
+            "title": "Hardware trojans: Lessons learned after one decade of research",
+            "authors": "K Xiao, D Forte, Y Jin, R Karri, S Bhunia, M Tehranipoor",
+            "publication": "ACM Transactions on Design Automation of Electronic Systems (TODAES) 22 (1 …, 2016",
+            "year": "2016",
+            "citations": "565"
+        },
+        {
+            "title": "Fault analysis-based logic encryption",
+            "authors": "J Rajendran, H Zhang, C Zhang, GS Rose, Y Pino, O Sinanoglu, R Karri",
+            "publication": "IEEE Transactions on computers 64 (2), 410-424, 2013",
+            "year": "2013",
+            "citations": "555"
+        },
+        {
+            "title": "Security analysis of integrated circuit camouflaging",
+            "authors": "J Rajendran, M Sam, O Sinanoglu, R Karri",
+            "publication": "Proceedings of the 2013 ACM SIGSAC conference on Computer & communications …, 2013",
+            "year": "2013",
+            "citations": "545"
+        },
+        {
+            "title": "Scan based side channel attack on dedicated hardware implementations of data encryption standard",
+            "authors": "B Yang, K Wu, R Karri",
+            "publication": "2004 International Conferce on Test, 339-344, 2004",
+            "year": "2004",
+            "citations": "449"
+        },
+        {
+            "title": "The cybersecurity landscape in industrial control systems",
+            "authors": "S McLaughlin, C Konstantinou, X Wang, L Davi, AR Sadeghi, ...",
+            "publication": "Proceedings of the IEEE 104 (5), 1039-1057, 2016",
+            "year": "2016",
+            "citations": "439"
+        },
+        {
+            "title": "On improving the security of logic locking",
+            "authors": "M Yasin, JJV Rajendran, O Sinanoglu, R Karri",
+            "publication": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and …, 2015",
+            "year": "2015",
+            "citations": "412"
+        },
+        {
+            "title": "Secure scan: A design-for-test architecture for crypto chips",
+            "authors": "B Yang, K Wu, R Karri",
+            "publication": "Proceedings of the 42nd Annual Design Automation Conference, 135-140, 2005",
+            "year": "2005",
+            "citations": "393"
+        },
+        {
+            "title": "Asleep at the keyboard? assessing the security of github copilot’s code contributions",
+            "authors": "H Pearce, B Ahmad, B Tan, B Dolan-Gavitt, R Karri",
+            "publication": "2022 IEEE Symposium on Security and Privacy (SP), 754-768, 2022",
+            "year": "2022",
+            "citations": "384"
+        },
+        {
+            "title": "On design vulnerability analysis and trust benchmarks development",
+            "authors": "H Salmani, M Tehranipoor, R Karri",
+            "publication": "2013 IEEE 31st international conference on computer design (ICCD), 471-474, 2013",
+            "year": "2013",
+            "citations": "336"
+        },
+        {
+            "title": "Manufacturing and security challenges in 3D printing",
+            "authors": "SE Zeltmann, N Gupta, NG Tsoutsos, M Maniatakos, J Rajendran, R Karri",
+            "publication": "Jom 68 (7), 1872-1881, 2016",
+            "year": "2016",
+            "citations": "313"
+        },
+        {
+            "title": "The robust QCA adder designs using composable QCA building blocks",
+            "authors": "K Kim, K Wu, R Karri",
+            "publication": "IEEE transactions on computer-aided design of integrated circuits and …, 2006",
+            "year": "2006",
+            "citations": "289"
+        },
+        {
+            "title": "Is split manufacturing secure?",
+            "authors": "J Rajendran, O Sinanoglu, R Karri",
+            "publication": "2013 Design, Automation & Test in Europe Conference & Exhibition (DATE …, 2013",
+            "year": "2013",
+            "citations": "265"
+        },
+        {
+            "title": "Examining zero-shot vulnerability repair with large language models",
+            "authors": "H Pearce, B Tan, B Ahmad, R Karri, B Dolan-Gavitt",
+            "publication": "2023 IEEE Symposium on Security and Privacy (SP), 2339-2356, 2023",
+            "year": "2023",
+            "citations": "258"
+        },
+        {
+            "title": "Concurrent error detection schemes for fault-based side-channel cryptanalysis of symmetric block ciphers",
+            "authors": "R Karri, K Wu, P Mishra, Y Kim",
+            "publication": "IEEE Transactions on computer-aided design of integrated circuits and …, 2002",
+            "year": "2002",
+            "citations": "238"
+        },
+        {
+            "title": "Attacks and defenses for JTAG",
+            "authors": "K Rosenfeld, R Karri",
+            "publication": "IEEE Design & Test of Computers 27 (1), 36-47, 2010",
+            "year": "2010",
+            "citations": "204"
+        },
+        {
+            "title": "Logic encryption: A fault analysis perspective",
+            "authors": "J Rajendran, Y Pino, O Sinanoglu, R Karri",
+            "publication": "2012 Design, Automation & Test in Europe Conference & Exhibition (DATE), 953-958, 2012",
+            "year": "2012",
+            "citations": "193"
+        },
+        {
+            "title": "Hardware security: Threat models and metrics",
+            "authors": "M Rostami, F Koushanfar, J Rajendran, R Karri",
+            "publication": "2013 IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 819-823, 2013",
+            "year": "2013",
+            "citations": "183"
+        }
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "name": "Lisa Hellerstein",
+    "affiliation": "Professor of Computer Science, NYU Tandon School of Engineering",
+    "url": "https://scholar.google.com/citations?user=A45mhtsAAAAJ&hl=en",
+    "papers": [
+        {
+            "title": "Learning read-once formulas with queries",
+            "authors": "D Angluin, L Hellerstein, M Karpinski",
+            "publication": "Journal of the ACM (JACM) 40 (1), 185-210, 1993",
+            "year": "1993",
+            "citations": "254"
+        },
+        {
+            "title": "Coding techniques for handling failures in large disk arrays",
+            "authors": "L Hellerstein, GA Gibson, RM Karp, RH Katz, DA Patterson",
+            "publication": "Algorithmica 12 (2), 182-208, 1994",
+            "year": "1994",
+            "citations": "231"
+        },
+        {
+            "title": "Failure correction techniques for large disk arrays",
+            "authors": "GA Gibson, L Hellerstein, RM Karp, DA Patterson",
+            "publication": "ACM SIGARCH Computer Architecture News 17 (2), 123-132, 1989",
+            "year": "1989",
+            "citations": "174"
+        },
+        {
+            "title": "How many queries are needed to learn?",
+            "authors": "L Hellerstein, K Pillaipakkamnatt, V Raghavan, D Wilkins",
+            "publication": "Journal of the ACM (JACM) 43 (5), 840-862, 1996",
+            "year": "1996",
+            "citations": "160"
+        },
+        {
+            "title": "Coding techniques for handling failures in large disk arrays",
+            "authors": "G Gibson, L Hellerstein, R Karp, R Katz, D Patterson",
+            "publication": "Proc. of the International Conference on Architectural Support for …, 1989",
+            "year": "1989",
+            "citations": "158"
+        },
+        {
+            "title": "Learning in the presence of finitely or infinitely many irrelevant attributes",
+            "authors": "A Blum, L Hellerstein, N Littlestone",
+            "publication": "Journal of Computer and System Sciences 50 (1), 32-40, 1995",
+            "year": "1995",
+            "citations": "132"
+        },
+        {
+            "title": "On compression-based text classification",
+            "authors": "Y Marton, N Wu, L Hellerstein",
+            "publication": "Advances in Information Retrieval: 27th European Conference on IR Research …, 2005",
+            "year": "2005",
+            "citations": "126"
+        },
+        {
+            "title": "Equational characterizations of Boolean function classes",
+            "authors": "O Ekin, S Foldes, PL Hammer, L Hellerstein",
+            "publication": "Discrete Mathematics 211 (1-3), 27-51, 2000",
+            "year": "2000",
+            "citations": "97"
+        },
+        {
+            "title": "Learning arithmetic read-once formulas",
+            "authors": "NH Bshouty, TR Hancock, L Hellerstein",
+            "publication": "Proceedings of the twenty-fourth annual ACM symposium on Theory of computing …, 1992",
+            "year": "1992",
+            "citations": "76"
+        },
+        {
+            "title": "Minimizing Disjunctive Normal Form Formulas and  Circuits Given a Truth Table",
+            "authors": "E Allender, L Hellerstein, P McCabe, T Pitassi, M Saks",
+            "publication": "SIAM Journal on Computing 38 (1), 63-84, 2008",
+            "year": "2008",
+            "citations": "67"
+        },
+        {
+            "title": "Attribute-efficient learning in query and mistake-bound models",
+            "authors": "NH Bshouty, L Hellerstein",
+            "publication": "Proceedings of the ninth annual conference on Computational learning theory …, 1996",
+            "year": "1996",
+            "citations": "64"
+        },
+        {
+            "title": "Approximation algorithms for stochastic boolean function evaluation and stochastic submodular set cover",
+            "authors": "A Deshpande, L Hellerstein, D Kletenik",
+            "publication": "Proceedings of the twenty-fifth annual ACM-SIAM Symposium on Discrete …, 2014",
+            "year": "2014",
+            "citations": "63"
+        },
+        {
+            "title": "Read-thrice DNF is hard to learn with membership and equivalence queries",
+            "authors": "H Aizenstein, L Hellerstein, L Pitt",
+            "publication": "Proceedings., 33rd Annual Symposium on Foundations of Computer Science, 523-532, 1992",
+            "year": "1992",
+            "citations": "59"
+        },
+        {
+            "title": "PAC learning with irrelevant attributes",
+            "authors": "A Dhagat, L Hellerstein",
+            "publication": "Proceedings 35th Annual Symposium on Foundations of Computer Science, 64-74, 1994",
+            "year": "1994",
+            "citations": "57"
+        },
+        {
+            "title": "Complexity theoretic hardness results for query learning",
+            "authors": "H Aizenstein, T Hegedüs, L Hellerstein, L Pitt",
+            "publication": "Computational Complexity 7 (1), 19-53, 1998",
+            "year": "1998",
+            "citations": "55"
+        },
+        {
+            "title": "Learning boolean read-once formulas with arbitrary symmetric and constant fan-in gates",
+            "authors": "NH Bshouty, TR Hancock, L Hellerstein",
+            "publication": "Proceedings of the fifth annual workshop on Computational learning theory, 1-15, 1992",
+            "year": "1992",
+            "citations": "53"
+        },
+        {
+            "title": "Learning read-once formulas over fields and extended bases",
+            "authors": "T Hancock, L Hellerstein",
+            "publication": "Proceedings of the fourth annual workshop on Computational learning theory …, 1991",
+            "year": "1991",
+            "citations": "49"
+        },
+        {
+            "title": "Learning read-once formulas with queries",
+            "authors": "D Angluin, L Hellerstein, M Karpiński",
+            "publication": "University of California, Berkeley, Computer Science Division, 1989",
+            "year": "1989",
+            "citations": "49"
+        },
+        {
+            "title": "On PAC learning algorithms for rich boolean function classes",
+            "authors": "L Hellerstein, RA Servedio",
+            "publication": "Theoretical Computer Science 384 (1), 66-76, 2007",
+            "year": "2007",
+            "citations": "46"
+        },
+        {
+            "title": "Learning boolean read-once formulas over generalized bases",
+            "authors": "NH Bshouty, TR Hancock, L Hellerstein",
+            "publication": "Journal of Computer and System Sciences 50 (3), 521-542, 1995",
+            "year": "1995",
+            "citations": "43"
+        }
+    ]
+}

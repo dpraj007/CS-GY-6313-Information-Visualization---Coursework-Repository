@@ -1,0 +1,140 @@
+{
+    "name": "Ratan Dey",
+    "affiliation": "Industry Associate Professor, NYU Tandon School of Engineering",
+    "url": "https://scholar.google.com/citations?user=I0g7OHwAAAAJ&hl=en",
+    "papers": [
+        {
+            "title": "Facebook users have become much more private: A large-scale study",
+            "authors": "R Dey, Z Jelveh, K Ross",
+            "publication": "2012 IEEE International Conference on Pervasive Computing and Communications …, 2012",
+            "year": "2012",
+            "citations": "237"
+        },
+        {
+            "title": "Estimating age privacy leakage in online social networks",
+            "authors": "R Dey, C Tang, K Ross, N Saxena",
+            "publication": "2012 proceedings ieee infocom, 2836-2840, 2012",
+            "year": "2012",
+            "citations": "146"
+        },
+        {
+            "title": "An analysis of united states online political advertising transparency",
+            "authors": "L Edelson, S Sakhuja, R Dey, D McCoy",
+            "publication": "arXiv preprint arXiv:1902.04385, 2019",
+            "year": "2019",
+            "citations": "62"
+        },
+        {
+            "title": "Topology mapping and geolocating for China's Internet",
+            "authors": "Y Tian, R Dey, Y Liu, KW Ross",
+            "publication": "IEEE Transactions on Parallel and Distributed Systems 24 (9), 1908-1917, 2012",
+            "year": "2012",
+            "citations": "56"
+        },
+        {
+            "title": "A closer look at third-party OSN applications: are they leaking your personal information?",
+            "authors": "A Chaabane, Y Ding, R Dey, MA Kaafar, KW Ross",
+            "publication": "Passive and Active Measurement: 15th International Conference, PAM 2014, Los …, 2014",
+            "year": "2014",
+            "citations": "54"
+        },
+        {
+            "title": "China’s Internet: Topology Mapping and Geolocating",
+            "authors": "Y Tian, R Dey, Y Liu, KW Ross",
+            "publication": "",
+            "year": "",
+            "citations": "43"
+        },
+        {
+            "title": "Profiling high-school students with facebook: how online privacy laws can actually increase minors' risk",
+            "authors": "R Dey, Y Ding, KW Ross",
+            "publication": "Proceedings of the 2013 conference on Internet measurement conference, 405-416, 2013",
+            "year": "2013",
+            "citations": "36"
+        },
+        {
+            "title": "The city privacy attack: Combining social media and public records for detailed profiles of adults and children",
+            "authors": "T Minkus, Y Ding, R Dey, KW Ross",
+            "publication": "Proceedings of the 2015 ACM on conference on online social networks, 71-81, 2015",
+            "year": "2015",
+            "citations": "30"
+        },
+        {
+            "title": "What is Zoom not telling you: Lessons from an online course during COVID-19",
+            "authors": "P Spathis, R Dey",
+            "publication": "",
+            "year": "2020",
+            "citations": "26"
+        },
+        {
+            "title": "Estimating Heights from Photo Collections: A Data-Driven Approach",
+            "authors": "R Dey, M Nangia, K Ross, Y Liu",
+            "publication": "Conference on Online Social Network, 2014",
+            "year": "2014",
+            "citations": "17"
+        },
+        {
+            "title": "Online teaching amid COVID-19: the case of zoom",
+            "authors": "P Spathis, R Dey",
+            "publication": "2021 IEEE Global Engineering Education Conference (EDUCON), 1398-1406, 2021",
+            "year": "2021",
+            "citations": "8"
+        },
+        {
+            "title": "Data-Driven Privacy Attacks in Online Social Networks",
+            "authors": "R Dey",
+            "publication": "Polytechnic Institute of New York University, 2017",
+            "year": "2017",
+            "citations": "1"
+        },
+        {
+            "title": "Supplementary file of the TPDS manuscript",
+            "authors": "Z Li, J Wu, J Xie, T Zhang, G Chen, Y Dai",
+            "publication": "",
+            "year": "2016",
+            "citations": "1"
+        },
+        {
+            "title": "Chameleon: Image Style Transfer Based on Image Classification Networks",
+            "authors": "H Li, R Dey, L Gong, C Wang",
+            "publication": "2020 IEEE 22nd International Conference on High Performance Computing and …, 2020",
+            "year": "2020",
+            "citations": ""
+        },
+        {
+            "title": "A closer look at third-party OSN applications",
+            "authors": "A Chaabane, Y Ding, R Dey, MA Kaafar, KW Ross",
+            "publication": "15th International Conference on Passive and Active Measurement, PAM 2014, 2014",
+            "year": "2014",
+            "citations": ""
+        },
+        {
+            "title": "Profiling high-school students with facebook",
+            "authors": "R Dey, Y Ding, KW Ross",
+            "publication": "Proceedings of the 2013 conference on Internet measurement conference, 2013",
+            "year": "2013",
+            "citations": ""
+        },
+        {
+            "title": "Technical Report: November 16, 2012",
+            "authors": "R Dey, Y Ding, KW Ross",
+            "publication": "",
+            "year": "",
+            "citations": ""
+        },
+        {
+            "title": "SESOC 2012: Fourth International Workshop on SECurity and SOCial Networking 0 Program",
+            "authors": "B Greschbach, G Kreitz, S Buchegger, R Dey, Z Jelveh, H Yıldız, ...",
+            "publication": "",
+            "year": "",
+            "citations": ""
+        },
+        {
+            "title": "Attacking Age Privacy in Online Social Networks",
+            "authors": "R Dey, C Tang, K Ross, N Saxena",
+            "publication": "",
+            "year": "",
+            "citations": ""
+        }
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "name": "Juan P Bello",
+    "affiliation": "Professor of Music Technology, Computer Science & Engineering, NYU",
+    "url": "https://scholar.google.com/citations?user=PMHXcoAAAAAJ&hl=en",
+    "papers": [
+        {
+            "title": "Deep convolutional neural networks and data augmentation for environmental sound classification",
+            "authors": "J Salamon, JP Bello",
+            "publication": "IEEE Signal processing letters 24 (3), 279-283, 2017",
+            "year": "2017",
+            "citations": "1892"
+        },
+        {
+            "title": "A dataset and taxonomy for urban sound research",
+            "authors": "J Salamon, C Jacoby, JP Bello",
+            "publication": "Proceedings of the 22nd ACM international conference on Multimedia, 1041-1044, 2014",
+            "year": "2014",
+            "citations": "1552"
+        },
+        {
+            "title": "A tutorial on onset detection in music signals",
+            "authors": "JP Bello, L Daudet, S Abdallah, C Duxbury, M Davies, MB Sandler",
+            "publication": "IEEE Transactions on speech and audio processing 13 (5), 1035-1047, 2005",
+            "year": "2005",
+            "citations": "1286"
+        },
+        {
+            "title": "Medleydb: A multitrack dataset for annotation-intensive mir research.",
+            "authors": "RM Bittner, J Salamon, M Tierney, M Mauch, C Cannam, JP Bello",
+            "publication": "ISMIR 14, 155-160, 2014",
+            "year": "2014",
+            "citations": "492"
+        },
+        {
+            "title": "Crepe: A convolutional representation for pitch estimation",
+            "authors": "JW Kim, J Salamon, P Li, JP Bello",
+            "publication": "2018 IEEE International Conference on Acoustics, Speech and Signal …, 2018",
+            "year": "2018",
+            "citations": "445"
+        },
+        {
+            "title": "Look, listen, and learn more: Design choices for deep audio embeddings",
+            "authors": "AL Cramer, HH Wu, J Salamon, JP Bello",
+            "publication": "ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and …, 2019",
+            "year": "2019",
+            "citations": "378"
+        },
+        {
+            "title": "A Robust Mid-Level Representation for Harmonic Content in Music Signals.",
+            "authors": "JP Bello, J Pickens",
+            "publication": "ISMIR 5, 304-311, 2005",
+            "year": "2005",
+            "citations": "339"
+        },
+        {
+            "title": "Sonyc: A system for monitoring, analyzing, and mitigating urban noise pollution",
+            "authors": "JP Bello, C Silva, O Nov, RL Dubois, A Arora, J Salamon, C Mydlarz, ...",
+            "publication": "Communications of the ACM 62 (2), 68-77, 2019",
+            "year": "2019",
+            "citations": "333"
+        },
+        {
+            "title": "Deep Salience Representations for F0 Estimation in Polyphonic Music.",
+            "authors": "RM Bittner, B McFee, J Salamon, P Li, JP Bello",
+            "publication": "ISMIR, 63-70, 2017",
+            "year": "2017",
+            "citations": "282"
+        },
+        {
+            "title": "Unsupervised feature learning for urban sound classification",
+            "authors": "J Salamon, JP Bello",
+            "publication": "2015 IEEE International Conference on Acoustics, Speech and Signal …, 2015",
+            "year": "2015",
+            "citations": "280"
+        },
+        {
+            "title": "On the use of phase and energy for musical onset detection in the complex domain",
+            "authors": "JP Bello, C Duxbury, M Davies, M Sandler",
+            "publication": "IEEE Signal Processing Letters 11 (6), 553-556, 2004",
+            "year": "2004",
+            "citations": "277"
+        },
+        {
+            "title": "Scaper: A library for soundscape synthesis and augmentation",
+            "authors": "J Salamon, D MacConnell, M Cartwright, P Li, JP Bello",
+            "publication": "2017 IEEE Workshop on Applications of Signal Processing to Audio and …, 2017",
+            "year": "2017",
+            "citations": "272"
+        },
+        {
+            "title": "Wav2clip: Learning robust audio representations from clip",
+            "authors": "HH Wu, P Seetharaman, K Kumar, JP Bello",
+            "publication": "ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and …, 2022",
+            "year": "2022",
+            "citations": "242"
+        },
+        {
+            "title": "Complex domain onset detection for musical signals",
+            "authors": "C Duxbury, JP Bello, M Davies, M Sandler",
+            "publication": "Proc. Digital Audio Effects Workshop (DAFx) 1, 6-9, 2003",
+            "year": "2003",
+            "citations": "217"
+        },
+        {
+            "title": "Moving beyond feature design: Deep architectures and automatic feature learning in music informatics.",
+            "authors": "EJ Humphrey, JP Bello, Y LeCun",
+            "publication": "ISMIR, 403-408, 2012",
+            "year": "2012",
+            "citations": "214"
+        },
+        {
+            "title": "Adaptive pooling operators for weakly labeled sound event detection",
+            "authors": "B McFee, J Salamon, JP Bello",
+            "publication": "IEEE/ACM Transactions on Audio, Speech, and Language Processing 26 (11 …, 2018",
+            "year": "2018",
+            "citations": "197"
+        },
+        {
+            "title": "A software framework for musical data augmentation.",
+            "authors": "B McFee, EJ Humphrey, JP Bello",
+            "publication": "ISMIR 2015, 248-254, 2015",
+            "year": "2015",
+            "citations": "197"
+        },
+        {
+            "title": "The implementation of low-cost urban acoustic monitoring devices",
+            "authors": "C Mydlarz, J Salamon, JP Bello",
+            "publication": "Applied Acoustics 117, 207-218, 2017",
+            "year": "2017",
+            "citations": "189"
+        },
+        {
+            "title": "Computer-aided melody note transcription using the Tony software: Accuracy and efficiency",
+            "authors": "M Mauch, C Cannam, R Bittner, G Fazekas, J Salamon, J Dai, J Bello, ...",
+            "publication": "",
+            "year": "2015",
+            "citations": "188"
+        },
+        {
+            "title": "Rethinking automatic chord recognition with convolutional neural networks",
+            "authors": "EJ Humphrey, JP Bello",
+            "publication": "2012 11th International Conference on Machine Learning and Applications 2 …, 2012",
+            "year": "2012",
+            "citations": "187"
+        }
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "name": "Brendan Dolan-Gavitt",
+    "affiliation": "New York University",
+    "url": "https://scholar.google.com/citations?user=MzAxRscAAAAJ&hl=en",
+    "papers": [
+        {
+            "title": "Badnets: Identifying vulnerabilities in the machine learning model supply chain",
+            "authors": "T Gu, B Dolan-Gavitt, S Garg",
+            "publication": "arXiv preprint arXiv:1708.06733, 2017",
+            "year": "2017",
+            "citations": "1824"
+        },
+        {
+            "title": "Fine-pruning: Defending against backdooring attacks on deep neural networks",
+            "authors": "K Liu, B Dolan-Gavitt, S Garg",
+            "publication": "International symposium on research in attacks, intrusions, and defenses …, 2018",
+            "year": "2018",
+            "citations": "1140"
+        },
+        {
+            "title": "Badnets: Evaluating backdooring attacks on deep neural networks",
+            "authors": "T Gu, K Liu, B Dolan-Gavitt, S Garg",
+            "publication": "IEEE Access 7, 47230-47244, 2019",
+            "year": "2019",
+            "citations": "1082"
+        },
+        {
+            "title": "Starcoder: may the source be with you!",
+            "authors": "R Li, LB Allal, Y Zi, N Muennighoff, D Kocetkov, C Mou, M Marone, C Akiki, ...",
+            "publication": "arXiv preprint arXiv:2305.06161, 2023",
+            "year": "2023",
+            "citations": "626"
+        },
+        {
+            "title": "Lava: Large-scale automated vulnerability addition",
+            "authors": "B Dolan-Gavitt, P Hulin, E Kirda, T Leek, A Mambretti, W Robertson, ...",
+            "publication": "2016 IEEE symposium on security and privacy (SP), 110-121, 2016",
+            "year": "2016",
+            "citations": "435"
+        },
+        {
+            "title": "Asleep at the keyboard? assessing the security of github copilot’s code contributions",
+            "authors": "H Pearce, B Ahmad, B Tan, B Dolan-Gavitt, R Karri",
+            "publication": "2022 IEEE Symposium on Security and Privacy (SP), 754-768, 2022",
+            "year": "2022",
+            "citations": "432"
+        },
+        {
+            "title": "Virtuoso: Narrowing the semantic gap in virtual machine introspection",
+            "authors": "B Dolan-Gavitt, T Leek, M Zhivich, J Giffin, W Lee",
+            "publication": "2011 IEEE symposium on security and privacy, 297-312, 2011",
+            "year": "2011",
+            "citations": "429"
+        },
+        {
+            "title": "Examining zero-shot vulnerability repair with large language models",
+            "authors": "H Pearce, B Tan, B Ahmad, R Karri, B Dolan-Gavitt",
+            "publication": "2023 IEEE Symposium on Security and Privacy (SP), 2339-2356, 2023",
+            "year": "2023",
+            "citations": "300"
+        },
+        {
+            "title": "Robust signatures for kernel data structures",
+            "authors": "B Dolan-Gavitt, A Srivastava, P Traynor, J Giffin",
+            "publication": "Proceedings of the 16th ACM conference on Computer and communications …, 2009",
+            "year": "2009",
+            "citations": "219"
+        },
+        {
+            "title": "Repeatable reverse engineering with PANDA",
+            "authors": "B Dolan-Gavitt, J Hodosh, P Hulin, T Leek, R Whelan",
+            "publication": "Proceedings of the 5th Program Protection and Reverse Engineering Workshop, 1-11, 2015",
+            "year": "2015",
+            "citations": "195"
+        },
+        {
+            "title": "Forensic analysis of the Windows registry in memory",
+            "authors": "B Dolan-Gavitt",
+            "publication": "digital investigation 5, S26-S32, 2008",
+            "year": "2008",
+            "citations": "136"
+        },
+        {
+            "title": "The VAD tree: A process-eye view of physical memory",
+            "authors": "B Dolan-Gavitt",
+            "publication": "digital investigation 4, 62-64, 2007",
+            "year": "2007",
+            "citations": "127"
+        },
+        {
+            "title": "Lost at c: A user study on the security implications of large language model code assistants",
+            "authors": "G Sandoval, H Pearce, T Nys, R Karri, S Garg, B Dolan-Gavitt",
+            "publication": "32nd USENIX Security Symposium (USENIX Security 23), 2205-2222, 2023",
+            "year": "2023",
+            "citations": "126"
+        },
+        {
+            "title": "Tappan zee (north) bridge: mining memory accesses for introspection",
+            "authors": "B Dolan-Gavitt, T Leek, J Hodosh, W Lee",
+            "publication": "Proceedings of the 2013 ACM SIGSAC conference on Computer & communications …, 2013",
+            "year": "2013",
+            "citations": "111"
+        },
+        {
+            "title": "Benchmarking large language models for automated verilog rtl code generation",
+            "authors": "S Thakur, B Ahmad, Z Fan, H Pearce, B Tan, R Karri, B Dolan-Gavitt, ...",
+            "publication": "2023 Design, Automation & Test in Europe Conference & Exhibition (DATE), 1-6, 2023",
+            "year": "2023",
+            "citations": "89"
+        },
+        {
+            "title": "Verigen: A large language model for verilog code generation",
+            "authors": "S Thakur, B Ahmad, H Pearce, B Tan, B Dolan-Gavitt, R Karri, S Garg",
+            "publication": "ACM Transactions on Design Automation of Electronic Systems 29 (3), 1-31, 2024",
+            "year": "2024",
+            "citations": "84"
+        },
+        {
+            "title": "Danish Contractor",
+            "authors": "R Li, LB Allal, Y Zi, N Muennighoff, D Kocetkov, C Mou, M Marone, C Akiki, ...",
+            "publication": "Siva Reddy, Daniel Fried, Dzmitry Bahdanau, Yacine Jernite, Carlos Muñoz …, 2023",
+            "year": "2023",
+            "citations": "84"
+        },
+        {
+            "title": "Leveraging forensic tools for virtual machine introspection",
+            "authors": "B Dolan-Gavitt, B Payne, W Lee",
+            "publication": "Gt-cs-11-05, Georgia Institute of Technology, 2011",
+            "year": "2011",
+            "citations": "79"
+        },
+        {
+            "title": "Nnoculation: Catching badnets in the wild",
+            "authors": "AK Veldanda, K Liu, B Tan, P Krishnamurthy, F Khorrami, R Karri, ...",
+            "publication": "Proceedings of the 14th ACM Workshop on Artificial Intelligence and Security …, 2021",
+            "year": "2021",
+            "citations": "78"
+        },
+        {
+            "title": "Bug synthesis: Challenging bug-finding tools with deep faults",
+            "authors": "S Roy, A Pandey, B Dolan-Gavitt, Y Hu",
+            "publication": "Proceedings of the 2018 26th ACM Joint Meeting on European Software …, 2018",
+            "year": "2018",
+            "citations": "77"
+        }
+    ]
+}

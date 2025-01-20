@@ -1,0 +1,147 @@
+{
+    "name": "Siddharth Garg",
+    "affiliation": "New York University",
+    "url": "https://scholar.google.com/citations?user=Yf8OqQQAAAAJ&hl=en&oi=ao",
+    "papers": [
+        {
+            "title": "Badnets: Identifying vulnerabilities in the machine learning model supply chain",
+            "authors": "T Gu, B Dolan-Gavitt, S Garg",
+            "publication": "arXiv preprint arXiv:1708.06733, 2017",
+            "year": "2017",
+            "citations": "1824"
+        },
+        {
+            "title": "Fine-pruning: Defending against backdooring attacks on deep neural networks",
+            "authors": "K Liu, B Dolan-Gavitt, S Garg",
+            "publication": "International Symposium on Research in Attacks, Intrusions, and Defenses …, 2018",
+            "year": "2018",
+            "citations": "1140"
+        },
+        {
+            "title": "Badnets: Evaluating backdooring attacks on deep neural networks",
+            "authors": "T Gu, K Liu, B Dolan-Gavitt, S Garg",
+            "publication": "IEEE Access 7, 47230-47244, 2019",
+            "year": "2019",
+            "citations": "1082"
+        },
+        {
+            "title": "Securing computer hardware using 3d integrated circuit ({IC}) technology and split manufacturing for obfuscation",
+            "authors": "F Imeson, A Emtenan, S Garg, M Tripunitara",
+            "publication": "22nd {USENIX} Security Symposium ({USENIX} Security 13), 495-510, 2013",
+            "year": "2013",
+            "citations": "261"
+        },
+        {
+            "title": "The EDA challenges in the dark silicon era: Temperature, reliability, and variability perspectives",
+            "authors": "M Shafique, S Garg, J Henkel, D Marculescu",
+            "publication": "Proceedings of the 51st Annual Design Automation Conference, 1-6, 2014",
+            "year": "2014",
+            "citations": "239"
+        },
+        {
+            "title": "Integrated circuit (IC) decamouflaging: Reverse engineering camouflaged ICs within minutes.",
+            "authors": "M El Massad, S Garg, MV Tripunitara",
+            "publication": "NDSS, 1-14, 2015",
+            "year": "2015",
+            "citations": "236"
+        },
+        {
+            "title": "Safetynets: Verifiable execution of deep neural networks on an untrusted cloud",
+            "authors": "Z Ghodsi, T Gu, S Garg",
+            "publication": "Advances in Neural Information Processing Systems 30, 2017",
+            "year": "2017",
+            "citations": "200"
+        },
+        {
+            "title": "Thundervolt: enabling aggressive voltage underscaling and timing error resilience for energy efficient deep learning accelerators",
+            "authors": "J Zhang, K Rangineni, Z Ghodsi, S Garg",
+            "publication": "Proceedings of the 55th Annual Design Automation Conference, 1-6, 2018",
+            "year": "2018",
+            "citations": "171"
+        },
+        {
+            "title": "Analyzing and mitigating the impact of permanent faults on a systolic array based neural network accelerator",
+            "authors": "JJ Zhang, T Gu, K Basu, S Garg",
+            "publication": "2018 IEEE 36th VLSI Test Symposium (VTS), 1-6, 2018",
+            "year": "2018",
+            "citations": "164"
+        },
+        {
+            "title": "Benchmarking large language models for automated verilog rtl code generation",
+            "authors": "S Thakur, B Ahmad, Z Fan, H Pearce, B Tan, R Karri, B Dolan-Gavitt, ...",
+            "publication": "2023 Design, Automation & Test in Europe Conference & Exhibition (DATE), 1-6, 2023",
+            "year": "2023",
+            "citations": "149"
+        },
+        {
+            "title": "Cherry-picking: Exploiting process variations in dark-silicon homogeneous chip multi-processors",
+            "authors": "B Raghunathan, Y Turakhia, S Garg, D Marculescu",
+            "publication": "2013 Design, Automation & Test in Europe Conference & Exhibition (DATE), 39-44, 2013",
+            "year": "2013",
+            "citations": "143"
+        },
+        {
+            "title": "Lost at c: A user study on the security implications of large language model code assistants",
+            "authors": "G Sandoval, H Pearce, T Nys, R Karri, S Garg, B Dolan-Gavitt",
+            "publication": "32nd USENIX Security Symposium (USENIX Security 23), 2205-2222, 2023",
+            "year": "2023",
+            "citations": "126"
+        },
+        {
+            "title": "Reverse engineering camouflaged sequential circuits without scan access",
+            "authors": "M El Massad, S Garg, M Tripunitara",
+            "publication": "2017 IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 33-40, 2017",
+            "year": "2017",
+            "citations": "115"
+        },
+        {
+            "title": "Securing hardware accelerators: A new challenge for high-level synthesis",
+            "authors": "C Pilato, S Garg, K Wu, R Karri, F Regazzoni",
+            "publication": "IEEE Embedded Systems Letters 10 (3), 77-80, 2017",
+            "year": "2017",
+            "citations": "102"
+        },
+        {
+            "title": "Chip-chat: Challenges and opportunities in conversational hardware design",
+            "authors": "J Blocklove, S Garg, R Karri, H Pearce",
+            "publication": "2023 ACM/IEEE 5th Workshop on Machine Learning for CAD (MLCAD), 1-6, 2023",
+            "year": "2023",
+            "citations": "98"
+        },
+        {
+            "title": "Deepreduce: Relu reduction for fast private inference",
+            "authors": "NK Jha, Z Ghodsi, S Garg, B Reagen",
+            "publication": "International Conference on Machine Learning, 4839-4849, 2021",
+            "year": "2021",
+            "citations": "93"
+        },
+        {
+            "title": "Verifiable asics",
+            "authors": "RS Wahby, M Howald, S Garg, A Shelat, M Walfish",
+            "publication": "2016 IEEE Symposium on Security and Privacy (SP), 759-778, 2016",
+            "year": "2016",
+            "citations": "93"
+        },
+        {
+            "title": "Cryptonas: Private inference on a relu budget",
+            "authors": "Z Ghodsi, AK Veldanda, B Reagen, S Garg",
+            "publication": "Advances in Neural Information Processing Systems 33, 16961-16971, 2020",
+            "year": "2020",
+            "citations": "91"
+        },
+        {
+            "title": "Fault-tolerant systolic array based accelerators for deep neural network execution",
+            "authors": "JJ Zhang, K Basu, S Garg",
+            "publication": "IEEE Design & Test 36 (5), 44-53, 2019",
+            "year": "2019",
+            "citations": "79"
+        },
+        {
+            "title": "HaDeS: architectural synthesis for heterogeneous dark silicon chip multi-processors",
+            "authors": "Y Turakhia, B Raghunathan, S Garg, D Marculescu",
+            "publication": "Proceedings of the 50th Annual Design Automation Conference, 1-7, 2013",
+            "year": "2013",
+            "citations": "79"
+        }
+    ]
+}

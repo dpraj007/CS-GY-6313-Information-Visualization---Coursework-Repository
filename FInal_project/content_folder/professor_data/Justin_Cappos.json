@@ -1,0 +1,147 @@
+{
+    "name": "Justin Cappos",
+    "affiliation": "Professor of Computer Science and Engineering, NYU",
+    "url": "https://scholar.google.com/citations?user=COE6KUgAAAAJ&hl=en",
+    "papers": [
+        {
+            "title": "Seattle: a platform for educational cloud computing",
+            "authors": "J Cappos, I Beschastnikh, A Krishnamurthy, T Anderson",
+            "publication": "Proceedings of the 40th ACM technical symposium on Computer science …, 2009",
+            "year": "2009",
+            "citations": "238"
+        },
+        {
+            "title": "{CHAINIAC}: Proactive {Software-Update} transparency via collectively signed skipchains and verified builds",
+            "authors": "K Nikitin, E Kokoris-Kogias, P Jovanovic, N Gailly, L Gasser, I Khoffi, ...",
+            "publication": "26th USENIX Security Symposium (USENIX Security 17), 1271-1287, 2017",
+            "year": "2017",
+            "citations": "180"
+        },
+        {
+            "title": "Survivable key compromise in software update systems",
+            "authors": "J Samuel, N Mathewson, J Cappos, R Dingledine",
+            "publication": "Proceedings of the 17th ACM conference on Computer and communications …, 2010",
+            "year": "2010",
+            "citations": "152"
+        },
+        {
+            "title": "A look in the mirror: Attacks on package managers",
+            "authors": "J Cappos, J Samuel, S Baker, JH Hartman",
+            "publication": "Proceedings of the 15th ACM conference on Computer and communications …, 2008",
+            "year": "2008",
+            "citations": "129"
+        },
+        {
+            "title": "\" On the internet, nobody knows you're a dog\" a twitter case study of anonymity in social networks",
+            "authors": "ST Peddinti, KW Ross, J Cappos",
+            "publication": "Proceedings of the second ACM conference on Online social networks, 83-94, 2014",
+            "year": "2014",
+            "citations": "119"
+        },
+        {
+            "title": "It's the psychology stupid: how heuristics explain software vulnerabilities and how priming can illuminate developer's blind spots",
+            "authors": "D Oliveira, M Rosenthal, N Morin, KC Yeh, J Cappos, Y Zhuang",
+            "publication": "Proceedings of the 30th Annual Computer Security Applications Conference …, 2014",
+            "year": "2014",
+            "citations": "112"
+        },
+        {
+            "title": "Uptane: Securing software updates for automobiles",
+            "authors": "T Karthik, A Brown, S Awwad, D McCoy, R Bielawski, C Mott, S Lauzon, ...",
+            "publication": "International Conference on Embedded Security in Car, 1-11, 2016",
+            "year": "2016",
+            "citations": "92"
+        },
+        {
+            "title": "{API} blindspots: Why experienced developers write vulnerable code",
+            "authors": "DS Oliveira, T Lin, MS Rahman, R Akefirad, D Ellis, E Perez, R Bobhate, ...",
+            "publication": "Fourteenth Symposium on Usable Privacy and Security (SOUPS 2018), 315-328, 2018",
+            "year": "2018",
+            "citations": "85"
+        },
+        {
+            "title": "Understanding password database compromises",
+            "authors": "D Mirante, J Cappos",
+            "publication": "Dept. of Computer Science and Engineering Polytechnic Inst. of NYU, Tech …, 2013",
+            "year": "2013",
+            "citations": "79"
+        },
+        {
+            "title": "Understanding misunderstandings in source code",
+            "authors": "D Gopstein, J Iannacone, Y Yan, L DeLong, Y Zhuang, MKC Yeh, ...",
+            "publication": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software …, 2017",
+            "year": "2017",
+            "citations": "72"
+        },
+        {
+            "title": "Retaining sandbox containment despite bugs in privileged memory-safe code",
+            "authors": "J Cappos, A Dadgar, J Rasley, J Samuel, I Beschastnikh, C Barsan, ...",
+            "publication": "Proceedings of the 17th ACM conference on Computer and communications …, 2010",
+            "year": "2010",
+            "citations": "64"
+        },
+        {
+            "title": "Diplomat: Using delegations to protect community repositories",
+            "authors": "TK Kuppusamy, S Torres-Arias, V Diaz, J Cappos",
+            "publication": "13th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2016",
+            "year": "2016",
+            "citations": "62"
+        },
+        {
+            "title": "Selectively taming background android apps to improve battery lifetime",
+            "authors": "M Martins, J Cappos, R Fonseca",
+            "publication": "2015 USENIX Annual Technical Conference (USENIX ATC 15), 563-575, 2015",
+            "year": "2015",
+            "citations": "55"
+        },
+        {
+            "title": "A first look at vehicle data collection via smartphone sensors",
+            "authors": "M Reininger, S Miller, Y Zhuang, J Cappos",
+            "publication": "2015 IEEE Sensors Applications Symposium (SAS), 1-6, 2015",
+            "year": "2015",
+            "citations": "52"
+        },
+        {
+            "title": "Uptane: Security and customizability of software updates for vehicles",
+            "authors": "TK Kuppusamy, LA DeLong, J Cappos",
+            "publication": "IEEE vehicular technology magazine 13 (1), 66-73, 2018",
+            "year": "2018",
+            "citations": "49"
+        },
+        {
+            "title": "User anonymity on twitter",
+            "authors": "ST Peddinti, KW Ross, J Cappos",
+            "publication": "IEEE Security & Privacy 15 (3), 84-87, 2017",
+            "year": "2017",
+            "citations": "48"
+        },
+        {
+            "title": "{Lock-in-Pop}: Securing Privileged Operating System Kernels by Keeping on the Beaten Path",
+            "authors": "Y Li, B Dolan-Gavitt, S Weber, J Cappos",
+            "publication": "2017 USENIX Annual Technical Conference (USENIX ATC 17), 1-13, 2017",
+            "year": "2017",
+            "citations": "48"
+        },
+        {
+            "title": "Measuring the fitness of fitness trackers",
+            "authors": "CG Bender, JC Hoffstot, BT Combs, S Hooshangi, J Cappos",
+            "publication": "2017 IEEE Sensors Applications Symposium (SAS), 1-6, 2017",
+            "year": "2017",
+            "citations": "47"
+        },
+        {
+            "title": "Package management security",
+            "authors": "J Cappos, J Samuel, S Baker, JH Hartman",
+            "publication": "University of Arizona Technical Report, 08-02, 2008",
+            "year": "2008",
+            "citations": "43"
+        },
+        {
+            "title": "{NetCheck}: Network Diagnoses from Blackbox Traces",
+            "authors": "Y Zhuang, E Gessiou, S Portzer, F Fund, M Muhammad, I Beschastnikh, ...",
+            "publication": "11th USENIX Symposium on Networked Systems Design and Implementation (NSDI …, 2014",
+            "year": "2014",
+            "citations": "41"
+        }
+    ]
+}

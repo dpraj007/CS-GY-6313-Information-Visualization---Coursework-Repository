@@ -1,0 +1,147 @@
+{
+    "name": "Chen Feng (冯晨)",
+    "affiliation": "New York University",
+    "url": "https://scholar.google.com/citations?user=YeG8ZM0AAAAJ&hl=en",
+    "papers": [
+        {
+            "title": "FoldingNet: Point cloud auto-encoder via deep grid deformation",
+            "authors": "Y Yang, C Feng, Y Shen, D Tian",
+            "publication": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 206-215, 2018",
+            "year": "2018",
+            "citations": "1440"
+        },
+        {
+            "title": "Mining Point Cloud Local Structures by Kernel Correlation and Graph Pooling",
+            "authors": "Y Shen, C Feng, Y Yang, D Tian",
+            "publication": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 4, 2018",
+            "year": "2018",
+            "citations": "638"
+        },
+        {
+            "title": "Geometric distortion metrics for point cloud compression",
+            "authors": "D Tian, H Ochimizu, C Feng, R Cohen, A Vetro",
+            "publication": "2017 IEEE International Conference on Image Processing (ICIP), 3460-3464, 2017",
+            "year": "2017",
+            "citations": "394"
+        },
+        {
+            "title": "CASENet: Deep Category-Aware Semantic Edge Detection",
+            "authors": "Z Yu, C Feng, MY Liu, S Ramalingam",
+            "publication": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 5964--5973, 2017",
+            "year": "2017",
+            "citations": "364"
+        },
+        {
+            "title": "Point-Plane SLAM for Hand-Held 3D Sensors",
+            "authors": "Y Taguchi, YD Jian, S Ramalingam, C Feng",
+            "publication": "IEEE International Conference on Robotics and Automation (ICRA), 2013",
+            "year": "2013",
+            "citations": "284"
+        },
+        {
+            "title": "Fast plane extraction in organized point clouds using agglomerative hierarchical clustering",
+            "authors": "C Feng, Y Taguchi, VR Kamat",
+            "publication": "2014 IEEE International Conference on Robotics and Automation (ICRA), 6218-6225, 2014",
+            "year": "2014",
+            "citations": "243"
+        },
+        {
+            "title": "Fast resampling of three-dimensional point clouds via graphs",
+            "authors": "S Chen, D Tian, C Feng, A Vetro, J Kovačević",
+            "publication": "IEEE Transactions on Signal Processing 66 (3), 666-681, 2017",
+            "year": "2017",
+            "citations": "241"
+        },
+        {
+            "title": "3D Point Cloud Processing and Learning for Autonomous Driving: Impacting Map Creation, Localization, and Perception",
+            "authors": "S Chen, B Liu, C Feng, C Vallespi-Gonzalez, C Wellington",
+            "publication": "IEEE Signal Processing Magazine 38 (1), 68-86, 2020",
+            "year": "2020",
+            "citations": "205"
+        },
+        {
+            "title": "V2X-Sim: Multi-Agent Collaborative Perception Dataset and Benchmark for Autonomous Driving",
+            "authors": "Y Li, D Ma, Z An, Z Wang, Y Zhong, S Chen, C Feng",
+            "publication": "IEEE Robotics and Automation Letters 7 (4), 10914-10921, 2022",
+            "year": "2022",
+            "citations": "193"
+        },
+        {
+            "title": "Deep Active Learning for Civil Infrastructure Defect Detection and Classification",
+            "authors": "C Feng, MY Liu, CC Kao, TY Lee",
+            "publication": "Computing in Civil Engineering 2017, 298-306, 2017",
+            "year": "2017",
+            "citations": "191"
+        },
+        {
+            "title": "Learning distilled collaboration graph for multi-agent perception",
+            "authors": "Y Li, S Ren, P Wu, S Chen, C Feng, W Zhang",
+            "publication": "Advances in Neural Information Processing Systems 34, 29541-29552, 2021",
+            "year": "2021",
+            "citations": "188"
+        },
+        {
+            "title": "LUVLi Face Alignment: Estimating Landmarks' Location, Uncertainty, and Visibility Likelihood",
+            "authors": "A Kumar, TK Marks, W Mou, Y Wang, M Jones, A Cherian, T Koike-Akino, ...",
+            "publication": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 8236-8246, 2020",
+            "year": "2020",
+            "citations": "182"
+        },
+        {
+            "title": "Vision guided autonomous robotic assembly and as-built scanning on unstructured construction sites",
+            "authors": "C Feng, Y Xiao, A Willette, W McGee, VR Kamat",
+            "publication": "Automation in Construction 59, 128-138, 2015",
+            "year": "2015",
+            "citations": "178"
+        },
+        {
+            "title": "Voxformer: Sparse voxel transformer for camera-based 3d semantic scene completion",
+            "authors": "Y Li, Z Yu, C Choy, C Xiao, JM Alvarez, S Fidler, C Feng, A Anandkumar",
+            "publication": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 9087-9098, 2023",
+            "year": "2023",
+            "citations": "174"
+        },
+        {
+            "title": "Collaborative visualization of engineering processes using tabletop augmented reality",
+            "authors": "S Dong, AH Behzadan, C Feng, VR Kamat",
+            "publication": "Advances in Engineering Software 55, 45-55, 2013",
+            "year": "2013",
+            "citations": "161"
+        },
+        {
+            "title": "Method for extracting planes from 3D point cloud sensor data",
+            "authors": "C Feng, Y Taguchi, V Kamat",
+            "publication": "US Patent 9,412,040 B2, 2013",
+            "year": "2013",
+            "citations": "152"
+        },
+        {
+            "title": "Simultaneous Edge Alignment and Learning",
+            "authors": "Z Yu, W Liu, Y Zou, C Feng, S Ramalingam, BVK Vijaya Kumar, J Kautz",
+            "publication": "European Conference on Computer Vision (ECCV), 388-404, 2018",
+            "year": "2018",
+            "citations": "102"
+        },
+        {
+            "title": "An Occupancy Grid Mapping enhanced visual SLAM for real-time locating applications in indoor GPS-denied environments",
+            "authors": "L Xu, C Feng, VR Kamat, CC Menassa",
+            "publication": "Automation in Construction 104, 230-245, 2019",
+            "year": "2019",
+            "citations": "94"
+        },
+        {
+            "title": "Deep unsupervised learning of 3D point clouds via graph topology inference and filtering",
+            "authors": "S Chen, C Duan, Y Yang, D Li, C Feng, D Tian",
+            "publication": "IEEE Transactions on Image Processing 29, 3183-3198, 2019",
+            "year": "2019",
+            "citations": "80"
+        },
+        {
+            "title": "DeepMapping: Unsupervised map estimation from multiple point clouds",
+            "authors": "L Ding, C Feng",
+            "publication": "IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 8650-8659, 2019",
+            "year": "2019",
+            "citations": "79"
+        }
+    ]
+}

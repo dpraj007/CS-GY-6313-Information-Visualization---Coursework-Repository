@@ -1,0 +1,147 @@
+{
+    "name": "Edward K Wong",
+    "affiliation": "NYU Tandon School of Engineering",
+    "url": "https://scholar.google.com/citations?user=f7laURkAAAAJ&hl=en",
+    "papers": [
+        {
+            "title": "3D Deep Shape Descriptor",
+            "authors": "Y Fang, J Xie, G Dai, M Wang, F Zhu, T Xu, E Wong",
+            "publication": "Proceedings of the IEEE Conference on Computer Vision and Pattern …, 2015",
+            "year": "2015",
+            "citations": "257"
+        },
+        {
+            "title": "A new robust algorithm for video text extraction",
+            "authors": "EK Wong, M Chen",
+            "publication": "Pattern Recognition 36 (6), 1397-1406, 2003",
+            "year": "2003",
+            "citations": "210"
+        },
+        {
+            "title": "Deepshape: Deep learned shape descriptor for 3d shape matching and retrieval",
+            "authors": "J Xie, Y Fang, F Zhu, E Wong",
+            "publication": "Proceedings of the IEEE Conference on Computer Vision and Pattern …, 2015",
+            "year": "2015",
+            "citations": "181"
+        },
+        {
+            "title": "Attention Mask R-CNN for Ship Detection and Segmentation From Remote Sensing Images",
+            "authors": "X Nie, M Duan, H Ding, B Hu, EK Wong",
+            "publication": "IEEE Access 8, 9325-9334, 2020",
+            "year": "2020",
+            "citations": "177"
+        },
+        {
+            "title": "Integration of multimodal features for video scene classification based on HMM",
+            "authors": "J Huang, Z Liu, Y Wang, Y Chen, EK Wong",
+            "publication": "1999 IEEE Third Workshop on Multimedia Signal Processing (Cat. No. 99TH8451 …, 1999",
+            "year": "1999",
+            "citations": "158"
+        },
+        {
+            "title": "Data hiding in binary text documents",
+            "authors": "QG Mei, EK Wong, ND Memon",
+            "publication": "Security and watermarking of multimedia contents III 4314, 369-375, 2001",
+            "year": "2001",
+            "citations": "156"
+        },
+        {
+            "title": "Deepshape: Deep-learned shape descriptor for 3D shape retrieval",
+            "authors": "J Xie, G Dai, F Zhu, EK Wong, Y Fang",
+            "publication": "IEEE transactions on pattern analysis and machine intelligence 39 (7), 1335-1345, 2016",
+            "year": "2016",
+            "citations": "154"
+        },
+        {
+            "title": "Model matching in robot vision by subgraph isomorphism",
+            "authors": "EK Wong",
+            "publication": "Pattern Recognition 25 (3), 287-303, 1992",
+            "year": "1992",
+            "citations": "150"
+        },
+        {
+            "title": "Spatial Image Steganography Based on Generative Adversarial Network",
+            "authors": "J Yang, K Liu, X Kang, EK Wong, YQ Shi",
+            "publication": "arXiv preprint arXiv:1804.07939, 2018",
+            "year": "2018",
+            "citations": "101"
+        },
+        {
+            "title": "Random faces guided sparse many-to-one encoder for pose-invariant face recognition",
+            "authors": "Y Zhang, M Shao, EK Wong, Y Fu",
+            "publication": "Proceedings of the IEEE International Conference on Computer Vision, 2416-2423, 2013",
+            "year": "2013",
+            "citations": "85"
+        },
+        {
+            "title": "COMPUTER-AIDED INTELLIGENT RECOGNITION TECHNIQUES AND APPLICATIONS",
+            "authors": "M Sarfraz",
+            "publication": "",
+            "year": "2005",
+            "citations": "77"
+        },
+        {
+            "title": "Pavement distress analysis using image processing techniques",
+            "authors": "DS Mahler, ZB Kharoufa, EK Wong, LG Shaw",
+            "publication": "Computer‐Aided Civil and Infrastructure Engineering 6 (1), 1-14, 1991",
+            "year": "1991",
+            "citations": "65"
+        },
+        {
+            "title": "Recent developments in document image watermarking and data hiding",
+            "authors": "M Chen, EK Wong, ND Memon, SF Adams",
+            "publication": "Multimedia Systems and Applications IV 4518, 166-176, 2001",
+            "year": "2001",
+            "citations": "56"
+        },
+        {
+            "title": "A hierarchical orthogonal space approach to three-dimensional path planning",
+            "authors": "E Wong, K Fu",
+            "publication": "IEEE Journal on Robotics and Automation 2 (1), 42-53, 1986",
+            "year": "1986",
+            "citations": "52"
+        },
+        {
+            "title": "JPEG Steganalysis Based on DenseNet",
+            "authors": "J Yang, YQ Shi, EK Wong, X Kang",
+            "publication": "arXiv preprint arXiv:1711.09335, 2017",
+            "year": "2017",
+            "citations": "48"
+        },
+        {
+            "title": "Cross-Safe: A computer vision-based approach to make all intersection-related pedestrian signals accessible for the visually impaired",
+            "authors": "X Li, H Cui, JR Rizzo, E Wong, Y Fang",
+            "publication": "Science and Information Conference, 132-146, 2019",
+            "year": "2019",
+            "citations": "45"
+        },
+        {
+            "title": "Augmented image histogram for image and video similarity search",
+            "authors": "Y Chen, EK Wong",
+            "publication": "Storage and Retrieval for Image and Video Databases VII 3656, 523-532, 1998",
+            "year": "1998",
+            "citations": "45"
+        },
+        {
+            "title": "A robust algorithm for text extraction in color video",
+            "authors": "EK Wong, M Chen",
+            "publication": "2000 IEEE International Conference on Multimedia and Expo. ICME2000 …, 2000",
+            "year": "2000",
+            "citations": "44"
+        },
+        {
+            "title": "Dual many-to-one-encoder-based transfer learning for cross-dataset human action recognition",
+            "authors": "T Xu, F Zhu, EK Wong, Y Fang",
+            "publication": "Image and Vision Computing 55, 127-137, 2016",
+            "year": "2016",
+            "citations": "43"
+        },
+        {
+            "title": "Steganalysis Based on Awareness of Selection-Channel and Deep Learning",
+            "authors": "J Yang, K Liu, X Kang, E Wong, Y Shi",
+            "publication": "International Workshop on Digital Watermarking, 263-272, 2017",
+            "year": "2017",
+            "citations": "42"
+        }
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "name": "Boris Aronov",
+    "affiliation": "Professor of Computer Science, Tandon School of Engineering, New York University",
+    "url": "https://scholar.google.com/citations?user=q82gOawAAAAJ&hl=en",
+    "papers": [
+        {
+            "title": "Minkowski-type theorems and least-squares clustering",
+            "authors": "F Aurenhammer, F Hoffmann, B Aronov",
+            "publication": "Algorithmica 20, 61-76, 1998",
+            "year": "1998",
+            "citations": "284"
+        },
+        {
+            "title": "Fréchet distance for curves, revisited",
+            "authors": "B Aronov, S Har-Peled, C Knauer, Y Wang, C Wenk",
+            "publication": "Algorithms–ESA 2006: 14th Annual European Symposium, Zurich, Switzerland …, 2006",
+            "year": "2006",
+            "citations": "197"
+        },
+        {
+            "title": "Small-size ε-nets for axis-parallel rectangles and boxes",
+            "authors": "B Aronov, E Ezra, M Shair",
+            "publication": "Proceedings of the forty-first annual ACM symposium on Theory of computing …, 2009",
+            "year": "2009",
+            "citations": "188"
+        },
+        {
+            "title": "On approximating the depth and related problems",
+            "authors": "B Aronov, S Har-Peled",
+            "publication": "SIAM Journal on Computing 38 (3), 899-921, 2008",
+            "year": "2008",
+            "citations": "182"
+        },
+        {
+            "title": "Quasi-planar graphs have a linear number of edges",
+            "authors": "PK Agarwal, B Aronov, J Pach, R Pollack, M Sharir",
+            "publication": "Combinatorica 17 (1), 1-9, 1997",
+            "year": "1997",
+            "citations": "170"
+        },
+        {
+            "title": "On compatible triangulations of simple polygons",
+            "authors": "B Aronov, R Seidel, D Souvaine",
+            "publication": "Computational Geometry 3 (1), 27-35, 1993",
+            "year": "1993",
+            "citations": "145"
+        },
+        {
+            "title": "Star unfolding of a polytope with applications",
+            "authors": "PK Agarwal, B Aronov, J O'Rourke, CA Schevon",
+            "publication": "SIAM Journal on Computing 26 (6), 1689-1713, 1997",
+            "year": "1997",
+            "citations": "123"
+        },
+        {
+            "title": "On the geodesic Voronoi diagram of point sites in a simple polygon",
+            "authors": "B Aronov",
+            "publication": "Proceedings of the third annual symposium on Computational geometry, 39-49, 1987",
+            "year": "1987",
+            "citations": "121"
+        },
+        {
+            "title": "On levels in arrangements of lines, segments, planes, and triangles",
+            "authors": "PK Agarwal, B Aronov, M Sharir",
+            "publication": "Proceedings of the thirteenth annual symposium on Computational geometry, 30-38, 1997",
+            "year": "1997",
+            "citations": "117"
+        },
+        {
+            "title": "Nearest-neighbor searching under uncertainty II",
+            "authors": "PK Agarwal, B Aronov, S Har-Peled, JM Phillips, K Yi, W Zhang",
+            "publication": "ACM Transactions on Algorithms (TALG) 13 (1), 1-25, 2016",
+            "year": "2016",
+            "citations": "107"
+        },
+        {
+            "title": "Nonoverlap of the star unfolding",
+            "authors": "B Aronov, J O'rourke",
+            "publication": "Proceedings of the seventh annual symposium on Computational geometry, 105-114, 1991",
+            "year": "1991",
+            "citations": "106"
+        },
+        {
+            "title": "Triangles in space or building (and analyzing) castles in the air",
+            "authors": "B Aronov, M Sharir",
+            "publication": "Proceedings of the fourth annual symposium on Computational geometry, 381-391, 1988",
+            "year": "1988",
+            "citations": "105"
+        },
+        {
+            "title": "Computing envelopes in four dimensions with applications",
+            "authors": "PK Agarwal, B Aronov, M Sharir",
+            "publication": "Proceedings of the tenth annual symposium on Computational geometry, 348-358, 1994",
+            "year": "1994",
+            "citations": "103"
+        },
+        {
+            "title": "Selecting distances in the plane",
+            "authors": "PK Agarwal, B Aronov, M Sharir, S Suri",
+            "publication": "Proceedings of the sixth annual symposium on Computational geometry, 321-331, 1990",
+            "year": "1990",
+            "citations": "98"
+        },
+        {
+            "title": "Can visibility graphs be represented compactly?",
+            "authors": "PK Agarwal, N Alon, B Aronov, S Suri",
+            "publication": "Proceedings of the ninth annual symposium on Computational geometry, 338-347, 1993",
+            "year": "1993",
+            "citations": "95"
+        },
+        {
+            "title": "Crossing families",
+            "authors": "B Aronov, P Erdős, W Goddard, DJ Kleitman, M Klugerman, J Pach, ...",
+            "publication": "Proceedings of the seventh annual symposium on Computational geometry, 351-356, 1991",
+            "year": "1991",
+            "citations": "90"
+        },
+        {
+            "title": "Line transversals of balls and smallest enclosing cylinders in three dimensions",
+            "authors": "PK Agarwal, B Aronov, M Sharir",
+            "publication": "Discrete & Computational Geometry 21, 373-388, 1999",
+            "year": "1999",
+            "citations": "89"
+        },
+        {
+            "title": "On the zone of a surface in a hyperplane arrangement",
+            "authors": "B Aronov, M Pellegrini, M Sharir",
+            "publication": "Discrete & computational geometry 9, 177-186, 1993",
+            "year": "1993",
+            "citations": "89"
+        },
+        {
+            "title": "Points and triangles in the plane and halving planes in space",
+            "authors": "B Aronov, B Chazelle, H Edelsbrunner, LJ Guibas, M Sharir, R Wenger",
+            "publication": "Proceedings of the sixth annual symposium on Computational geometry, 112-115, 1990",
+            "year": "1990",
+            "citations": "87"
+        },
+        {
+            "title": "Motion planning for multiple robots",
+            "authors": "B Aronov, M de Berg, AF van der Stappen, P Švestka, J Vleugels",
+            "publication": "Proceedings of the fourteenth annual symposium on Computational geometry …, 1998",
+            "year": "1998",
+            "citations": "83"
+        }
+    ]
+}

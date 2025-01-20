@@ -1,0 +1,147 @@
+{
+    "name": "Julian Togelius",
+    "affiliation": "Associate Professor of Computer Science and Engineering, New York University; co-founder, modl.ai",
+    "url": "https://scholar.google.com/citations?user=lr4I9BwAAAAJ&hl=en",
+    "papers": [
+        {
+            "title": "Search-based procedural content generation: A taxonomy and survey",
+            "authors": "J Togelius, GN Yannakakis, KO Stanley, C Browne",
+            "publication": "IEEE Transactions on Computational Intelligence and AI in Games 3 (3), 172-186, 2011",
+            "year": "2011",
+            "citations": "939"
+        },
+        {
+            "title": "Procedural Content Generation In Games",
+            "authors": "N Shaker, J Togelius, MJ Nelson",
+            "publication": "Springer, 2016",
+            "year": "2016",
+            "citations": "912"
+        },
+        {
+            "title": "Artificial intelligence and games",
+            "authors": "GN Yannakakis, J Togelius",
+            "publication": "Springer, 2018",
+            "year": "2018",
+            "citations": "707"
+        },
+        {
+            "title": "Experience-driven procedural content generation",
+            "authors": "GN Yannakakis, J Togelius",
+            "publication": "IEEE Transactions on Affective Computing 2 (3), 147-161, 2011",
+            "year": "2011",
+            "citations": "635"
+        },
+        {
+            "title": "Procedural content generation via machine learning (PCGML)",
+            "authors": "A Summerville, S Snodgrass, M Guzdial, C Holmgård, AK Hoover, ...",
+            "publication": "IEEE Transactions on Games 10 (3), 257-270, 2018",
+            "year": "2018",
+            "citations": "455"
+        },
+        {
+            "title": "Towards automatic personalised content creation for racing games",
+            "authors": "J Togelius, R De Nardi, SM Lucas",
+            "publication": "2007 IEEE Symposium on Computational Intelligence and Games, 252-259, 2007",
+            "year": "2007",
+            "citations": "385"
+        },
+        {
+            "title": "An experiment in automatic game design",
+            "authors": "J Togelius, J Schmidhuber",
+            "publication": "2008 IEEE Symposium On Computational Intelligence and Games, 111-118, 2008",
+            "year": "2008",
+            "citations": "334"
+        },
+        {
+            "title": "Modeling player experience for content creation",
+            "authors": "C Pedersen, J Togelius, GN Yannakakis",
+            "publication": "IEEE Transactions on Computational Intelligence and AI in Games 2 (1), 54-67, 2010",
+            "year": "2010",
+            "citations": "331"
+        },
+        {
+            "title": "Deep learning for video game playing",
+            "authors": "N Justesen, P Bontrager, J Togelius, S Risi",
+            "publication": "IEEE Transactions on Games 12 (1), 1-20, 2019",
+            "year": "2019",
+            "citations": "330"
+        },
+        {
+            "title": "Towards automatic personalized content generation for platform games",
+            "authors": "N Shaker, G Yannakakis, J Togelius",
+            "publication": "Proceedings of the AAAI Conference on Artificial Intelligence and …, 2010",
+            "year": "2010",
+            "citations": "315"
+        },
+        {
+            "title": "Sentient sketchbook: computer-assisted game level authoring",
+            "authors": "A Liapis, GN Yannakakis, J Togelius",
+            "publication": "ACM, 2013",
+            "year": "2013",
+            "citations": "309"
+        },
+        {
+            "title": "Alphastar: An evolutionary computation perspective",
+            "authors": "K Arulkumaran, A Cully, J Togelius",
+            "publication": "Proceedings of the genetic and evolutionary computation conference companion …, 2019",
+            "year": "2019",
+            "citations": "290"
+        },
+        {
+            "title": "What is procedural content generation? Mario on the borderline",
+            "authors": "J Togelius, E Kastbjerg, D Schedl, GN Yannakakis",
+            "publication": "Proceedings of the 2nd international workshop on procedural content …, 2011",
+            "year": "2011",
+            "citations": "276"
+        },
+        {
+            "title": "The 2014 General Video Game Playing Competition",
+            "authors": "D Perez, S Samothrakis, J Togelius, T Schaul, S Lucas, A Couëtoux, ...",
+            "publication": "IEEE Transactions on Computational Intelligence and AI in Games, 2015",
+            "year": "2015",
+            "citations": "274"
+        },
+        {
+            "title": "A panorama of artificial and computational intelligence in games",
+            "authors": "GN Yannakakis, J Togelius",
+            "publication": "IEEE Transactions on Computational Intelligence and AI in Games 7 (4), 317-335, 2014",
+            "year": "2014",
+            "citations": "260"
+        },
+        {
+            "title": "Cellular automata for real-time generation of infinite cave levels",
+            "authors": "L Johnson, GN Yannakakis, J Togelius",
+            "publication": "Proceedings of the 2010 Workshop on Procedural Content Generation in Games, 1-4, 2010",
+            "year": "2010",
+            "citations": "251"
+        },
+        {
+            "title": "DeepMasterPrints: Generating MasterPrints for Dictionary Attacks via Latent Variable Evolution*",
+            "authors": "P Bontrager, A Roy, J Togelius, N Memon, A Ross",
+            "publication": "2018 IEEE 9th International Conference on Biometrics Theory, Applications …, 2018",
+            "year": "2018",
+            "citations": "246"
+        },
+        {
+            "title": "The 2009 mario ai competition",
+            "authors": "J Togelius, S Karakovskiy, R Baumgarten",
+            "publication": "IEEE Congress on Evolutionary Computation, 1-8, 2010",
+            "year": "2010",
+            "citations": "245"
+        },
+        {
+            "title": "Modeling player experience in super mario bros",
+            "authors": "C Pedersen, J Togelius, GN Yannakakis",
+            "publication": "2009 IEEE Symposium on Computational Intelligence and Games, 132-139, 2009",
+            "year": "2009",
+            "citations": "242"
+        },
+        {
+            "title": "The mario ai benchmark and competitions",
+            "authors": "S Karakovskiy, J Togelius",
+            "publication": "IEEE Transactions on Computational Intelligence and AI in Games 4 (1), 55-67, 2012",
+            "year": "2012",
+            "citations": "238"
+        }
+    ]
+}

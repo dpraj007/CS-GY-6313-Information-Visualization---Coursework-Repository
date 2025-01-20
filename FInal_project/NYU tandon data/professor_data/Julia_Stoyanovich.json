@@ -1,0 +1,147 @@
+{
+    "name": "Julia Stoyanovich",
+    "affiliation": "New York University",
+    "url": "https://scholar.google.com/citations?user=UhJRkaIAAAAJ",
+    "papers": [
+        {
+            "title": "Measuring fairness in ranked outputs",
+            "authors": "K Yang, J Stoyanovich",
+            "publication": "Proceedings of the 29th international conference on scientific and …, 2017",
+            "year": "2017",
+            "citations": "425"
+        },
+        {
+            "title": "Putting lipstick on pig: Enabling database-style workflow provenance",
+            "authors": "Y Amsterdamer, SB Davidson, D Deutch, T Milo, J Stoyanovich, V Tannen",
+            "publication": "arXiv preprint arXiv:1201.0231, 2011",
+            "year": "2011",
+            "citations": "205"
+        },
+        {
+            "title": "Designing fair ranking schemes",
+            "authors": "A Asudeh, HV Jagadish, J Stoyanovich, G Das",
+            "publication": "Proceedings of the 2019 international conference on management of data, 1259 …, 2019",
+            "year": "2019",
+            "citations": "203"
+        },
+        {
+            "title": "Datasynthesizer: Privacy-preserving synthetic datasets",
+            "authors": "H Ping, J Stoyanovich, B Howe",
+            "publication": "Proceedings of the 29th International Conference on Scientific and …, 2017",
+            "year": "2017",
+            "citations": "203"
+        },
+        {
+            "title": "Diversity in big data: A review",
+            "authors": "M Drosou, HV Jagadish, E Pitoura, J Stoyanovich",
+            "publication": "Big data 5 (2), 73-84, 2017",
+            "year": "2017",
+            "citations": "179"
+        },
+        {
+            "title": "Efficient network aware search in collaborative tagging sites",
+            "authors": "SA Yahia, M Benedikt, LVS Lakshmanan, J Stoyanovich",
+            "publication": "Proceedings of the VLDB Endowment 1 (1), 710-721, 2008",
+            "year": "2008",
+            "citations": "152"
+        },
+        {
+            "title": "Automatically and adaptively determining execution plans for queries with parameter markers",
+            "authors": "W Fan, GM Lohman, VG Markl, N Megiddo, J Rao, DE Simmen, ...",
+            "publication": "US Patent App. 11/673,091, 2008",
+            "year": "2008",
+            "citations": "143"
+        },
+        {
+            "title": "A nutritional label for rankings",
+            "authors": "K Yang, J Stoyanovich, A Asudeh, B Howe, HV Jagadish, G Miklau",
+            "publication": "Proceedings of the 2018 international conference on management of data, 1773 …, 2018",
+            "year": "2018",
+            "citations": "132"
+        },
+        {
+            "title": "Responsible data management",
+            "authors": "J Stoyanovich, B Howe, HV Jagadish",
+            "publication": "Proceedings of the VLDB Endowment 13 (12), 2020",
+            "year": "2020",
+            "citations": "113"
+        },
+        {
+            "title": "On provenance and privacy",
+            "authors": "SB Davidson, S Khanna, S Roy, J Stoyanovich, V Tannen, Y Chen",
+            "publication": "Proceedings of the 14th International Conference on Database Theory, 3-10, 2011",
+            "year": "2011",
+            "citations": "109"
+        },
+        {
+            "title": "Fairness in ranking: A survey",
+            "authors": "M Zehlike, K Yang, J Stoyanovich",
+            "publication": "arXiv preprint arXiv:2103.14000, 2021",
+            "year": "2021",
+            "citations": "104"
+        },
+        {
+            "title": "Online set selection with fairness and diversity constraints",
+            "authors": "J Stoyanovich, K Yang, HV Jagadish",
+            "publication": "Proceedings of the EDBT Conference, 2018",
+            "year": "2018",
+            "citations": "98"
+        },
+        {
+            "title": "Fairness in ranking, part i: Score-based ranking",
+            "authors": "M Zehlike, K Yang, J Stoyanovich",
+            "publication": "ACM Computing Surveys 55 (6), 1-36, 2022",
+            "year": "2022",
+            "citations": "95"
+        },
+        {
+            "title": "It’s just not that simple: an empirical study of the accuracy-explainability trade-off in machine learning for public policy",
+            "authors": "A Bell, I Solano-Kamaiko, O Nov, J Stoyanovich",
+            "publication": "Proceedings of the 2022 ACM conference on fairness, accountability, and …, 2022",
+            "year": "2022",
+            "citations": "85"
+        },
+        {
+            "title": "Balanced ranking with diversity constraints",
+            "authors": "K Yang, V Gkatzelis, J Stoyanovich",
+            "publication": "arXiv preprint arXiv:1906.01747, 2019",
+            "year": "2019",
+            "citations": "76"
+        },
+        {
+            "title": "Fairness in ranking, part ii: Learning-to-rank and recommender systems",
+            "authors": "M Zehlike, K Yang, J Stoyanovich",
+            "publication": "ACM Computing Surveys 55 (6), 1-41, 2022",
+            "year": "2022",
+            "citations": "75"
+        },
+        {
+            "title": "Research directions for principles of data management (dagstuhl perspectives workshop 16151)",
+            "authors": "S Abiteboul, M Arenas, P Barceló, M Bienvenu, D Calvanese, C David, ...",
+            "publication": "Schloss-Dagstuhl-Leibniz Zentrum für Informatik, 2018",
+            "year": "2018",
+            "citations": "73"
+        },
+        {
+            "title": "Automatically and adaptively determining execution plans for queries with parameter markers",
+            "authors": "W Fan, GM Lohman, VG Markl, N Megiddo, J Rao, DE Simmen, ...",
+            "publication": "US Patent 7,958,113, 2011",
+            "year": "2011",
+            "citations": "72"
+        },
+        {
+            "title": "Leveraging Tagging to Model User Interests in del. icio. us.",
+            "authors": "J Stoyanovich, S Amer-Yahia, C Marlow, C Yu",
+            "publication": "AAAI Spring Symposium: Social Information Processing, 104-109, 2008",
+            "year": "2008",
+            "citations": "70"
+        },
+        {
+            "title": "Nutritional labels for data and models",
+            "authors": "J Stoyanovich, B Howe",
+            "publication": "A Quarterly bulletin of the Computer Society of the IEEE Technical Committee …, 2019",
+            "year": "2019",
+            "citations": "66"
+        }
+    ]
+}

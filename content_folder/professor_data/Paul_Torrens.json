@@ -1,0 +1,147 @@
+{
+    "name": "Paul Torrens",
+    "affiliation": "New York University",
+    "url": "https://scholar.google.com/citations?user=5w-u8x8AAAAJ&hl=en",
+    "papers": [
+        {
+            "title": "Geosimulation: Automata-based modeling of urban phenomena",
+            "authors": "I Benenson, P Torrens",
+            "publication": "John Wiley & Sons, 2004",
+            "year": "2004",
+            "citations": "980"
+        },
+        {
+            "title": "Measuring sprawl",
+            "authors": "PM Torrens, M Alberti",
+            "publication": "Centre for Advanced Spatial Analysis (UCL), 2000",
+            "year": "2000",
+            "citations": "564"
+        },
+        {
+            "title": "Cellular automata and urban simulation: where do we go from here?",
+            "authors": "PM Torrens, D O'Sullivan",
+            "publication": "Environment and planning B: planning and design 28 (2), 163-168, 2001",
+            "year": "2001",
+            "citations": "476"
+        },
+        {
+            "title": "Modelling and prediction in a complex world",
+            "authors": "M Batty, PM Torrens",
+            "publication": "Futures 37 (7), 745-766, 2005",
+            "year": "2005",
+            "citations": "363"
+        },
+        {
+            "title": "Agent-based models of land-use and land-cover change",
+            "authors": "DC Parker, T Berger, SM Manson, WJ McConnell",
+            "publication": "LUCC, 2002",
+            "year": "2002",
+            "citations": "338"
+        },
+        {
+            "title": "Geographic automata systems",
+            "authors": "PM Torrens, I Benenson",
+            "publication": "International Journal of Geographical Information Science 19 (4), 385-412, 2005",
+            "year": "2005",
+            "citations": "331"
+        },
+        {
+            "title": "A toolkit for measuring sprawl",
+            "authors": "PM Torrens",
+            "publication": "Applied Spatial Analysis and Policy 1, 5-36, 2008",
+            "year": "2008",
+            "citations": "314"
+        },
+        {
+            "title": "Modelling complexity: the limits to prediction",
+            "authors": "M Batty, PM Torrens",
+            "publication": "Cybergeo: European Journal of Geography, 2001",
+            "year": "2001",
+            "citations": "302"
+        },
+        {
+            "title": "Simulating sprawl",
+            "authors": "PM Torrens",
+            "publication": "Annals of the Association of American Geographers 96 (2), 248-275, 2006",
+            "year": "2006",
+            "citations": "250"
+        },
+        {
+            "title": "Visualizing the city: communicating urban design to planners and decision-makers",
+            "authors": "M Batty, D Chapman, S Evans, M Haklay, S Kueppers, N Shiode, A Smith, ...",
+            "publication": "Esri Press, 2001",
+            "year": "2001",
+            "citations": "224"
+        },
+        {
+            "title": "Cellular models of urban systems",
+            "authors": "D O’sullivan, PM Torrens",
+            "publication": "Theory and Practical Issues on Cellular Automata: Proceedings of the Fourth …, 2001",
+            "year": "2001",
+            "citations": "224"
+        },
+        {
+            "title": "Geosimulation: object-based modeling of urban phenomena",
+            "authors": "I Benenson, PM Torrens",
+            "publication": "Computers, Environment and Urban Systems 28 (1-2), 1-8, 2004",
+            "year": "2004",
+            "citations": "213"
+        },
+        {
+            "title": "Modeling gentrification dynamics: A hybrid approach",
+            "authors": "PM Torrens, A Nara",
+            "publication": "Computers, environment and urban systems 31 (3), 337-361, 2007",
+            "year": "2007",
+            "citations": "179"
+        },
+        {
+            "title": "How land-use-transportation models work",
+            "authors": "PM Torrens",
+            "publication": "Centre for Advanced Spatial Analysis (UCL), 2000",
+            "year": "2000",
+            "citations": "148"
+        },
+        {
+            "title": "Cellular automata and multi-agent systems as planning support tools",
+            "authors": "PM Torrens",
+            "publication": "Planning support systems in practice, 205-222, 2003",
+            "year": "2003",
+            "citations": "145"
+        },
+        {
+            "title": "How cellular models of urban systems work",
+            "authors": "PM Torrens",
+            "publication": "http://www. casa. ucl. ac. uk/howcawork. pdf, 2000",
+            "year": "2000",
+            "citations": "145"
+        },
+        {
+            "title": "How cellular models of urban systems work (1. Theory)",
+            "authors": "PM Torrens",
+            "publication": "Centre for Advanced Spatial Analysis (UCL), 2000",
+            "year": "2000",
+            "citations": "141"
+        },
+        {
+            "title": "Moving agent pedestrians through space and time",
+            "authors": "PM Torrens",
+            "publication": "Annals of the Association of American Geographers 102 (1), 35-66, 2012",
+            "year": "2012",
+            "citations": "111"
+        },
+        {
+            "title": "Wi-fi geographies",
+            "authors": "PM Torrens",
+            "publication": "Annals of the Association of American Geographers 98 (1), 59-84, 2008",
+            "year": "2008",
+            "citations": "105"
+        },
+        {
+            "title": "Geography and computational social science",
+            "authors": "PM Torrens",
+            "publication": "GeoJournal 75, 133-148, 2010",
+            "year": "2010",
+            "citations": "98"
+        }
+    ]
+}

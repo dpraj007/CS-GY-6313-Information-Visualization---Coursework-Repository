@@ -1,0 +1,147 @@
+{
+    "name": "Torsten Suel",
+    "affiliation": "Professor of Computer Science, NYU Tandon School of Engineering",
+    "url": "https://scholar.google.com/citations?user=eQUn8ugAAAAJ&hl=en",
+    "papers": [
+        {
+            "title": "Optimal histograms with quality guarantees",
+            "authors": "HV Jagadish, N Koudas, S Muthukrishnan, V Poosala, KC Sevcik, T Suel",
+            "publication": "VLDB 98, 24-27, 1998",
+            "year": "1998",
+            "citations": "633"
+        },
+        {
+            "title": "Design and implementation of a high-performance distributed web crawler",
+            "authors": "V Shkapenyuk, T Suel",
+            "publication": "Data Engineering, 2002. Proceedings. 18th International Conference on, 357-368, 2002",
+            "year": "2002",
+            "citations": "602"
+        },
+        {
+            "title": "BSPlib: The BSP programming library",
+            "authors": "J Hill, B McColl, DC Stefanescu, MW Goudreau, K Lang, SB Rao, T Suel, ...",
+            "publication": "Parallel Computing 24 (14), 1947-1980, 1998",
+            "year": "1998",
+            "citations": "536"
+        },
+        {
+            "title": "Efficient query processing in geographic web search engines",
+            "authors": "YY Chen, T Suel, A Markowetz",
+            "publication": "Proceedings of the 2006 ACM SIGMOD international conference on Management of …, 2006",
+            "year": "2006",
+            "citations": "469"
+        },
+        {
+            "title": "The Perron-Frobenius theorem: some of its applications",
+            "authors": "SU Pillai, T Suel, S Cha",
+            "publication": "Signal Processing Magazine, IEEE 22 (2), 62-75, 2005",
+            "year": "2005",
+            "citations": "389"
+        },
+        {
+            "title": "Inverted index compression and query processing with optimized document ordering",
+            "authors": "H Yan, S Ding, T Suel",
+            "publication": "Proceedings of the 18th international conference on World wide web, 401-410, 2009",
+            "year": "2009",
+            "citations": "372"
+        },
+        {
+            "title": "Scalable sweeping-based spatial join",
+            "authors": "L Arge, O Procopiuc, S Ramaswamy, T Suel, JS Vitter",
+            "publication": "VLDB 98, 570-581, 1998",
+            "year": "1998",
+            "citations": "342"
+        },
+        {
+            "title": "Performance of compressed inverted list caching in search engines",
+            "authors": "J Zhang, X Long, T Suel",
+            "publication": "Proceedings of the 17th international conference on World Wide Web, 387-396, 2008",
+            "year": "2008",
+            "citations": "333"
+        },
+        {
+            "title": "An efficient distributed algorithm for constructing small dominating sets",
+            "authors": "L Jia, R Rajaraman, T Suel",
+            "publication": "Distributed Computing 15 (4), 193-205, 2002",
+            "year": "2002",
+            "citations": "311"
+        },
+        {
+            "title": "Faster top-k document retrieval using block-max indexes",
+            "authors": "S Ding, T Suel",
+            "publication": "Proceedings of the 34th international ACM SIGIR conference on Research and …, 2011",
+            "year": "2011",
+            "citations": "273"
+        },
+        {
+            "title": "On rectangular partitionings in two dimensions: Algorithms, complexity and applications",
+            "authors": "S Muthukrishnan, V Poosala, T Suel",
+            "publication": "Database Theory—ICDT’99: 7th International Conference Jerusalem, Israel …, 1999",
+            "year": "1999",
+            "citations": "244"
+        },
+        {
+            "title": "ODISSEA: A Peer-to-Peer Architecture for Scalable Web Search and Information Retrieval.",
+            "authors": "T Suel, C Mathur, JW Wu, J Zhang, A Delis, M Kharrazi, X Long, ...",
+            "publication": "WebDB 3, 67-72, 2003",
+            "year": "2003",
+            "citations": "241"
+        },
+        {
+            "title": "Three-level caching for efficient query processing in large web search engines",
+            "authors": "X Long, T Suel",
+            "publication": "Proceedings of the 14th international conference on World Wide Web, 257-266, 2005",
+            "year": "2005",
+            "citations": "219"
+        },
+        {
+            "title": "Research frontiers in information retrieval: Report from the third strategic workshop on information retrieval in lorne (swirl 2018)",
+            "authors": "JS Culpepper, F Diaz, MD Smucker",
+            "publication": "ACM SIGIR Forum 52 (1), 34-90, 2018",
+            "year": "2018",
+            "citations": "213"
+        },
+        {
+            "title": "Improved techniques for result caching in web search engines",
+            "authors": "Q Gan, T Suel",
+            "publication": "Proceedings of the 18th international conference on World wide web, 431-440, 2009",
+            "year": "2009",
+            "citations": "187"
+        },
+        {
+            "title": "Compressing the graph structure of the web",
+            "authors": "T Suel, J Yuan",
+            "publication": "Proceedings DCC 2001. Data Compression Conference, 213-222, 2001",
+            "year": "2001",
+            "citations": "182"
+        },
+        {
+            "title": "Text vs. space: efficient geo-search query processing",
+            "authors": "M Christoforaki, J He, C Dimopoulos, A Markowetz, T Suel",
+            "publication": "Proceedings of the 20th ACM international conference on Information and …, 2011",
+            "year": "2011",
+            "citations": "181"
+        },
+        {
+            "title": "Analysis of geographic queries in a search engine log",
+            "authors": "Q Gan, J Attenberg, A Markowetz, T Suel",
+            "publication": "Proceedings of the first international workshop on Location and the web, 49-56, 2008",
+            "year": "2008",
+            "citations": "180"
+        },
+        {
+            "title": "Optimized query execution in large search engines with global page ordering",
+            "authors": "X Long, T Suel",
+            "publication": "Proceedings 2003 VLDB Conference, 129-140, 2003",
+            "year": "2003",
+            "citations": "172"
+        },
+        {
+            "title": "Optimal peer selection for P2P downloading and streaming",
+            "authors": "M Adler, R Kumar, K Ross, D Rubenstein, T Suel, DD Yao",
+            "publication": "Proceedings IEEE 24th Annual Joint Conference of the IEEE Computer and …, 2005",
+            "year": "2005",
+            "citations": "147"
+        }
+    ]
+}

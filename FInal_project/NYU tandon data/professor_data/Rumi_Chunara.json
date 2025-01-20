@@ -1,0 +1,147 @@
+{
+    "name": "Rumi Chunara",
+    "affiliation": "New York University",
+    "url": "https://scholar.google.com/citations?user=7NhhkR8AAAAJ&hl=en",
+    "papers": [
+        {
+            "title": "COVID-19 transforms health care through telemedicine: evidence from the field",
+            "authors": "DM Mann, J Chen, R Chunara, PA Testa, O Nov",
+            "publication": "Journal of the American Medical Informatics Association, 2020",
+            "year": "2020",
+            "citations": "1441"
+        },
+        {
+            "title": "Social and news media enable estimation of epidemiological patterns early in the 2010 Haitian cholera outbreak",
+            "authors": "R Chunara, JR Andrews, JS Brownstein",
+            "publication": "The American Journal of Tropical Medicine and Hygiene 86 (1), 39-45, 2012",
+            "year": "2012",
+            "citations": "573"
+        },
+        {
+            "title": "Participatory epidemiology: use of mobile phones for community-based health reporting",
+            "authors": "CC Freifeld, R Chunara, SR Mekaru, EH Chan, T Kass-Hout, AA Iacucci, ...",
+            "publication": "PLoS medicine 7 (12), e1000376, 2010",
+            "year": "2010",
+            "citations": "335"
+        },
+        {
+            "title": "Telemedicine and Healthcare Disparities: A cohort study in a large healthcare system in New York City during COVID-19",
+            "authors": "R Chunara, Y Zhao, J Chen, K Lawrence, PA Testa, O Nov, DM Mann",
+            "publication": "Journal of the American Medical Informatics Association, 2020",
+            "year": "2020",
+            "citations": "309"
+        },
+        {
+            "title": "Monitoring influenza epidemics in china with search query from baidu",
+            "authors": "Q Yuan, EO Nsoesie, B Lv, G Peng, R Chunara, JS Brownstein",
+            "publication": "PloS one 8 (5), e64323, 2013",
+            "year": "2013",
+            "citations": "285"
+        },
+        {
+            "title": "Uncertainty as a Form of Transparency: Measuring, Communicating, and Using Uncertainty",
+            "authors": "U Bhatt, Y Zhang, J Antorán, QV Liao, P Sattigeri, R Fogliato, ...",
+            "publication": "arXiv preprint arXiv:2011.07586, 2020",
+            "year": "2020",
+            "citations": "261"
+        },
+        {
+            "title": "Flu Near You: Crowdsourced Symptom Reporting Spanning 2 Influenza Seasons",
+            "authors": "MS Smolinski, AW Crawley, K Baltrusaitis, R Chunara, JM Olsen, ...",
+            "publication": "American journal of public health 105 (10), 2124-2130, 2015",
+            "year": "2015",
+            "citations": "216"
+        },
+        {
+            "title": "A Case Study of the New York City 2012-2013 Influenza Season With Daily Geocoded Twitter Data From Temporal and Spatiotemporal Perspectives",
+            "authors": "R Nagar, Q Yuan, CC Freifeld, M Santillana, A Nojima, R Chunara, ...",
+            "publication": "Journal of Medical Internet Research 16 (10), e236, 2014",
+            "year": "2014",
+            "citations": "187"
+        },
+        {
+            "title": "Twitter as a sentinel in emergency situations: lessons from the Boston marathon explosions",
+            "authors": "CA Cassa, R Chunara, K Mandl, JS Brownstein",
+            "publication": "PLoS currents 5, 2013",
+            "year": "2013",
+            "citations": "172"
+        },
+        {
+            "title": "Public health for the people: participatory infectious disease surveillance in the digital age",
+            "authors": "OP Wójcik, JS Brownstein, R Chunara, MA Johansson",
+            "publication": "Emerging Themes in Epidemiology 11 (1), 7, 2014",
+            "year": "2014",
+            "citations": "167"
+        },
+        {
+            "title": "Machine learning and algorithmic fairness in public and population health",
+            "authors": "V Mhasawade, Y Zhao, R Chunara",
+            "publication": "Nature Machine Intelligence, 1-8, 2021",
+            "year": "2021",
+            "citations": "165"
+        },
+        {
+            "title": "Fairness Violations and Mitigation under Covariate Shift",
+            "authors": "H Singh, R Singh, V Mhasawade, R Chunara",
+            "publication": "ACM Conference on Fairness Accountability and Transparency 2021, 0",
+            "year": "",
+            "citations": "102"
+        },
+        {
+            "title": "Race, Ethnicity and National Origin-based Discrimination in Social Media and Hate Crimes Across 100 US Cities",
+            "authors": "K Relia, Z Li, SH Cook, R Chunara",
+            "publication": "Thirteenth International AAAI Conference on Web and Social Media (ICWSM-19 …, 2019",
+            "year": "2019",
+            "citations": "98"
+        },
+        {
+            "title": "Suspended microchannel resonators with piezoresistive sensors",
+            "authors": "J Lee, R Chunara, W Shen, K Payer, K Babcock, TP Burg, SR Manalis",
+            "publication": "Lab on a Chip 11 (4), 645-651, 2011",
+            "year": "2011",
+            "citations": "97"
+        },
+        {
+            "title": "Characterizing sleep issues using Twitter",
+            "authors": "DJ McIver, JB Hawkins, R Chunara, AK Chatterjee, A Bhandari, ...",
+            "publication": "Journal of medical Internet research 17 (6), 2015",
+            "year": "2015",
+            "citations": "94"
+        },
+        {
+            "title": "Flu Near You: An Online Self-reported Influenza Surveillance System in the USA",
+            "authors": "R Chunara, S Aman, M Smolinski, JS Brownstein",
+            "publication": "Online Journal of Public Health Informatics 5 (1), 2013",
+            "year": "2013",
+            "citations": "90"
+        },
+        {
+            "title": "Assessing the Online Social Environment for Surveillance of Obesity Prevalence",
+            "authors": "R Chunara, L Bouton, JW Ayers, JS Brownstein",
+            "publication": "PLOS ONE 8 (4), e61373, 2013",
+            "year": "2013",
+            "citations": "86"
+        },
+        {
+            "title": "Phased array systems in silicon",
+            "authors": "A Hajimiri, A Komijani, A Natarajan, R Chunara, X Guan, H Hashemi",
+            "publication": "IEEE Communications Magazine 42 (8), 122-130, 2004",
+            "year": "2004",
+            "citations": "86"
+        },
+        {
+            "title": "Preventing pandemics via international development: a systems approach",
+            "authors": "TL Bogich, R Chunara, D Scales, E Chan, LC Pinheiro, AA Chmura, ...",
+            "publication": "PLoS medicine 9 (12), e1001354, 2012",
+            "year": "2012",
+            "citations": "81"
+        },
+        {
+            "title": "Determinants of Participants’ Follow-Up and Characterization of Representativeness in Flu Near You, A Participatory Disease Surveillance System",
+            "authors": "K Baltrusaitis, M Santillana, AW Crawley, R Chunara, M Smolinski, ...",
+            "publication": "JMIR Public Health and Surveillance 3 (2), e18, 2017",
+            "year": "2017",
+            "citations": "75"
+        }
+    ]
+}

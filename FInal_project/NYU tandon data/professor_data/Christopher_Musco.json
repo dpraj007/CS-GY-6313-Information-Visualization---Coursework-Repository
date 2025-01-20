@@ -1,0 +1,147 @@
+{
+    "name": "Christopher Musco",
+    "affiliation": "Assistant Professor, New York University",
+    "url": "https://scholar.google.com/citations?user=HXXSrNMAAAAJ&hl=en",
+    "papers": [
+        {
+            "title": "Dimensionality Reduction for k-means Clustering and Low-rank Approximation",
+            "authors": "MB Cohen, S Elder, C Musco, C Musco, M Persu",
+            "publication": "Proceedings of the forty-seventh annual ACM symposium on Theory of computing …, 2015",
+            "year": "2015",
+            "citations": "428"
+        },
+        {
+            "title": "Randomized Block Krylov Methods for Stronger and Faster Approximate Singular Value Decomposition",
+            "authors": "C Musco, C Musco",
+            "publication": "Advances in Neural Information Processing Systems, 2015, 2015",
+            "year": "2015",
+            "citations": "351"
+        },
+        {
+            "title": "Uniform Sampling for Matrix Approximation",
+            "authors": "MB Cohen, YT Lee, C Musco, C Musco, R Peng, A Sidford",
+            "publication": "Proceedings of the 2015 Conference on Innovations in Theoretical Computer …, 2015",
+            "year": "2015",
+            "citations": "256"
+        },
+        {
+            "title": "Recursive Sampling for the Nyström Method",
+            "authors": "C Musco, C Musco",
+            "publication": "Advances in Neural Information Processing Systems, 2017, 2017",
+            "year": "2017",
+            "citations": "244"
+        },
+        {
+            "title": "Random Fourier Features for Kernel Ridge Regression: Approximation Bounds and Statistical Guarantees",
+            "authors": "H Avron, M Kapralov, C Musco, C Musco, A Velingker, A Zandieh",
+            "publication": "International Conference on Machine Learning, 2017, 2017",
+            "year": "2017",
+            "citations": "188"
+        },
+        {
+            "title": "Analyzing the Impact of Filter Bubbles on Social Network Polarization",
+            "authors": "U Chitra, C Musco",
+            "publication": "Proceedings of the 13th International Conference on Web Search and Data …, 2020",
+            "year": "2020",
+            "citations": "184"
+        },
+        {
+            "title": "Input Sparsity Time Low-rank Approximation via Ridge Leverage Score Sampling",
+            "authors": "MB Cohen, C Musco, C Musco",
+            "publication": "Proceedings of the Twenty-Eighth Annual ACM-SIAM Symposium on Discrete …, 2017",
+            "year": "2017",
+            "citations": "180"
+        },
+        {
+            "title": "Single Pass Spectral Sparsification in Dynamic Streams",
+            "authors": "M Kapralov, YT Lee, C Musco, C Musco, A Sidford",
+            "publication": "Foundations of Computer Science (FOCS), 2014 IEEE 55th Annual Symposium on …, 2014",
+            "year": "2014",
+            "citations": "171"
+        },
+        {
+            "title": "Minimizing Polarization and Disagreement in Social Networks",
+            "authors": "C Musco, C Musco, CE Tsourakakis",
+            "publication": "Proceedings of the 2018 World Wide Web Conference on World Wide Web, 369-378, 2018",
+            "year": "2018",
+            "citations": "156"
+        },
+        {
+            "title": "Hutch++: Optimal Stochastic Trace Estimation",
+            "authors": "RA Meyer, C Musco, C Musco, DP Woodruff",
+            "publication": "Symposium on Simplicity in Algorithms (SOSA), 142-155, 2021",
+            "year": "2021",
+            "citations": "121"
+        },
+        {
+            "title": "Near Optimal Linear Algebra in the Online and Sliding Window Models",
+            "authors": "V Braverman, P Drineas, C Musco, C Musco, J Upadhyay, DP Woodruff, ...",
+            "publication": "2020 IEEE 61st Annual Symposium on Foundations of Computer Science (FOCS …, 2020",
+            "year": "2020",
+            "citations": "61"
+        },
+        {
+            "title": "Stability of the Lanczos Method for Matrix Function Approximation",
+            "authors": "C Musco, C Musco, A Sidford",
+            "publication": "Proceedings of the Twenty-Ninth Annual ACM-SIAM Symposium on Discrete …, 2018",
+            "year": "2018",
+            "citations": "59"
+        },
+        {
+            "title": "Correlation Sketches for Approximate Join-correlation Queries",
+            "authors": "A Santos, A Bessa, F Chirigati, C Musco, J Freire",
+            "publication": "Proceedings of the 2021 International Conference on Management of Data, 1531 …, 2021",
+            "year": "2021",
+            "citations": "45"
+        },
+        {
+            "title": "A Universal Sampling Method for Reconstructing Signals with Simple Fourier Transforms",
+            "authors": "H Avron, M Kapralov, C Musco, C Musco, A Velingker, A Zandieh",
+            "publication": "Proceedings of the 51st Annual ACM SIGACT Symposium on Theory of Computing …, 2019",
+            "year": "2019",
+            "citations": "40"
+        },
+        {
+            "title": "Principal Component Projection without Principal Component Analysis",
+            "authors": "R Frostig, C Musco, C Musco, A Sidford",
+            "publication": "International Conference on Machine Learning, 2016, 2016",
+            "year": "2016",
+            "citations": "37"
+        },
+        {
+            "title": "Active Linear Regression for ℓp Norms and Beyond",
+            "authors": "C Musco, C Musco, DP Woodruff, T Yasuda",
+            "publication": "2022 IEEE 63rd Annual Symposium on Foundations of Computer Science (FOCS …, 2022",
+            "year": "2022",
+            "citations": "32"
+        },
+        {
+            "title": "Fast and Space Efficient Spectral Sparsification in Dynamic Streams",
+            "authors": "M Kapralov, A Mousavifar, C Musco, C Musco, N Nouri, A Sidford, ...",
+            "publication": "Proceedings of the Fourteenth Annual ACM-SIAM Symposium on Discrete …, 2020",
+            "year": "2020",
+            "citations": "32"
+        },
+        {
+            "title": "A Sketch-based Index for Correlated Dataset Search",
+            "authors": "A Santos, A Bessa, C Musco, J Freire",
+            "publication": "",
+            "year": "2022",
+            "citations": "26"
+        },
+        {
+            "title": "Principled Sampling for Anomaly Detection",
+            "authors": "B Juba, C Musco, F Long, S Sidiroglou-Douskos, MC Rinard",
+            "publication": "Network and Distributed System Security (NDSS) 2015, 2015",
+            "year": "2015",
+            "citations": "26"
+        },
+        {
+            "title": "Sublinear Time Spectral Density Estimation",
+            "authors": "V Braverman, A Krishnan, C Musco",
+            "publication": "Proceedings of the 54th Annual ACM SIGACT Symposium on Theory of Computing …, 2022",
+            "year": "2022",
+            "citations": "24"
+        }
+    ]
+}

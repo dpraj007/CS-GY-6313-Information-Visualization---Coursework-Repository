@@ -1,0 +1,147 @@
+{
+    "name": "Claudio T. Silva",
+    "affiliation": "New York University",
+    "url": "https://scholar.google.com/citations?user=YIwiAAsAAAAJ&hl=en",
+    "papers": [
+        {
+            "title": "The ball-pivoting algorithm for surface reconstruction",
+            "authors": "F Bernardini, J Mittleman, H Rushmeier, C Silva, G Taubin",
+            "publication": "IEEE transactions on visualization and computer graphics 5 (4), 349-359, 1999",
+            "year": "1999",
+            "citations": "2039"
+        },
+        {
+            "title": "Computing and rendering point set surfaces",
+            "authors": "M Alexa, J Behr, D Cohen-Or, S Fleishman, D Levin, CT Silva",
+            "publication": "IEEE Transactions on visualization and computer graphics 9 (1), 3-15, 2003",
+            "year": "2003",
+            "citations": "1391"
+        },
+        {
+            "title": "Point set surfaces",
+            "authors": "M Alexa, J Behr, D Cohen-Or, S Fleishman, D Levin, CT Silva",
+            "publication": "Proceedings Visualization, 2001. VIS'01., 21-29, 537, 2001",
+            "year": "2001",
+            "citations": "1164"
+        },
+        {
+            "title": "A survey of surface reconstruction from point clouds",
+            "authors": "M Berger, A Tagliasacchi, LM Seversky, P Alliez, G Guennebaud, ...",
+            "publication": "Computer graphics forum 36 (1), 301-329, 2017",
+            "year": "2017",
+            "citations": "1051"
+        },
+        {
+            "title": "Robust moving least-squares fitting with sharp features",
+            "authors": "S Fleishman, D Cohen-Or, CT Silva",
+            "publication": "ACM transactions on graphics (TOG) 24 (3), 544-552, 2005",
+            "year": "2005",
+            "citations": "752"
+        },
+        {
+            "title": "VisTrails: visualization meets data management",
+            "authors": "SP Callahan, J Freire, E Santos, CE Scheidegger, CT Silva, HT Vo",
+            "publication": "Proceedings of the 2006 ACM SIGMOD international conference on Management of …, 2006",
+            "year": "2006",
+            "citations": "744"
+        },
+        {
+            "title": "Provenance for computational tasks: A survey",
+            "authors": "J Freire, D Koop, E Santos, CT Silva",
+            "publication": "Computing in science & engineering 10 (3), 11-21, 2008",
+            "year": "2008",
+            "citations": "740"
+        },
+        {
+            "title": "Visual exploration of big spatio-temporal urban data: A study of new york city taxi trips",
+            "authors": "N Ferreira, J Poco, HT Vo, J Freire, CT Silva",
+            "publication": "IEEE transactions on visualization and computer graphics 19 (12), 2149-2158, 2013",
+            "year": "2013",
+            "citations": "684"
+        },
+        {
+            "title": "A survey of visibility for walkthrough applications",
+            "authors": "D Cohen-Or, YL Chrysanthou, CT Silva, F Durand",
+            "publication": "IEEE Transactions on Visualization and Computer Graphics 9 (3), 412-431, 2003",
+            "year": "2003",
+            "citations": "651"
+        },
+        {
+            "title": "The ALPS project release 2.0: open source software for strongly correlated systems",
+            "authors": "B Bauer, LD Carr, HG Evertz, A Feiguin, J Freire, S Fuchs, L Gamper, ...",
+            "publication": "Journal of Statistical Mechanics: Theory and Experiment 2011 (05), P05001, 2011",
+            "year": "2011",
+            "citations": "644"
+        },
+        {
+            "title": "Vistrails: Enabling interactive multiple-view visualizations",
+            "authors": "L Bavoil, SP Callahan, PJ Crossno, J Freire, CE Scheidegger, CT Silva, ...",
+            "publication": "VIS 05. IEEE Visualization, 2005., 135-142, 2005",
+            "year": "2005",
+            "citations": "520"
+        },
+        {
+            "title": "Quad‐mesh generation and processing: A survey",
+            "authors": "D Bommes, B Lévy, N Pietroni, E Puppo, C Silva, M Tarini, D Zorin",
+            "publication": "Computer graphics forum 32 (6), 51-76, 2013",
+            "year": "2013",
+            "citations": "481"
+        },
+        {
+            "title": "Surface reconstruction based on lower dimensional localized Delaunay triangulation",
+            "authors": "M Gopi, S Krishnan, CT Silva",
+            "publication": "Computer Graphics Forum 19 (3), 467-478, 2000",
+            "year": "2000",
+            "citations": "390"
+        },
+        {
+            "title": "Managing rapidly-evolving scientific workflows",
+            "authors": "J Freire, CT Silva, SP Callahan, E Santos, CE Scheidegger, HT Vo",
+            "publication": "Provenance and Annotation of Data: International Provenance and Annotation …, 2006",
+            "year": "2006",
+            "citations": "357"
+        },
+        {
+            "title": "A user study of visualization effectiveness using EEG and cognitive load",
+            "authors": "EW Anderson, KC Potter, LE Matzen, JF Shepherd, GA Preston, CT Silva",
+            "publication": "Computer graphics forum 30 (3), 791-800, 2011",
+            "year": "2011",
+            "citations": "351"
+        },
+        {
+            "title": "Sonyc: A system for monitoring, analyzing, and mitigating urban noise pollution",
+            "authors": "JP Bello, C Silva, O Nov, RL Dubois, A Arora, J Salamon, C Mydlarz, ...",
+            "publication": "Communications of the ACM 62 (2), 68-77, 2019",
+            "year": "2019",
+            "citations": "333"
+        },
+        {
+            "title": "The first provenance challenge",
+            "authors": "L Moreau, B Ludäscher, I Altintas, RS Barga, S Bowers, S Callahan, ...",
+            "publication": "Concurrency and computation: practice and experience 20 (5), 409-418, 2008",
+            "year": "2008",
+            "citations": "306"
+        },
+        {
+            "title": "A benchmark for surface reconstruction",
+            "authors": "M Berger, JA Levine, LG Nonato, G Taubin, CT Silva",
+            "publication": "ACM Transactions on Graphics (TOG) 32 (2), 1-17, 2013",
+            "year": "2013",
+            "citations": "275"
+        },
+        {
+            "title": "Deep geometric prior for surface reconstruction",
+            "authors": "F Williams, T Schneider, C Silva, D Zorin, J Bruna, D Panozzo",
+            "publication": "Proceedings of the IEEE/CVF conference on computer vision and pattern …, 2019",
+            "year": "2019",
+            "citations": "217"
+        },
+        {
+            "title": "Progressive point set surfaces",
+            "authors": "S Fleishman, D Cohen-Or, M Alexa, CT Silva",
+            "publication": "ACM Transactions on Graphics (TOG) 22 (4), 997-1011, 2003",
+            "year": "2003",
+            "citations": "217"
+        }
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "name": "Damon McCoy",
+    "affiliation": "Professor of Computer Science and Engineering, New York University",
+    "url": "https://scholar.google.com/citations?user=pT8-2f0AAAAJ&hl=en",
+    "papers": [
+        {
+            "title": "Experimental security analysis of a modern automobile",
+            "authors": "K Koscher, A Czeskis, F Roesner, S Patel, T Kohno, S Checkoway, ...",
+            "publication": "IEEE Symposium on Security and Privacy (SP), 2010",
+            "year": "2010",
+            "citations": "2560"
+        },
+        {
+            "title": "Comprehensive experimental analyses of automotive attack surfaces",
+            "authors": "S Checkoway, D McCoy, B Kantor, D Anderson, H Shacham, S Savage, ...",
+            "publication": "20th USENIX security symposium (USENIX Security 11), 2011",
+            "year": "2011",
+            "citations": "2290"
+        },
+        {
+            "title": "A fistful of bitcoins: characterizing payments among men with no names",
+            "authors": "S Meiklejohn, M Pomarole, G Jordan, K Levchenko, D McCoy, ...",
+            "publication": "Proceedings of the 2013 conference on Internet measurement conference, 127-140, 2013",
+            "year": "2013",
+            "citations": "1891"
+        },
+        {
+            "title": "{Trafﬁcking} Fraudulent Accounts: The Role of the Underground Market in Twitter Spam and Abuse",
+            "authors": "K Thomas, D McCoy, C Grier, A Kolcz, V Paxson",
+            "publication": "22nd USENIX Security Symposium (USENIX Security 13), 195-210, 2013",
+            "year": "2013",
+            "citations": "636"
+        },
+        {
+            "title": "Shining light in dark places: Understanding the Tor network",
+            "authors": "D McCoy, K Bauer, D Grunwald, T Kohno, D Sicker",
+            "publication": "Privacy Enhancing Technologies: 8th International Symposium, PETS 2008 …, 2008",
+            "year": "2008",
+            "citations": "562"
+        },
+        {
+            "title": "Low-resource routing attacks against Tor",
+            "authors": "K Bauer, D McCoy, D Grunwald, T Kohno, D Sicker",
+            "publication": "Proceedings of the 2007 ACM workshop on Privacy in electronic society, 11-20, 2007",
+            "year": "2007",
+            "citations": "493"
+        },
+        {
+            "title": "An analysis of underground forums",
+            "authors": "M Motoyama, D McCoy, K Levchenko, S Savage, GM Voelker",
+            "publication": "Proceedings of the 2011 ACM SIGCOMM conference on Internet measurement …, 2011",
+            "year": "2011",
+            "citations": "409"
+        },
+        {
+            "title": "Click trajectories: End-to-end analysis of the spam value chain",
+            "authors": "K Levchenko, A Pitsillidis, N Chachra, B Enright, M Félegyházi, C Grier, ...",
+            "publication": "2011 ieee symposium on security and privacy, 431-446, 2011",
+            "year": "2011",
+            "citations": "375"
+        },
+        {
+            "title": "Passive Data Link Layer 802.11 Wireless Device Driver Fingerprinting.",
+            "authors": "J Franklin, D McCoy, P Tabriz, V Neagoe, JV Randwyk, D Sicker",
+            "publication": "USENIX Security Symposium 3 (2006), 16-89, 2006",
+            "year": "2006",
+            "citations": "365"
+        },
+        {
+            "title": "Manufacturing compromise: the emergence of exploit-as-a-service",
+            "authors": "C Grier, L Ballard, J Caballero, N Chachra, CJ Dietrich, K Levchenko, ...",
+            "publication": "Proceedings of the 2012 ACM conference on Computer and communications …, 2012",
+            "year": "2012",
+            "citations": "311"
+        },
+        {
+            "title": "Re:{CAPTCHAs—Understanding}{CAPTCHA-Solving} Services in an Economic Context",
+            "authors": "M Motoyama, K Levchenko, C Kanich, D McCoy, GM Voelker, S Savage",
+            "publication": "19th USENIX Security Symposium (USENIX Security 10), 2010",
+            "year": "2010",
+            "citations": "311"
+        },
+        {
+            "title": "Tracking ransomware end-to-end",
+            "authors": "DY Huang, MM Aliapoulios, VG Li, L Invernizzi, E Bursztein, K McRoberts, ...",
+            "publication": "2018 IEEE Symposium on Security and Privacy (SP), 618-631, 2018",
+            "year": "2018",
+            "citations": "270"
+        },
+        {
+            "title": "The Spyware Used in Intimate Partner Violence",
+            "authors": "R Chatterjee, T Ristenpart, P Doerfler, H Orgad, S Havron, J Palmer, ...",
+            "publication": "The Spyware Used in Intimate Partner Violence, 0, 2018",
+            "year": "2018",
+            "citations": "208"
+        },
+        {
+            "title": "Improving wireless privacy with an identifier-free link layer protocol",
+            "authors": "B Greenstein, D McCoy, J Pang, T Kohno, S Seshan, D Wetherall",
+            "publication": "Proceedings of the 6th international conference on Mobile systems …, 2008",
+            "year": "2008",
+            "citations": "190"
+        },
+        {
+            "title": "Doppelgänger finder: Taking stylometry to the underground",
+            "authors": "S Afroz, AC Islam, A Stolerman, R Greenstadt, D McCoy",
+            "publication": "2014 IEEE Symposium on Security and Privacy, 212-226, 2014",
+            "year": "2014",
+            "citations": "181"
+        },
+        {
+            "title": "Pharmaleaks: Understanding the business of online pharmaceutical affiliate programs",
+            "authors": "D McCoy, A Pitsillidis, G Jordan, N Weaver, C Kreibich, B Krebs, ...",
+            "publication": "Proceedings of USENIX Security, 2012",
+            "year": "2012",
+            "citations": "179"
+        },
+        {
+            "title": "You've got vulnerability: Exploring effective vulnerability notifications",
+            "authors": "F Li, Z Durumeric, J Czyz, M Karami, M Bailey, D McCoy, S Savage, ...",
+            "publication": "25th USENIX Security Symposium (USENIX Security 16), 1033-1050, 2016",
+            "year": "2016",
+            "citations": "174"
+        },
+        {
+            "title": "Show me the money: Characterizing spam-advertised revenue",
+            "authors": "C Kanich, N Weaver, D McCoy, T Halvorson, C Kreibich, K Levchenko, ...",
+            "publication": "20th USENIX Security Symposium (USENIX Security 11), 2011",
+            "year": "2011",
+            "citations": "167"
+        },
+        {
+            "title": "Sok: Hate, harassment, and the changing landscape of online abuse",
+            "authors": "K Thomas, D Akhawe, M Bailey, D Boneh, E Bursztein, S Consolvo, ...",
+            "publication": "2021 IEEE Symposium on Security and Privacy (SP), 247-267, 2021",
+            "year": "2021",
+            "citations": "164"
+        },
+        {
+            "title": "Ad injection at scale: Assessing deceptive advertisement modifications",
+            "authors": "K Thomas, E Bursztein, C Grier, G Ho, N Jagpal, A Kapravelos, D McCoy, ...",
+            "publication": "2015 IEEE Symposium on Security and Privacy, 151-167, 2015",
+            "year": "2015",
+            "citations": "164"
+        }
+    ]
+}

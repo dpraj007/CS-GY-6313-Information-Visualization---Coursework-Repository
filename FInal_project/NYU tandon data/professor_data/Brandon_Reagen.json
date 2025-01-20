@@ -1,0 +1,147 @@
+{
+    "name": "Brandon Reagen",
+    "affiliation": "Assistant Professor, New York University",
+    "url": "https://scholar.google.com/citations?user=cO2uYoAAAAAJ&hl=en",
+    "papers": [
+        {
+            "title": "Minerva: Enabling Low-Power, Highly-Accurate Deep Neural Network Accelerators",
+            "authors": "B Reagen, P Whatmough, R Adolf, S Rama, H Lee, SK Lee, ...",
+            "publication": "International Symposium on Computer Architecture (ISCA) 43, 267-278, 2016",
+            "year": "2016",
+            "citations": "749"
+        },
+        {
+            "title": "Machine learning at facebook: Understanding inference at the edge",
+            "authors": "CJ Wu, D Brooks, K Chen, D Chen, S Choudhury, M Dukhan, ...",
+            "publication": "2019 IEEE international symposium on high performance computer architecture …, 2019",
+            "year": "2019",
+            "citations": "552"
+        },
+        {
+            "title": "Aladdin: A pre-rtl, power-performance accelerator simulator enabling large design space exploration of customized architectures",
+            "authors": "YS Shao, B Reagen, GY Wei, D Brooks",
+            "publication": "ACM SIGARCH Computer Architecture News 42 (3), 97-108, 2014",
+            "year": "2014",
+            "citations": "402"
+        },
+        {
+            "title": "Ares: A framework for quantifying the resilience of deep neural networks",
+            "authors": "B Reagen, U Gupta, L Pentecost, P Whatmough, SK Lee, N Mulholland, ...",
+            "publication": "Proceedings of the 55th Annual Design Automation Conference, 1-6, 2018",
+            "year": "2018",
+            "citations": "353"
+        },
+        {
+            "title": "MachSuite: Benchmarks for Accelerator Design and Customized Architectures",
+            "authors": "B Reagen, R Adolf, YS Shao, D Wei, Gu-Yeon, Brooks",
+            "publication": "IISWC, 2014",
+            "year": "2014",
+            "citations": "335"
+        },
+        {
+            "title": "The architectural implications of facebook's dnn-based personalized recommendation",
+            "authors": "U Gupta, CJ Wu, X Wang, M Naumov, B Reagen, D Brooks, B Cottel, ...",
+            "publication": "2020 IEEE International Symposium on High Performance Computer Architecture …, 2020",
+            "year": "2020",
+            "citations": "323"
+        },
+        {
+            "title": "Recnmp: Accelerating personalized recommendation with near-memory processing",
+            "authors": "L Ke, U Gupta, BY Cho, D Brooks, V Chandra, U Diril, A Firoozshahian, ...",
+            "publication": "2020 ACM/IEEE 47th Annual International Symposium on Computer Architecture …, 2020",
+            "year": "2020",
+            "citations": "227"
+        },
+        {
+            "title": "Fathom: Reference workloads for modern deep learning methods",
+            "authors": "R Adolf, S Rama, B Reagen, GY Wei, D Brooks",
+            "publication": "2016 IEEE International Symposium on Workload Characterization (IISWC), 1-10, 2016",
+            "year": "2016",
+            "citations": "203"
+        },
+        {
+            "title": "Deeprecsys: A system for optimizing end-to-end at-scale neural recommendation inference",
+            "authors": "U Gupta, S Hsia, V Saraph, X Wang, B Reagen, GY Wei, HHS Lee, ...",
+            "publication": "2020 ACM/IEEE 47th Annual International Symposium on Computer Architecture …, 2020",
+            "year": "2020",
+            "citations": "199"
+        },
+        {
+            "title": "Cheetah: Optimizing and accelerating homomorphic encryption for private inference",
+            "authors": "B Reagen, WS Choi, Y Ko, VT Lee, HHS Lee, GY Wei, D Brooks",
+            "publication": "2021 IEEE International Symposium on High-Performance Computer Architecture …, 2021",
+            "year": "2021",
+            "citations": "181"
+        },
+        {
+            "title": "A case for efficient accelerator design space exploration via bayesian optimization",
+            "authors": "B Reagen, JM Hernández-Lobato, R Adolf, M Gelbart, P Whatmough, ...",
+            "publication": "2017 IEEE/ACM International Symposium on Low Power Electronics and Design …, 2017",
+            "year": "2017",
+            "citations": "107"
+        },
+        {
+            "title": "Deepreduce: Relu reduction for fast private inference",
+            "authors": "NK Jha, Z Ghodsi, S Garg, B Reagen",
+            "publication": "International Conference on Machine Learning, 4839-4849, 2021",
+            "year": "2021",
+            "citations": "93"
+        },
+        {
+            "title": "Cryptonas: Private inference on a relu budget",
+            "authors": "Z Ghodsi, AK Veldanda, B Reagen, S Garg",
+            "publication": "Advances in Neural Information Processing Systems 33, 16961-16971, 2020",
+            "year": "2020",
+            "citations": "91"
+        },
+        {
+            "title": "Masr: A modular accelerator for sparse rnns",
+            "authors": "U Gupta, B Reagen, L Pentecost, M Donato, T Tambe, AM Rush, GY Wei, ...",
+            "publication": "2019 28th International Conference on Parallel Architectures and Compilation …, 2019",
+            "year": "2019",
+            "citations": "63"
+        },
+        {
+            "title": "The aladdin approach to accelerator design and modeling",
+            "authors": "YS Shao, B Reagen, GY Wei, D Brooks",
+            "publication": "IEEE Micro 35 (3), 58-70, 2015",
+            "year": "2015",
+            "citations": "61"
+        },
+        {
+            "title": "Weightless: Lossy weight encoding for deep neural network compression",
+            "authors": "B Reagan, U Gupta, B Adolf, M Mitzenmacher, A Rush, GY Wei, D Brooks",
+            "publication": "International Conference on Machine Learning, 4324-4333, 2018",
+            "year": "2018",
+            "citations": "57"
+        },
+        {
+            "title": "Deep learning for computer architects",
+            "authors": "B Reagen, R Adolf, P Whatmough, GY Wei, D Brooks, M Martonosi",
+            "publication": "Morgan & Claypool, 2017",
+            "year": "2017",
+            "citations": "49"
+        },
+        {
+            "title": "Maxnvm: Maximizing dnn storage density and inference efficiency with sparse encoding and error mitigation",
+            "authors": "L Pentecost, M Donato, B Reagen, U Gupta, S Ma, GY Wei, D Brooks",
+            "publication": "Proceedings of the 52Nd Annual IEEE/ACM International Symposium on …, 2019",
+            "year": "2019",
+            "citations": "44"
+        },
+        {
+            "title": "Porcupine: A synthesizing compiler for vectorized homomorphic encryption",
+            "authors": "M Cowan, D Dangwal, A Alaghi, C Trippel, VT Lee, B Reagen",
+            "publication": "Proceedings of the 42nd ACM SIGPLAN International Conference on Programming …, 2021",
+            "year": "2021",
+            "citations": "42"
+        },
+        {
+            "title": "On-chip deep neural network storage with multi-level eNVM",
+            "authors": "M Donato, B Reagen, L Pentecost, U Gupta, D Brooks, GY Wei",
+            "publication": "Proceedings of the 55th Annual Design Automation Conference, 1-6, 2018",
+            "year": "2018",
+            "citations": "40"
+        }
+    ]
+}

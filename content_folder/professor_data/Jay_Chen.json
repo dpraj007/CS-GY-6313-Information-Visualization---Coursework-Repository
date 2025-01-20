@@ -1,0 +1,147 @@
+{
+    "name": "Jay Chen",
+    "affiliation": "Senior Researcher (ICSI)",
+    "url": "https://scholar.google.com/citations?user=JWHaRbIAAAAJ&hl=en",
+    "papers": [
+        {
+            "title": "Scalability, fidelity, and containment in the potemkin virtual honeyfarm",
+            "authors": "M Vrable, J Ma, J Chen, D Moore, E Vandekieft, AC Snoeren, GM Voelker, ...",
+            "publication": "Proceedings of the twentieth ACM symposium on Operating systems principles …, 2005",
+            "year": "2005",
+            "citations": "532"
+        },
+        {
+            "title": "Adaptive congestion control for unpredictable cellular networks",
+            "authors": "Y Zaki, T Pötsch, J Chen, L Subramanian, C Görg",
+            "publication": "Proceedings of the 2015 ACM Conference on Special Interest Group on Data …, 2015",
+            "year": "2015",
+            "citations": "274"
+        },
+        {
+            "title": "Digital privacy challenges with shared mobile phone use in Bangladesh",
+            "authors": "SI Ahmed, MR Haque, J Chen, N Dell",
+            "publication": "Proceedings of the ACM on Human-computer Interaction 1 (CSCW), 1-20, 2017",
+            "year": "2017",
+            "citations": "146"
+        },
+        {
+            "title": "Computing within limits",
+            "authors": "B Nardi, B Tomlinson, DJ Patterson, J Chen, D Pargman, B Raghavan, ...",
+            "publication": "Communications of the ACM 61 (10), 86-93, 2018",
+            "year": "2018",
+            "citations": "109"
+        },
+        {
+            "title": "Cultural and psychological factors in cyber-security",
+            "authors": "T Halevi, N Memon, J Lewis, P Kumaraguru, S Arora, N Dagar, F Aloul, ...",
+            "publication": "Proceedings of the 18th International Conference on Information Integration …, 2016",
+            "year": "2016",
+            "citations": "82"
+        },
+        {
+            "title": "Hermes: data transmission over unknown voice channels",
+            "authors": "A Dhananjay, A Sharma, M Paik, J Chen, TK Kuppusamy, J Li, ...",
+            "publication": "Proceedings of the sixteenth annual international conference on Mobile …, 2010",
+            "year": "2010",
+            "citations": "71"
+        },
+        {
+            "title": "Infrastructure as creative action: Online buying, selling, and delivery in Phnom Penh",
+            "authors": "M Jack, J Chen, SJ Jackson",
+            "publication": "Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems …, 2017",
+            "year": "2017",
+            "citations": "68"
+        },
+        {
+            "title": "SMS-based web search for low-end mobile devices",
+            "authors": "J Chen, L Subramanian, E Brewer",
+            "publication": "Proceedings of the sixteenth annual international conference on Mobile …, 2010",
+            "year": "2010",
+            "citations": "66"
+        },
+        {
+            "title": "\" Everyone Has Some Personal Stuff\" Designing to Support Digital Privacy with Shared Mobile Phone Use in Bangladesh",
+            "authors": "SI Ahmed, MR Haque, I Haider, J Chen, N Dell",
+            "publication": "Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems …, 2019",
+            "year": "2019",
+            "citations": "64"
+        },
+        {
+            "title": "Dissecting web latency in ghana",
+            "authors": "Y Zaki, J Chen, T Pötsch, T Ahmad, L Subramanian",
+            "publication": "Proceedings of the 2014 Conference on Internet Measurement Conference, 241-248, 2014",
+            "year": "2014",
+            "citations": "64"
+        },
+        {
+            "title": "Exploring internet security perceptions and practices in urban ghana",
+            "authors": "J Chen, M Paik, K McCabe",
+            "publication": "10th Symposium On Usable Privacy and Security (SOUPS 2014), 129-142, 2014",
+            "year": "2014",
+            "citations": "54"
+        },
+        {
+            "title": "RuralCafe: web search in the rural developing world",
+            "authors": "J Chen, L Subramanian, J Li",
+            "publication": "Proceedings of the 18th international conference on World wide web, 411-420, 2009",
+            "year": "2009",
+            "citations": "49"
+        },
+        {
+            "title": "Money, God, and SMS: Explorations in supporting social action through a Bangladeshi mosque",
+            "authors": "MR Rifat, J Chen, K Toyama",
+            "publication": "Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems …, 2017",
+            "year": "2017",
+            "citations": "43"
+        },
+        {
+            "title": "Computing within limits and ICTD",
+            "authors": "J Chen",
+            "publication": "First Monday, 2015",
+            "year": "2015",
+            "citations": "43"
+        },
+        {
+            "title": "Computing security in the developing world: A case for multidisciplinary research",
+            "authors": "Y Ben-David, S Hasan, J Pal, M Vallentin, S Panjwani, P Gutheim, J Chen, ...",
+            "publication": "Proceedings of the 5th ACM workshop on Networked systems for developing …, 2011",
+            "year": "2011",
+            "citations": "43"
+        },
+        {
+            "title": "The persistence of paper: a case study in microfinance from Ghana",
+            "authors": "I Ghosh, J Chen, J Ming, A Abouzied",
+            "publication": "Proceedings of the Seventh International Conference on Information and …, 2015",
+            "year": "2015",
+            "citations": "39"
+        },
+        {
+            "title": "The increasing sophistication of mobile media sharing in lower-middle-class Bangalore",
+            "authors": "J O'Neill, K Toyama, J Chen, B Tate, A Siddique",
+            "publication": "Proceedings of the Eighth International Conference on Information and …, 2016",
+            "year": "2016",
+            "citations": "35"
+        },
+        {
+            "title": "Routing in an Internet-scale network emulator",
+            "authors": "J Chen, D Gupta, KV Vishwanath, AC Snoeren, A Vahdat",
+            "publication": "The IEEE Computer Society's 12th Annual International Symposium on Modeling …, 2004",
+            "year": "2004",
+            "citations": "35"
+        },
+        {
+            "title": "One LED is Enough: Catalyzing Face-to-face Interactions at Conferences with a Gentle Nudge",
+            "authors": "J Chen, A Abouzied",
+            "publication": "Proceedings of the 19th ACM Conference on Computer-Supported Cooperative …, 2016",
+            "year": "2016",
+            "citations": "33"
+        },
+        {
+            "title": "A strategy for limits-aware computing",
+            "authors": "J Chen",
+            "publication": "Proceedings of the Second Workshop on Computing within Limits, 1-6, 2016",
+            "year": "2016",
+            "citations": "32"
+        }
+    ]
+}

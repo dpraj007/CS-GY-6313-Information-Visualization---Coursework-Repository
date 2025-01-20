@@ -1,0 +1,147 @@
+{
+    "name": "Rachel Greenstadt",
+    "affiliation": "Computer Science and Engineering Department, New York University",
+    "url": "https://scholar.google.com/citations?user=FsbND-sAAAAJ&hl=en",
+    "papers": [
+        {
+            "title": "Detecting hoaxes, frauds, and deception in writing style online",
+            "authors": "S Afroz, M Brennan, R Greenstadt",
+            "publication": "2012 IEEE symposium on security and privacy, 461-475, 2012",
+            "year": "2012",
+            "citations": "442"
+        },
+        {
+            "title": "A critical evaluation of website fingerprinting attacks",
+            "authors": "M Juarez, S Afroz, G Acar, C Diaz, R Greenstadt",
+            "publication": "Proceedings of the 2014 ACM SIGSAC conference on computer and communications …, 2014",
+            "year": "2014",
+            "citations": "387"
+        },
+        {
+            "title": "De-anonymizing programmers via code stylometry",
+            "authors": "A Caliskan-Islam, R Harang, A Liu, A Narayanan, C Voss, F Yamaguchi, ...",
+            "publication": "24th USENIX security symposium (USENIX Security 15), 255-270, 2015",
+            "year": "2015",
+            "citations": "310"
+        },
+        {
+            "title": "Adversarial Stylometry: Circumventing Authorship Recognition to Preserve Privacy and Anonymity",
+            "authors": "M BRENNAN, S AFROZ, R GREENSTADT",
+            "publication": "ACM Transactions on Information and System Security (TISSEC) 15 (3), 0",
+            "year": "",
+            "citations": "282"
+        },
+        {
+            "title": "Phishzoo: Detecting phishing websites by looking at them",
+            "authors": "S Afroz, R Greenstadt",
+            "publication": "2011 IEEE fifth international conference on semantic computing, 368-375, 2011",
+            "year": "2011",
+            "citations": "278"
+        },
+        {
+            "title": "Active authentication on mobile devices via stylometry, application usage, web browsing, and GPS location",
+            "authors": "L Fridman, S Weber, R Greenstadt, M Kam",
+            "publication": "IEEE Systems Journal 11 (2), 513-521, 2016",
+            "year": "2016",
+            "citations": "254"
+        },
+        {
+            "title": "Covert messaging through TCP timestamps",
+            "authors": "J Giffin, R Greenstadt, P Litwack, R Tibbetts",
+            "publication": "Privacy Enhancing Technologies: Second International Workshop, PET 2002 San …, 2003",
+            "year": "2003",
+            "citations": "226"
+        },
+        {
+            "title": "Doppelgänger finder: Taking stylometry to the underground",
+            "authors": "S Afroz, AC Islam, A Stolerman, R Greenstadt, D McCoy",
+            "publication": "2014 IEEE Symposium on Security and Privacy, 212-226, 2014",
+            "year": "2014",
+            "citations": "181"
+        },
+        {
+            "title": "When coding style survives compilation: De-anonymizing programmers from executable binaries",
+            "authors": "A Caliskan, F Yamaguchi, E Dauber, R Harang, K Rieck, R Greenstadt, ...",
+            "publication": "Network and Distributed System Symposium, 2018",
+            "year": "2018",
+            "citations": "161"
+        },
+        {
+            "title": "Use Fewer Instances of the Letter “i”: Toward Writing Style Anonymization",
+            "authors": "A McDonald, S Afroz, A Caliskan, A Stolerman, R Greenstadt",
+            "publication": "Privacy Enhancing Technologies, 299-318, 2012",
+            "year": "2012",
+            "citations": "132"
+        },
+        {
+            "title": "Practical attacks against authorship recognition techniques",
+            "authors": "MR Brennan, R Greenstadt",
+            "publication": "Twenty-First IAAI Conference, 2009",
+            "year": "2009",
+            "citations": "130"
+        },
+        {
+            "title": "Source code authorship attribution using long short-term memory based networks",
+            "authors": "B Alsulami, E Dauber, R Harang, S Mancoridis, R Greenstadt",
+            "publication": "Computer Security–ESORICS 2017: 22nd European Symposium on Research in …, 2017",
+            "year": "2017",
+            "citations": "128"
+        },
+        {
+            "title": "Why we can't be bothered to read privacy policies models of privacy economics as a lemons market",
+            "authors": "T Vila, R Greenstadt, D Molnar",
+            "publication": "Proceedings of the 5th international conference on Electronic commerce, 403-407, 2003",
+            "year": "2003",
+            "citations": "125"
+        },
+        {
+            "title": "Approaches to adversarial drift",
+            "authors": "A Kantchelian, S Afroz, L Huang, AC Islam, B Miller, MC Tschantz, ...",
+            "publication": "Proceedings of the 2013 ACM workshop on Artificial intelligence and security …, 2013",
+            "year": "2013",
+            "citations": "115"
+        },
+        {
+            "title": "Privacy detective: Detecting private information and collective privacy behavior in a large social network",
+            "authors": "A Caliskan Islam, J Walsh, R Greenstadt",
+            "publication": "Proceedings of the 13th Workshop on Privacy in the Electronic Society, 35-46, 2014",
+            "year": "2014",
+            "citations": "108"
+        },
+        {
+            "title": "Analysis of privacy loss in distributed constraint optimization",
+            "authors": "R Greenstadt, JP Pearce, M Tambe",
+            "publication": "AAAI 6, 647-653, 2006",
+            "year": "2006",
+            "citations": "106"
+        },
+        {
+            "title": "Use of machine learning in big data analytics for insider threat detection",
+            "authors": "M Mayhew, M Atighetchi, A Adler, R Greenstadt",
+            "publication": "MILCOM 2015-2015 IEEE Military Communications Conference, 915-922, 2015",
+            "year": "2015",
+            "citations": "101"
+        },
+        {
+            "title": "The tools and tactics used in intimate partner surveillance: An analysis of online infidelity forums",
+            "authors": "E Tseng, R Bellini, N McDonald, M Danos, R Greenstadt, D McCoy, N Dell, ...",
+            "publication": "29th USENIX security symposium (USENIX Security 20), 1893-1909, 2020",
+            "year": "2020",
+            "citations": "96"
+        },
+        {
+            "title": "Blogs, twitter feeds, and reddit comments: Cross-domain authorship attribution",
+            "authors": "R Overdorf, R Greenstadt",
+            "publication": "Proceedings on Privacy Enhancing Technologies, 2016",
+            "year": "2016",
+            "citations": "96"
+        },
+        {
+            "title": "Privacy, anonymity, and perceived risk in open collaboration: A study of Tor users and Wikipedians",
+            "authors": "A Forte, N Andalibi, R Greenstadt",
+            "publication": "Proceedings of the 2017 ACM Conference on Computer Supported Cooperative …, 2017",
+            "year": "2017",
+            "citations": "89"
+        }
+    ]
+}

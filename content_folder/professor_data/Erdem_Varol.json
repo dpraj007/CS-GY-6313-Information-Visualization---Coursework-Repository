@@ -1,0 +1,147 @@
+{
+    "name": "Erdem Varol",
+    "affiliation": "Assistant Professor, NYU",
+    "url": "https://scholar.google.com/citations?user=7GlElV0AAAAJ&hl=en",
+    "papers": [
+        {
+            "title": "Molecular topography of an entire nervous system",
+            "authors": "SR Taylor, G Santpere, A Weinreb, A Barrett, MB Reilly, C Xu, E Varol, ...",
+            "publication": "Cell, 2021",
+            "year": "2021",
+            "citations": "455"
+        },
+        {
+            "title": "Two distinct neuroanatomical subtypes of schizophrenia revealed using machine learning",
+            "authors": "GB Chand, DB Dwyer, G Erus, A Sotiras, E Varol, D Srinivasan, J Doshi, ...",
+            "publication": "Brain 143 (3), 1027-1038, 2020",
+            "year": "2020",
+            "citations": "226"
+        },
+        {
+            "title": "Heterogeneity of neuroanatomical patterns in prodromal Alzheimer’s disease: links to cognition, progression and biomarkers",
+            "authors": "A Dong, JB Toledo, N Honnorat, J Doshi, E Varol, A Sotiras, D Wolk, ...",
+            "publication": "Brain 140 (3), 735-747, 2017",
+            "year": "2017",
+            "citations": "196"
+        },
+        {
+            "title": "NeuroPAL: a multicolor atlas for Whole-Brain neuronal identification in C. elegans",
+            "authors": "E Yemini, A Lin, A Nejatbakhsh, E Varol, R Sun, GE Mena, ADT Samuel, ...",
+            "publication": "Cell 184 (1), 272-288. e11, 2021",
+            "year": "2021",
+            "citations": "192"
+        },
+        {
+            "title": "HYDRA: Revealing heterogeneity of imaging and genetic patterns through a multiple max-margin discriminative analysis framework",
+            "authors": "E Varol, A Sotiras, C Davatzikos, ADN Initiative",
+            "publication": "Neuroimage 145, 346-364, 2017",
+            "year": "2017",
+            "citations": "172"
+        },
+        {
+            "title": "Unique homeobox codes delineate all the neuron classes of C. elegans",
+            "authors": "MB Reilly, C Cros, E Varol, E Yemini, O Hobert",
+            "publication": "Nature 584 (7822), 595-601, 2020",
+            "year": "2020",
+            "citations": "130"
+        },
+        {
+            "title": "Crowdsourced estimation of cognitive decline and resilience in Alzheimer's disease",
+            "authors": "GI Allen, N Amoroso, C Anghel, V Balagurusamy, CJ Bare, D Beaton, ...",
+            "publication": "Alzheimer's & Dementia 12 (6), 645-653, 2016",
+            "year": "2016",
+            "citations": "88"
+        },
+        {
+            "title": "Characterizing heterogeneity in neuroimaging, cognition, clinical symptoms, and genetics among patients with late-life depression",
+            "authors": "J Wen, CHY Fu, D Tosun, Y Veturi, Z Yang, A Abdulkadir, E Mamourian, ...",
+            "publication": "JAMA psychiatry 79 (5), 464-474, 2022",
+            "year": "2022",
+            "citations": "75"
+        },
+        {
+            "title": "Interaction of the Joining Region in Junctophilin-2 With the L-Type Ca2+ Channel Is Pivotal for Cardiac Dyad Assembly and Intracellular Ca2+ Dynamics",
+            "authors": "P Gross, J Johnson, CM Romero, DM Eaton, C Poulet, J Sanchez-Alonso, ...",
+            "publication": "Circulation research 128 (1), 92-114, 2021",
+            "year": "2021",
+            "citations": "58"
+        },
+        {
+            "title": "Neurostructural heterogeneity in youths with internalizing symptoms",
+            "authors": "AN Kaczkurkin, A Sotiras, EB Baller, R Barzilay, ME Calkins, GB Chand, ...",
+            "publication": "Biological psychiatry 87 (5), 473-482, 2020",
+            "year": "2020",
+            "citations": "57"
+        },
+        {
+            "title": "Expression profiling of the mature C. elegans nervous system by single-cell RNA-sequencing",
+            "authors": "SR Taylor, G Santpere, M Reilly, L Glenwinkel, A Poff, R McWhirter, C Xu, ...",
+            "publication": "bioRxiv, 737577, 2019",
+            "year": "2019",
+            "citations": "57"
+        },
+        {
+            "title": "Feature ranking based nested support vector machine ensemble for medical image classification",
+            "authors": "E Varol, B Gaonkar, G Erus, R Schultz, C Davatzikos",
+            "publication": "2012 9Th IEEE international symposium on biomedical imaging (ISBI), 146-149, 2012",
+            "year": "2012",
+            "citations": "53"
+        },
+        {
+            "title": "Multi-scale semi-supervised clustering of brain images: deriving disease subtypes",
+            "authors": "J Wen, E Varol, A Sotiras, Z Yang, GB Chand, G Erus, H Shou, ...",
+            "publication": "Medical Image Analysis 75, 102304, 2022",
+            "year": "2022",
+            "citations": "52"
+        },
+        {
+            "title": "NeuroPAL: a neuronal polychromatic atlas of landmarks for whole-brain imaging in C. elegans",
+            "authors": "E Yemini, A Lin, A Nejatbakhsh, E Varol, R Sun, GE Mena, ADT Samuel, ...",
+            "publication": "BioRxiv, 676312, 2020",
+            "year": "2020",
+            "citations": "43"
+        },
+        {
+            "title": "A multidimensional neural maturation index reveals reproducible developmental patterns in children and adolescents",
+            "authors": "M Truelove-Hill, G Erus, V Bashyam, E Varol, C Sako, RC Gur, RE Gur, ...",
+            "publication": "Journal of Neuroscience 40 (6), 1265-1275, 2020",
+            "year": "2020",
+            "citations": "38"
+        },
+        {
+            "title": "The Prop1-like homeobox gene unc-42 specifies the identity of synaptically connected neurons",
+            "authors": "EG Berghoff, L Glenwinkel, A Bhattacharya, HS Sun, E Varol, ...",
+            "publication": "Elife 10, e64903, 2021",
+            "year": "2021",
+            "citations": "34"
+        },
+        {
+            "title": "Disentangling disease heterogeneity with max-margin multiple hyperplane classifier",
+            "authors": "E Varol, A Sotiras, C Davatzikos",
+            "publication": "Medical Image Computing and Computer-Assisted Intervention--MICCAI 2015 …, 2015",
+            "year": "2015",
+            "citations": "31"
+        },
+        {
+            "title": "Schizophrenia imaging signatures and their associations with cognition, psychopathology, and genetics in the general population",
+            "authors": "GB Chand, P Singhal, DB Dwyer, J Wen, G Erus, J Doshi, D Srinivasan, ...",
+            "publication": "American Journal of Psychiatry 179 (9), 650-660, 2022",
+            "year": "2022",
+            "citations": "29"
+        },
+        {
+            "title": "Three-dimensional spike localization and improved motion correction for Neuropixels recordings",
+            "authors": "J Boussard, E Varol, HD Lee, N Dethe, L Paninski",
+            "publication": "Advances in Neural Information Processing Systems 34, 2021",
+            "year": "2021",
+            "citations": "25"
+        },
+        {
+            "title": "Nuquantus: Machine learning software for the characterization and quantification of cell nuclei in complex immunofluorescent tissue images",
+            "authors": "P Gross, N Honnorat, E Varol, M Wallner, DM Trappanese, TE Sharp, ...",
+            "publication": "Scientific reports 6 (1), 23431, 2016",
+            "year": "2016",
+            "citations": "22"
+        }
+    ]
+}

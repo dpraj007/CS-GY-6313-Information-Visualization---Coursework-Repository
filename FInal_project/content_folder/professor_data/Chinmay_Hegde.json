@@ -1,0 +1,147 @@
+{
+    "name": "Chinmay Hegde",
+    "affiliation": "New York University",
+    "url": "https://scholar.google.com/citations?user=eJAV17IAAAAJ&hl=en",
+    "papers": [
+        {
+            "title": "Model-based compressive sensing",
+            "authors": "RG Baraniuk, V Cevher, MF Duarte, C Hegde",
+            "publication": "IEEE Transactions on information theory 56 (4), 1982-2001, 2010",
+            "year": "2010",
+            "citations": "2110"
+        },
+        {
+            "title": "Sparse signal recovery using markov random fields",
+            "authors": "V Cevher, C Hegde, MF Duarte, RG Baraniuk",
+            "publication": "Neural Information Processing Systems, 2009",
+            "year": "2009",
+            "citations": "225"
+        },
+        {
+            "title": "Collaborative deep learning in fixed topology networks",
+            "authors": "Z Jiang, A Balu, C Hegde, S Sarkar",
+            "publication": "Neural Information Processing Systems, 2017",
+            "year": "2017",
+            "citations": "205"
+        },
+        {
+            "title": "Solving linear inverse problems using gan priors: An algorithm with provable guarantees",
+            "authors": "V Shah, C Hegde",
+            "publication": "2018 IEEE international conference on acoustics, speech and signal …, 2018",
+            "year": "2018",
+            "citations": "194"
+        },
+        {
+            "title": "Random projections for manifold learning",
+            "authors": "C Hegde, MB Wakin, RG Baraniuk",
+            "publication": "Neural Information Processing Systems, 2007",
+            "year": "2007",
+            "citations": "175"
+        },
+        {
+            "title": "An introduction to compressive sensing",
+            "authors": "R Baraniuk, MA Davenport, MF Duarte, C Hegde",
+            "publication": "Connexions e-textbook, 24-76, 2011",
+            "year": "2011",
+            "citations": "159"
+        },
+        {
+            "title": "Semantic adversarial attacks: Parametric transformations that fool deep classifiers",
+            "authors": "A Joshi, A Mukherjee, S Sarkar, C Hegde",
+            "publication": "Proceedings of the IEEE/CVF international conference on computer vision …, 2019",
+            "year": "2019",
+            "citations": "119"
+        },
+        {
+            "title": "Recovery of clustered sparse signals from compressive measurements",
+            "authors": "V Cevher, P Indyk, C Hegde, RG Baraniuk",
+            "publication": "SampTA, 2009",
+            "year": "2009",
+            "citations": "115"
+        },
+        {
+            "title": "A nearly-linear time framework for graph-structured sparsity",
+            "authors": "C Hegde, P Indyk, L Schmidt",
+            "publication": "International Conference on Machine Learning, 928-937, 2015",
+            "year": "2015",
+            "citations": "113"
+        },
+        {
+            "title": "NuMax: a convex approach for learning near-isometric linear embeddings",
+            "authors": "C Hegde, AC Sankaranarayanan, W Yin, RG Baraniuk",
+            "publication": "Signal Processing, IEEE Transactions on 63 (22), 6109-6121, 2015",
+            "year": "2015",
+            "citations": "109"
+        },
+        {
+            "title": "Algorithmic guarantees for inverse imaging with untrained network priors",
+            "authors": "G Jagatap, C Hegde",
+            "publication": "Neural Information Processing Systems, 2019",
+            "year": "2019",
+            "citations": "103"
+        },
+        {
+            "title": "On the computational complexity of self-attention",
+            "authors": "FD Keles, PM Wijewardena, C Hegde",
+            "publication": "International Conference on Algorithmic Learning Theory, 597-619, 2023",
+            "year": "2023",
+            "citations": "83"
+        },
+        {
+            "title": "Joint manifolds for data fusion",
+            "authors": "MA Davenport, C Hegde, MF Duarte, RG Baraniuk",
+            "publication": "Image Processing, IEEE Transactions on 19 (10), 2580-2594, 2010",
+            "year": "2010",
+            "citations": "81"
+        },
+        {
+            "title": "Approximation algorithms for model-based compressive sensing",
+            "authors": "C Hegde, P Indyk, L Schmidt",
+            "publication": "IEEE Transactions on Information Theory 61 (9), 5129-5147, 2015",
+            "year": "2015",
+            "citations": "77"
+        },
+        {
+            "title": "When do neural nets outperform boosted trees on tabular data?",
+            "authors": "D McElfresh, S Khandagale, J Valverde, V Prasad C, G Ramakrishnan, ...",
+            "publication": "Advances in Neural Information Processing Systems 36, 2024",
+            "year": "2024",
+            "citations": "70"
+        },
+        {
+            "title": "Spatiotemporally Constrained Action Space Attacks on Deep Reinforcement Learning Agents",
+            "authors": "XY Lee, S Ghadai, KL Tan, C Hegde, S Sarkar",
+            "publication": "AAAI, 2020",
+            "year": "2020",
+            "citations": "66"
+        },
+        {
+            "title": "Compressive sensing recovery of spike trains using a structured sparsity model",
+            "authors": "C Hegde, MF Duarte, V Cevher",
+            "publication": "SPARS'09-Signal Processing with Adaptive Sparse Structured Representations, 2009",
+            "year": "2009",
+            "citations": "65"
+        },
+        {
+            "title": "Sampling and recovery of pulse streams",
+            "authors": "C Hegde, RG Baraniuk",
+            "publication": "Signal Processing, IEEE Transactions on 59 (4), 1505-1517, 2011",
+            "year": "2011",
+            "citations": "64"
+        },
+        {
+            "title": "Fast and near-optimal algorithms for approximating distributions by histograms",
+            "authors": "J Acharya, I Diakonikolas, C Hegde, JZ Li, L Schmidt",
+            "publication": "Proceedings of the 34th ACM SIGMOD-SIGACT-SIGAI Symposium on Principles of …, 2015",
+            "year": "2015",
+            "citations": "61"
+        },
+        {
+            "title": "Fast, sample-efficient algorithms for structured phase retrieval",
+            "authors": "G Jagatap, C Hegde",
+            "publication": "Advances in Neural Information Processing Systems, 4917-4927, 2017",
+            "year": "2017",
+            "citations": "58"
+        }
+    ]
+}

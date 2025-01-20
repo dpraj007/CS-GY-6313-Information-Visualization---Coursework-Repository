@@ -1,0 +1,147 @@
+{
+    "name": "Daniel B. Neill",
+    "affiliation": "New York University",
+    "url": "https://scholar.google.com/citations?user=zSqlq00AAAAJ",
+    "papers": [
+        {
+            "title": "Youth violence: What we know and what we need to know.",
+            "authors": "BJ Bushman, K Newman, SL Calvert, G Downey, M Dredze, ...",
+            "publication": "American Psychologist 71 (1), 17, 2016",
+            "year": "2016",
+            "citations": "315"
+        },
+        {
+            "title": "Fast subset scan for spatial pattern detection",
+            "authors": "DB Neill",
+            "publication": "Journal of the Royal Statistical Society Series B: Statistical Methodology …, 2012",
+            "year": "2012",
+            "citations": "269"
+        },
+        {
+            "title": "Rapid Detection of Significant Spatial Clusters",
+            "authors": "DB Neill, AW Moore",
+            "publication": "10th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 256-265, 2004",
+            "year": "2004",
+            "citations": "228"
+        },
+        {
+            "title": "Non-parametric scan statistics for event detection and forecasting in heterogeneous social media graphs",
+            "authors": "F Chen, DB Neill",
+            "publication": "Proceedings of the 20th ACM SIGKDD international conference on Knowledge …, 2014",
+            "year": "2014",
+            "citations": "216"
+        },
+        {
+            "title": "Using artificial intelligence to improve hospital inpatient care",
+            "authors": "DB Neill",
+            "publication": "IEEE Intelligent Systems 28 (2), 92-95, 2013",
+            "year": "2013",
+            "citations": "199"
+        },
+        {
+            "title": "Detection of emerging space-time clusters",
+            "authors": "DB Neill, AW Moore, M Sabhnani, K Daniel",
+            "publication": "Proceedings of the eleventh ACM SIGKDD international conference on Knowledge …, 2005",
+            "year": "2005",
+            "citations": "174"
+        },
+        {
+            "title": "A Bayesian spatial scan statistic",
+            "authors": "D Neill, A Moore, G Cooper",
+            "publication": "Advances in neural information processing systems 18, 2005",
+            "year": "2005",
+            "citations": "174"
+        },
+        {
+            "title": "Anomaly pattern detection in categorical datasets",
+            "authors": "K Das, J Schneider, DB Neill",
+            "publication": "Proceedings of the 14th ACM SIGKDD international conference on Knowledge …, 2008",
+            "year": "2008",
+            "citations": "154"
+        },
+        {
+            "title": "Artificial intelligence–enabled public health surveillance—from local detection to global epidemic monitoring and control",
+            "authors": "D Zeng, Z Cao, DB Neill",
+            "publication": "Artificial intelligence in medicine, 437-453, 2021",
+            "year": "2021",
+            "citations": "137"
+        },
+        {
+            "title": "Fast generalized subset scan for anomalous pattern detection",
+            "authors": "E McFowland, S Speakman, DB Neill",
+            "publication": "The Journal of Machine Learning Research 14 (1), 1533-1561, 2013",
+            "year": "2013",
+            "citations": "133"
+        },
+        {
+            "title": "Guggulsterone enhances head and neck cancer therapies via inhibition of signal transducer and activator of transcription-3",
+            "authors": "RJ Leeman-Neill, SE Wheeler, SV Singh, SM Thomas, RR Seethala, ...",
+            "publication": "Carcinogenesis 30 (11), 1848-1856, 2009",
+            "year": "2009",
+            "citations": "120"
+        },
+        {
+            "title": "Fast Kronecker inference in Gaussian processes with non-Gaussian likelihoods",
+            "authors": "S Flaxman, A Wilson, D Neill, H Nickisch, A Smola",
+            "publication": "International conference on machine learning, 607-616, 2015",
+            "year": "2015",
+            "citations": "114"
+        },
+        {
+            "title": "Expectation-based scan statistics for monitoring spatial time series data",
+            "authors": "DB Neill",
+            "publication": "International Journal of Forecasting 25 (3), 498-517, 2009",
+            "year": "2009",
+            "citations": "114"
+        },
+        {
+            "title": "Honokiol inhibits epidermal growth factor receptor signaling and enhances the antitumor effects of epidermal growth factor receptor inhibitors",
+            "authors": "RJ Leeman-Neill, Q Cai, SC Joyce, SM Thomas, NE Bhola, DB Neill, ...",
+            "publication": "Clinical Cancer Research 16 (9), 2571-2579, 2010",
+            "year": "2010",
+            "citations": "112"
+        },
+        {
+            "title": "Detection of spatial and spatio-temporal clusters",
+            "authors": "DB Neill",
+            "publication": "Carnegie Mellon University, 2006",
+            "year": "2006",
+            "citations": "111"
+        },
+        {
+            "title": "A multivariate Bayesian scan statistic for early event detection and characterization",
+            "authors": "DB Neill, GF Cooper",
+            "publication": "Machine learning 79, 261-282, 2010",
+            "year": "2010",
+            "citations": "109"
+        },
+        {
+            "title": "Identifying significant predictive bias in classifiers",
+            "authors": "Z Zhang, DB Neill",
+            "publication": "arXiv preprint arXiv:1611.08292, 2016",
+            "year": "2016",
+            "citations": "89"
+        },
+        {
+            "title": "An empirical comparison of spatial scan statistics for outbreak detection",
+            "authors": "DB Neill",
+            "publication": "International journal of health geographics 8, 1-16, 2009",
+            "year": "2009",
+            "citations": "89"
+        },
+        {
+            "title": "Detecting significant multidimensional spatial clusters",
+            "authors": "D Neill, A Moore, F Pereira, TM Mitchell",
+            "publication": "Advances in Neural Information Processing Systems 17, 2004",
+            "year": "2004",
+            "citations": "77"
+        },
+        {
+            "title": "Inhibition of EGFR-STAT3 signaling with erlotinib prevents carcinogenesis in a chemically-induced mouse model of oral squamous cell carcinoma",
+            "authors": "RJ Leeman-Neill, RR Seethala, SV Singh, ML Freilino, JS Bednash, ...",
+            "publication": "Cancer prevention research 4 (2), 230-237, 2011",
+            "year": "2011",
+            "citations": "73"
+        }
+    ]
+}

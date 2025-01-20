@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Median Earnings by Educational Attainment</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <section id="median-earnings-section">
+  <h1>Median Earnings by Educational Attainment</h1>
+  <div id="chart-container">
+    <svg id="chart"></svg>
+    <div id="info-box">
+      <p id="current-level">Hover over an education level</p>
+      <p id="earnings-display"></p>
+      <p id="difference-display"></p>
+    </div>
+  </div>
+  <div id="education-levels">
+    <ul>
+      <li data-level="less_than_high_school_graduate">Less than High School Graduate</li>
+      <li data-level="high_school_graduate_includes_equivalency">High School Graduate</li>
+      <li data-level="some_college_or_associates_degree">Some College or Associate's Degree</li>
+      <li data-level="bachelors_degree">Bachelor's Degree</li>
+      <li data-level="graduate_or_professional_degree">Graduate or Professional Degree</li>
+    </ul>
+  </div>
+
+</section>
+
+
+<section id="unemployment-section">
+  <h2>Unemployment Rate by Educational Attainment</h2>
+  <div id="unemployment-chart-container">
+    <svg id="unemployment-chart"></svg>
+    <div id="unemployment-info-box">
+      <p id="current-unemployment-level">Hover over an education level</p>
+      <p id="unemployment-display"></p>
+      <p id="unemployment-difference-display"></p>
+    </div>
+  </div>
+  <div id="unemployment-education-levels">
+    <ul>
+      <li data-level="Less than high school graduate">Less than High School Graduate</li>
+      <li data-level="High school graduate (includes equivalency)">High School Graduate</li>
+      <li data-level="Some college or associate's degree">Some College or Associate's Degree</li>
+      <li data-level="Bachelor's degree or higher">Bachelor's Degree or Higher</li>
+    </ul>
+  </div>
+</section>
+
+
+ <!-- Third Visualization -->
+ <section id="poverty-section">
+  <h2>Poverty Rate by Educational Attainment</h2>
+  <div id="poverty-chart-container">
+    <svg id="poverty-chart"></svg>
+    <div id="poverty-info-box">
+      <p id="current-poverty-level">Hover over an education level</p>
+      <p id="poverty-display"></p>
+      <p id="poverty-difference-display"></p>
+    </div>
+  </div>
+  <div id="poverty-education-levels">
+    <ul>
+      <li data-level="Less than high school graduate">Less than High School Graduate</li>
+      <li data-level="High school graduate (includes equivalency)">High School Graduate</li>
+      <li data-level="Some college or associate's degree">Some College or Associate's Degree</li>
+      <li data-level="Bachelor's degree or higher">Bachelor's Degree or Higher</li>
+    </ul>
+  </div>
+</section>
+
+
+
+  <script src="https://d3js.org/d3.v6.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

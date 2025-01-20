@@ -1,0 +1,147 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #chart-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  #chart {
+    width: 60%;
+    height: 300px;
+    border: 1px solid #ccc;
+  }
+  
+  #info-box {
+    margin-top: 10px;
+    text-align: center;
+  }
+  
+  #education-levels {
+    margin-top: 30px;
+    text-align: center;
+  }
+  
+  #education-levels ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #education-levels li {
+    display: inline-block;
+    margin: 5px 10px;
+    padding: 10px 15px;
+    background-color: #f0f0f0;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+  }
+  
+  #education-levels li:hover {
+    background-color: #d9d9d9;
+  }
+  
+
+/* Existing styles remain unchanged */
+
+/* Second Visualization Styles */
+#unemployment-section {
+  margin-top: 50px;
+}
+
+#unemployment-chart-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#unemployment-chart {
+  width: 60%;
+  height: 300px;
+  border: 1px solid #ccc;
+}
+
+#unemployment-info-box {
+  margin-top: 10px;
+  text-align: center;
+}
+
+#unemployment-education-levels {
+  margin-top: 30px;
+  text-align: center;
+}
+
+#unemployment-education-levels ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+#unemployment-education-levels li {
+  display: inline-block;
+  margin: 5px 10px;
+  padding: 10px 15px;
+  background-color: #f0f0f0;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+#unemployment-education-levels li:hover {
+  background-color: #d9d9d9;
+}
+
+
+/* Existing styles remain unchanged */
+
+/* Third Visualization Styles */
+#poverty-section {
+  margin-top: 50px;
+}
+
+#poverty-chart-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#poverty-chart {
+  width: 60%;
+  height: 300px;
+  border: 1px solid #ccc;
+}
+
+#poverty-info-box {
+  margin-top: 10px;
+  text-align: center;
+}
+
+#poverty-education-levels {
+  margin-top: 30px;
+  text-align: center;
+}
+
+#poverty-education-levels ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+#poverty-education-levels li {
+  display: inline-block;
+  margin: 5px 10px;
+  padding: 10px 15px;
+  background-color: #f0f0f0;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+#poverty-education-levels li:hover {
+  background-color: #d9d9d9;
+}

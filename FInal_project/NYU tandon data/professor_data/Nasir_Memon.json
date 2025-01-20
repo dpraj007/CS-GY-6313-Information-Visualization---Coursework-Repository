@@ -1,0 +1,147 @@
+{
+    "name": "Nasir Memon",
+    "affiliation": "Professor of Comp Sc. and Eng, New York University, Tandon School of Engineering",
+    "url": "https://scholar.google.com/citations?user=Pz0YttAAAAAJ&amp%3Bhl=en&amp%3Boi=ao",
+    "papers": [
+        {
+            "title": "Context-based, adaptive, lossless image coding",
+            "authors": "X Wu, N Memon",
+            "publication": "IEEE transactions on Communications 4 (45), 437-444, 1997",
+            "year": "1997",
+            "citations": "1425"
+        },
+        {
+            "title": "PassPoints: Design and longitudinal evaluation of a graphical password system",
+            "authors": "S Wiedenbeck, J Waters, JC Birget, A Brodskiy, N Memon",
+            "publication": "International journal of human-computer studies 63 (1-2), 102-127, 2005",
+            "year": "2005",
+            "citations": "1108"
+        },
+        {
+            "title": "Resolving rightful ownerships with invisible watermarking techniques: Limitations, attacks, and implications",
+            "authors": "S Craver, N Memon, BL Yeo, MM Yeung",
+            "publication": "IEEE Journal on Selected areas in Communications 16 (4), 573-586, 1998",
+            "year": "1998",
+            "citations": "875"
+        },
+        {
+            "title": "Using host symptoms, host roles, and/or host reputation for detection of host infection",
+            "authors": "N Memon, K Shanmugasundaram",
+            "publication": "US Patent App. 12/723,272, 2010",
+            "year": "2010",
+            "citations": "867"
+        },
+        {
+            "title": "Secret and public key image watermarking schemes for image authentication and ownership verification",
+            "authors": "PW Wong, N Memon",
+            "publication": "IEEE transactions on image processing 10 (10), 1593-1601, 2001",
+            "year": "2001",
+            "citations": "843"
+        },
+        {
+            "title": "Steganalysis using image quality metrics",
+            "authors": "I Avcibas, N Memon, B Sankur",
+            "publication": "IEEE transactions on Image Processing 12 (2), 221-229, 2003",
+            "year": "2003",
+            "citations": "768"
+        },
+        {
+            "title": "An efficient and robust method for detecting copy-move forgery",
+            "authors": "S Bayram, HT Sencar, N Memon",
+            "publication": "2009 IEEE International Conference on Acoustics, Speech and Signal …, 2009",
+            "year": "2009",
+            "citations": "707"
+        },
+        {
+            "title": "Analysis of LSB based image steganography techniques",
+            "authors": "R Chandramouli, N Memon",
+            "publication": "Proceedings 2001 international conference on image processing (Cat. No …, 2001",
+            "year": "2001",
+            "citations": "689"
+        },
+        {
+            "title": "Counterfeiting attacks on oblivious block-wise independent invisible watermarking schemes",
+            "authors": "M Holliman, N Memon",
+            "publication": "IEEE Transactions on image processing 9 (3), 432-441, 2000",
+            "year": "2000",
+            "citations": "659"
+        },
+        {
+            "title": "Image steganography and steganalysis: Concepts and practice",
+            "authors": "R Chandramouli, M Kharrazi, N Memon",
+            "publication": "Digital Watermarking: Second International Workshop, IWDW 2003, Seoul, Korea …, 2004",
+            "year": "2004",
+            "citations": "620"
+        },
+        {
+            "title": "Authentication using graphical passwords: Effects of tolerance and image choice",
+            "authors": "S Wiedenbeck, J Waters, JC Birget, A Brodskiy, N Memon",
+            "publication": "Proceedings of the 2005 symposium on Usable privacy and security, 1-12, 2005",
+            "year": "2005",
+            "citations": "617"
+        },
+        {
+            "title": "A buyer-seller watermarking protocol",
+            "authors": "N Memon, PW Wong",
+            "publication": "IEEE Transactions on image processing 10 (4), 643-649, 2001",
+            "year": "2001",
+            "citations": "545"
+        },
+        {
+            "title": "Source camera identification based on CFA interpolation",
+            "authors": "S Bayram, H Sencar, N Memon, I Avcibas",
+            "publication": "IEEE international conference on image processing 2005 3, III-69, 2005",
+            "year": "2005",
+            "citations": "470"
+        },
+        {
+            "title": "Blind source camera identification",
+            "authors": "M Kharrazi, HT Sencar, N Memon",
+            "publication": "2004 International Conference on Image Processing, 2004. ICIP'04. 1, 709-712, 2004",
+            "year": "2004",
+            "citations": "467"
+        },
+        {
+            "title": "Protecting digital media content",
+            "authors": "N Memon, PW Wong",
+            "publication": "Communications of the ACM 41 (7), 35-43, 1998",
+            "year": "1998",
+            "citations": "406"
+        },
+        {
+            "title": "Biometric-rich gestures: a novel approach to authentication on multi-touch devices",
+            "authors": "N Sae-Bae, K Ahmed, K Isbister, N Memon",
+            "publication": "proceedings of the SIGCHI Conference on Human Factors in Computing Systems …, 2012",
+            "year": "2012",
+            "citations": "405"
+        },
+        {
+            "title": "Can invisible watermarks resolve rightful ownerships?",
+            "authors": "SA Craver, ND Memon, BL Yeo, MM Yeung",
+            "publication": "Storage and Retrieval for Image and Video Databases V 3022, 310-321, 1997",
+            "year": "1997",
+            "citations": "402"
+        },
+        {
+            "title": "Modeling user choice in the PassPoints graphical password scheme",
+            "authors": "AE Dirik, N Memon, JC Birget",
+            "publication": "Proceedings of the 3rd symposium on Usable privacy and security, 20-28, 2007",
+            "year": "2007",
+            "citations": "346"
+        },
+        {
+            "title": "Image steganalysis with binary similarity measures",
+            "authors": "İ Avcıbaş, M Kharrazi, N Memon, B Sankur",
+            "publication": "EURASIP Journal on Advances in Signal Processing 2005, 1-9, 2005",
+            "year": "2005",
+            "citations": "344"
+        },
+        {
+            "title": "Protecting biometric templates with sketch: Theory and practice",
+            "authors": "Y Sutcu, Q Li, N Memon",
+            "publication": "IEEE Transactions on Information Forensics and Security 2 (3), 503-512, 2007",
+            "year": "2007",
+            "citations": "316"
+        }
+    ]
+}

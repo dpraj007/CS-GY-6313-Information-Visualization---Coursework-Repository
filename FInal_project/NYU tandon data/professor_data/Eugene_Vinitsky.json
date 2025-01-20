@@ -1,0 +1,147 @@
+{
+    "name": "Eugene Vinitsky",
+    "affiliation": "Assistant Professor, NYU",
+    "url": "https://scholar.google.com/citations?user=6dr5fLEAAAAJ&hl=en&oi=ao",
+    "papers": [
+        {
+            "title": "The surprising effectiveness of ppo in cooperative multi-agent games",
+            "authors": "C Yu, A Velu, E Vinitsky, J Gao, Y Wang, A Bayen, Y Wu",
+            "publication": "Advances in Neural Information Processing Systems 35, 24611-24624, 2022",
+            "year": "2022",
+            "citations": "1299"
+        },
+        {
+            "title": "Flow: Architecture and benchmarking for reinforcement learning in traffic control",
+            "authors": "C Wu, A Kreidieh, K Parvate, E Vinitsky, AM Bayen",
+            "publication": "arXiv preprint arXiv:1710.05465 10, 2017",
+            "year": "2017",
+            "citations": "277"
+        },
+        {
+            "title": "Emergent complexity and zero-shot transfer via unsupervised environment design",
+            "authors": "M Dennis, N Jaques, E Vinitsky, A Bayen, S Russell, A Critch, S Levine",
+            "publication": "Advances in neural information processing systems 33, 13049-13061, 2020",
+            "year": "2020",
+            "citations": "220"
+        },
+        {
+            "title": "Benchmarks for reinforcement learning in mixed-autonomy traffic",
+            "authors": "E Vinitsky, A Kreidieh, L Le Flem, N Kheterpal, K Jang, C Wu, F Wu, ...",
+            "publication": "Conference on robot learning, 399-409, 2018",
+            "year": "2018",
+            "citations": "185"
+        },
+        {
+            "title": "Flow: A modular learning framework for mixed autonomy traffic",
+            "authors": "C Wu, AR Kreidieh, K Parvate, E Vinitsky, AM Bayen",
+            "publication": "IEEE Transactions on Robotics 38 (2), 1270-1286, 2021",
+            "year": "2021",
+            "citations": "176"
+        },
+        {
+            "title": "Emergent behaviors in mixed-autonomy traffic",
+            "authors": "C Wu, A Kreidieh, E Vinitsky, AM Bayen",
+            "publication": "Conference on Robot Learning, 398-407, 2017",
+            "year": "2017",
+            "citations": "137"
+        },
+        {
+            "title": "Lagrangian control through deep-rl: Applications to bottleneck decongestion",
+            "authors": "E Vinitsky, K Parvate, A Kreidieh, C Wu, A Bayen",
+            "publication": "2018 21st International Conference on Intelligent Transportation Systems …, 2018",
+            "year": "2018",
+            "citations": "121"
+        },
+        {
+            "title": "Simulation to scaled city: zero-shot policy transfer for traffic control via autonomous vehicles",
+            "authors": "K Jang, E Vinitsky, B Chalaki, B Remer, L Beaver, AA Malikopoulos, ...",
+            "publication": "Proceedings of the 10th ACM/IEEE International Conference on Cyber-Physical …, 2019",
+            "year": "2019",
+            "citations": "101"
+        },
+        {
+            "title": "Robust reinforcement learning using adversarial populations",
+            "authors": "E Vinitsky, Y Du, K Parvate, K Jang, P Abbeel, A Bayen",
+            "publication": "arXiv preprint arXiv:2008.01825, 2020",
+            "year": "2020",
+            "citations": "95"
+        },
+        {
+            "title": "Metallization and Superconductivity in the Hydrogen-Rich Ionic Salt BaReH9",
+            "authors": "T Muramatsu, WK Wanene, M Somayazulu, E Vinitsky, D Chandra, ...",
+            "publication": "The Journal of Physical Chemistry C 119 (32), 18007-18013, 2015",
+            "year": "2015",
+            "citations": "78"
+        },
+        {
+            "title": "Flow: Deep reinforcement learning for control in sumo",
+            "authors": "N Kheterpal, K Parvate, C Wu, A Kreidieh, E Vinitsky, A Bayen",
+            "publication": "EPiC Series in Engineering 2, 134-151, 2018",
+            "year": "2018",
+            "citations": "63"
+        },
+        {
+            "title": "Framework for control and deep reinforcement learning in traffic",
+            "authors": "C Wu, K Parvate, N Kheterpal, L Dickstein, A Mehta, E Vinitsky, AM Bayen",
+            "publication": "2017 IEEE 20th International Conference on Intelligent Transportation …, 2017",
+            "year": "2017",
+            "citations": "58"
+        },
+        {
+            "title": "Zero-shot autonomous vehicle policy transfer: From simulation to real-world via adversarial learning",
+            "authors": "B Chalaki, LE Beaver, B Remer, K Jang, E Vinitsky, AM Bayen, ...",
+            "publication": "2020 IEEE 16th international conference on control & automation (ICCA), 35-40, 2020",
+            "year": "2020",
+            "citations": "55"
+        },
+        {
+            "title": "Flow: A modular learning framework for autonomy in traffic",
+            "authors": "C Wu, A Kreidieh, K Parvate, E Vinitsky, AM Bayen",
+            "publication": "arXiv preprint arXiv:1710.05465, 2017",
+            "year": "2017",
+            "citations": "53"
+        },
+        {
+            "title": "A learning agent that acquires social norms from public sanctions in decentralized multi-agent settings",
+            "authors": "E Vinitsky, R Köster, JP Agapiou, EA Duéñez-Guzmán, AS Vezhnevets, ...",
+            "publication": "Collective Intelligence 2 (2), 26339137231162025, 2023",
+            "year": "2023",
+            "citations": "41"
+        },
+        {
+            "title": "Nocturne: a scalable driving benchmark for bringing multi-agent learning one step closer to the real world",
+            "authors": "E Vinitsky, N Lichtlé, X Yang, B Amos, J Foerster",
+            "publication": "Advances in Neural Information Processing Systems 35, 3962-3974, 2022",
+            "year": "2022",
+            "citations": "39"
+        },
+        {
+            "title": "Deploying traffic smoothing cruise controllers learned from trajectory data",
+            "authors": "N Lichtlé, E Vinitsky, M Nice, B Seibold, D Work, AM Bayen",
+            "publication": "2022 International Conference on Robotics and Automation (ICRA), 2884-2890, 2022",
+            "year": "2022",
+            "citations": "35"
+        },
+        {
+            "title": "Unified automatic control of vehicular systems with reinforcement learning",
+            "authors": "Z Yan, AR Kreidieh, E Vinitsky, AM Bayen, C Wu",
+            "publication": "IEEE Transactions on Automation Science and Engineering 20 (2), 789-804, 2022",
+            "year": "2022",
+            "citations": "35"
+        },
+        {
+            "title": "Particle dynamics in damped nonlinear quadrupole ion traps",
+            "authors": "EA Vinitsky, ED Black, KG Libbrecht",
+            "publication": "American Journal of Physics 83 (4), 313-319, 2015",
+            "year": "2015",
+            "citations": "29"
+        },
+        {
+            "title": "Integrated framework of vehicle dynamics, instabilities, energy models, and sparse flow smoothing controllers",
+            "authors": "JW Lee, G Gunter, R Ramadan, S Almatrudi, P Arnold, J Aquino, ...",
+            "publication": "Proceedings of the Workshop on Data-Driven and Intelligent Cyber-Physical …, 2021",
+            "year": "2021",
+            "citations": "26"
+        }
+    ]
+}

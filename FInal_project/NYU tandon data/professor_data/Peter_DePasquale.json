@@ -1,0 +1,147 @@
+{
+    "name": "Peter DePasquale",
+    "affiliation": "NYU",
+    "url": "https://scholar.google.com/citations?user=ScyBbe8AAAAJ&hl=en",
+    "papers": [
+        {
+            "title": "Security and privacy considerations in digital death",
+            "authors": "ME Locasto, M Massimi, PJ DePasquale",
+            "publication": "Proceedings of the 2011 New Security Paradigms Workshop, 1-10, 2011",
+            "year": "2011",
+            "citations": "29"
+        },
+        {
+            "title": "A model for summer undergraduate research experiences in emerging technologies",
+            "authors": "DL Knox, PJ DePasquale, SM Pulimood",
+            "publication": "ACM SIGCSE Bulletin 38 (1), 214-218, 2006",
+            "year": "2006",
+            "citations": "24"
+        },
+        {
+            "title": "Model driven development of a service oriented architecture (SOA) using colored Petri nets",
+            "authors": "V Gehlot, T Way, R Beck, P DePasquale",
+            "publication": "First Workshop on Quality in Modeling, ACM/IEEE 9th International Conference …, 2006",
+            "year": "2006",
+            "citations": "18"
+        },
+        {
+            "title": "Java interface for asserting interactive telerobotic control",
+            "authors": "P DePasquale, J Lewis, MR Stein",
+            "publication": "Telemanipulator and Telepresence Technologies IV 3206, 159-169, 1997",
+            "year": "1997",
+            "citations": "18"
+        },
+        {
+            "title": "Programming with Alice and Java",
+            "authors": "J Lewis, P DePasquale",
+            "publication": "Addison-Wesley Publishing Company, 2008",
+            "year": "2008",
+            "citations": "17"
+        },
+        {
+            "title": "Evaluation of subsetting programming language elements in a novice's programming environment",
+            "authors": "P DePasquale, JAN Lee, MA Perez-Quinones",
+            "publication": "ACM SIGCSE Bulletin 36 (1), 260-264, 2004",
+            "year": "2004",
+            "citations": "16"
+        },
+        {
+            "title": "Implications on the learning of programming through the implementation of subsets in program development environments",
+            "authors": "PJ DePasquale III",
+            "publication": "Virginia Polytechnic Institute and State University, 2003",
+            "year": "2003",
+            "citations": "16"
+        },
+        {
+            "title": "Java Foundations: Introduction to program design and data structures",
+            "authors": "J Lewis, P DePasquale, J Chase",
+            "publication": "Addison-Wesley Publishing Company, 2010",
+            "year": "2010",
+            "citations": "12"
+        },
+        {
+            "title": "Subsetting language elements in novice programming environments",
+            "authors": "P DePasquale",
+            "publication": "Proceedings of the RESOLVE Workshop, 108-111, 2002",
+            "year": "2002",
+            "citations": "9"
+        },
+        {
+            "title": "Exploiting on-line data sources as the basis of programming projects",
+            "authors": "P DePasquale",
+            "publication": "ACM SIGCSE Bulletin 38 (1), 283-287, 2006",
+            "year": "2006",
+            "citations": "8"
+        },
+        {
+            "title": "//todo: Help students improve commenting practices",
+            "authors": "PJ DePasquale, ME Locasto, L Kaczmarczyk, M Martinovic",
+            "publication": "2012 Frontiers in Education Conference Proceedings, 1-6, 2012",
+            "year": "2012",
+            "citations": "4"
+        },
+        {
+            "title": "A model for summer undergraduate research experiences in emerging technologies, proceedings of the 37th SIGCSE Technical Symposium on Computer Science Education",
+            "authors": "DL Knox, PJ DePasquale, SM Pulimood",
+            "publication": "Houston 10, 1121341.1121408, 2006",
+            "year": "2006",
+            "citations": "4"
+        },
+        {
+            "title": "Bringing industry into the university experience",
+            "authors": "A Decker, P DePasquale, RK Raj, M Jadud",
+            "publication": "Journal of Computing Sciences in Colleges 35 (8), 254-255, 2020",
+            "year": "2020",
+            "citations": "1"
+        },
+        {
+            "title": "Identifying effective pedagogical practices for commenting computer source code",
+            "authors": "PJ DePasquale, ME Locasto, LC Kaczmarczyk",
+            "publication": "Proceedings of the 43rd ACM technical symposium on Computer Science …, 2012",
+            "year": "2012",
+            "citations": "1"
+        },
+        {
+            "title": "Teaching students effective practices for commenting computer source code: tutorial presentation",
+            "authors": "PJ DePasquale, ME Locasto",
+            "publication": "Journal of Computing Sciences in Colleges 25 (4), 53-53, 2010",
+            "year": "2010",
+            "citations": "1"
+        },
+        {
+            "title": "Getting started with cloud services: a hands-on workshop",
+            "authors": "P DePasquale, K Coughlin",
+            "publication": "Journal of Computing Sciences in Colleges 28 (6), 9-10, 2013",
+            "year": "2013",
+            "citations": ""
+        },
+        {
+            "title": "Getting started with the Amazon cloud: introduction and discussion of curriculum integration",
+            "authors": "P DePasquale, M Jadud, K Coughlin",
+            "publication": "Journal of Computing Sciences in Colleges 28 (3), 5-5, 2013",
+            "year": "2013",
+            "citations": ""
+        },
+        {
+            "title": "Getting started with the Amazon cloud: a hands-on experience",
+            "authors": "P DePasquale, M Jadud, K Coughlin",
+            "publication": "Journal of Computing Sciences in Colleges 28 (3), 29-29, 2013",
+            "year": "2013",
+            "citations": ""
+        },
+        {
+            "title": "//TODO: Help students improve commenting practices",
+            "authors": "L Kaczmarczyk, ME Locasto, PJ DePasquale, M Martinovic",
+            "publication": "Proceedings of the 2012 IEEE Frontiers in Education Conference (FIE), 1-6, 2012",
+            "year": "2012",
+            "citations": ""
+        },
+        {
+            "title": "Exploiting on-line data sources in the data structures course (and elsewhere)",
+            "authors": "PJ DePasquale",
+            "publication": "Journal of Computing Sciences in Colleges 27 (3), 49-49, 2012",
+            "year": "2012",
+            "citations": ""
+        }
+    ]
+}

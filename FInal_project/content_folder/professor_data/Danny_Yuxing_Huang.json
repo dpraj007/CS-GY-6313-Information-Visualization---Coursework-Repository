@@ -1,0 +1,147 @@
+{
+    "name": "Danny Yuxing Huang",
+    "affiliation": "Assistant Professor at New York University",
+    "url": "https://scholar.google.com/citations?user=B-Zb3joAAAAJ&hl=en",
+    "papers": [
+        {
+            "title": "Tracking ransomware end-to-end",
+            "authors": "DY Huang, MM Aliapoulios, VG Li, L Invernizzi, E Bursztein, K McRoberts, ...",
+            "publication": "2018 IEEE Symposium on Security and Privacy (SP), 618-631, 2018",
+            "year": "2018",
+            "citations": "270"
+        },
+        {
+            "title": "IoT inspector: Crowdsourcing labeled network traffic from smart home devices at scale",
+            "authors": "DY Huang, N Apthorpe, F Li, G Acar, N Feamster",
+            "publication": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous …, 2020",
+            "year": "2020",
+            "citations": "210"
+        },
+        {
+            "title": "Keeping the smart home private with smart (er) iot traffic shaping",
+            "authors": "N Apthorpe, DY Huang, D Reisman, A Narayanan, N Feamster",
+            "publication": "Proceedings on Privacy Enhancing Technologies 2019 (Issue 3 (July 2019 …, 2019",
+            "year": "2019",
+            "citations": "207"
+        },
+        {
+            "title": "High-fidelity switch models for software-defined network emulation",
+            "authors": "DY Huang, K Yocum, AC Snoeren",
+            "publication": "Proceedings of the second ACM SIGCOMM workshop on Hot topics in software …, 2013",
+            "year": "2013",
+            "citations": "179"
+        },
+        {
+            "title": "Framing dependencies introduced by underground commoditization",
+            "authors": "K Thomas, D Huang, D Wang, E Bursztein, C Grier, TJ Holt, C Kruegel, ...",
+            "publication": "Proceedings of the Workshop on the Economics of Information Security, 2015",
+            "year": "2015",
+            "citations": "149"
+        },
+        {
+            "title": "Botcoin: Monetizing Stolen Cycles",
+            "authors": "DY Huang, H Dharmdasani, S Meiklejohn, V Dave, C Grier, D McCoy, ...",
+            "publication": "Proceedings of the Network and Distributed System Security Symposium (NDSS), 2014",
+            "year": "2014",
+            "citations": "134"
+        },
+        {
+            "title": "Watching you watch: The tracking ecosystem of over-the-top tv streaming devices",
+            "authors": "H Mohajeri Moghaddam, G Acar, B Burgess, A Mathur, DY Huang, ...",
+            "publication": "Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications …, 2019",
+            "year": "2019",
+            "citations": "110"
+        },
+        {
+            "title": "Backpage and bitcoin: Uncovering human traffickers",
+            "authors": "RS Portnoff, DY Huang, P Doerfler, S Afroz, D McCoy",
+            "publication": "Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge …, 2017",
+            "year": "2017",
+            "citations": "95"
+        },
+        {
+            "title": "Stressing out: Bitcoin “stress testing”",
+            "authors": "K Baqer, DY Huang, D McCoy, N Weaver",
+            "publication": "Financial Cryptography and Data Security: FC 2016 International Workshops …, 2016",
+            "year": "2016",
+            "citations": "94"
+        },
+        {
+            "title": "Web-based attacks to discover and control local IoT devices",
+            "authors": "G Acar, DY Huang, F Li, A Narayanan, N Feamster",
+            "publication": "Proceedings of the 2018 workshop on iot security and privacy, 29-35, 2018",
+            "year": "2018",
+            "citations": "70"
+        },
+        {
+            "title": "“It would probably turn into a social faux-pas”: Users’ and Bystanders’ Preferences of Privacy Awareness Mechanisms in Smart Homes",
+            "authors": "PK Thakkar, S He, S Xu, DY Huang, Y Yao",
+            "publication": "Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems …, 2022",
+            "year": "2022",
+            "citations": "42"
+        },
+        {
+            "title": "Alexa, who am I speaking to?: Understanding users’ ability to identify third-party apps on Amazon Alexa",
+            "authors": "D Major, DY Huang, M Chetty, N Feamster",
+            "publication": "ACM Transactions on Internet Technology (TOIT) 22 (1), 1-22, 2021",
+            "year": "2021",
+            "citations": "41"
+        },
+        {
+            "title": "Skillbot: Identifying risky content for children in alexa skills",
+            "authors": "T Le, DY Huang, N Apthorpe, Y Tian",
+            "publication": "ACM Transactions on Internet Technology (TOIT) 22 (3), 1-31, 2022",
+            "year": "2022",
+            "citations": "27"
+        },
+        {
+            "title": "Managing distributed applications using gush",
+            "authors": "J Albrecht, DY Huang",
+            "publication": "International Conference on Testbeds and Research Infrastructures, 401-411, 2010",
+            "year": "2010",
+            "citations": "25"
+        },
+        {
+            "title": "Pinning down abuse on google maps",
+            "authors": "DY Huang, D Grundman, K Thomas, A Kumar, E Bursztein, K Levchenko, ...",
+            "publication": "Proceedings of the 26th International Conference on World Wide Web, 1471-1479, 2017",
+            "year": "2017",
+            "citations": "20"
+        },
+        {
+            "title": "Abuse Vectors: A Framework for Conceptualizing {IoT-Enabled} Interpersonal Abuse",
+            "authors": "S Stephenson, M Almansoori, P Emami-Naeini, DY Huang, R Chatterjee",
+            "publication": "32nd USENIX Security Symposium (USENIX Security 23), 69-86, 2023",
+            "year": "2023",
+            "citations": "17"
+        },
+        {
+            "title": "Profit-driven abuses of virtual currencies",
+            "authors": "DY Huang",
+            "publication": "University of California, San Diego, 2013",
+            "year": "2013",
+            "citations": "15"
+        },
+        {
+            "title": "Estimating Profitability of Alternative Crypto-currencies",
+            "authors": "DY Huang, K Levchenko, AC Snoeren",
+            "publication": "International Conference on Financial Cryptography and Data Security, 2018",
+            "year": "2018",
+            "citations": "14"
+        },
+        {
+            "title": "Exploring tenants' preferences of privacy negotiation in airbnb",
+            "authors": "Z Wang, DY Huang, Y Yao",
+            "publication": "32nd USENIX Security Symposium (USENIX Security 23), 535-551, 2023",
+            "year": "2023",
+            "citations": "10"
+        },
+        {
+            "title": "In the room where it happens: Characterizing local communication and threats in smart homes",
+            "authors": "A Girish, T Hu, V Prakash, DJ Dubois, S Matic, DY Huang, S Egelman, ...",
+            "publication": "Proceedings of the 2023 ACM on Internet Measurement Conference, 437-456, 2023",
+            "year": "2023",
+            "citations": "9"
+        }
+    ]
+}

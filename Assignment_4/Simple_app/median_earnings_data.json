@@ -1,0 +1,13 @@
+{
+    "median_earnings_in_past_12_months": {
+      "population_25_years_and_over_with_earnings": 51288,
+      "education_levels": {
+        "less_than_high_school_graduate": 31660,
+        "high_school_graduate_includes_equivalency": 39428,
+        "some_college_or_associates_degree": 45924,
+        "bachelors_degree": 67256,
+        "graduate_or_professional_degree": 86524
+      }
+    }
+  }
+  

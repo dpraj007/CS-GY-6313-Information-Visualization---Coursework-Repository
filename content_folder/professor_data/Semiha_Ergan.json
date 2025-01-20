@@ -1,0 +1,147 @@
+{
+    "name": "Semiha Ergan",
+    "affiliation": "Professor of Civil and Urban Engineering, NYU",
+    "url": "https://scholar.google.com/citations?user=WYwmI0wAAAAJ&hl=en",
+    "papers": [
+        {
+            "title": "Analysis of modeling effort and impact of different levels of detail in building information models",
+            "authors": "F Leite, A Akcamete, B Akinci, G Atasoy, S Kiziltas",
+            "publication": "Automation in Construction 20, 601-609, 2011",
+            "year": "2011",
+            "citations": "372"
+        },
+        {
+            "title": "Strategic use of quality function deployment (QFD) in construction industry",
+            "authors": "I Dikmen, MT Birgonul, S Kiziltas",
+            "publication": "building and environment 40 (2), 245-255, 2005",
+            "year": "2005",
+            "citations": "294"
+        },
+        {
+            "title": "Quantifying human experience in architectural spaces with integrated virtual reality and body sensor networks",
+            "authors": "S Ergan, A Radwan, Z Zou, H Tseng, X Han",
+            "publication": "Journal of Computing in Civil Engineering 33 (2), 04018062, 2019",
+            "year": "2019",
+            "citations": "166"
+        },
+        {
+            "title": "Towards optimal control of air handling units using deep reinforcement learning and recurrent neural network",
+            "authors": "Z Zou, X Yu, S Ergan",
+            "publication": "Building and Environment 168, 106535, 2020",
+            "year": "2020",
+            "citations": "157"
+        },
+        {
+            "title": "Technological assessment and process implications of field data capture technologies for construction and facility/infrastructure management",
+            "authors": "S Kiziltas, B Akinci, E Ergen, P Tang, C Gordon",
+            "publication": "ITCON 13 (April), 134-154, 2008",
+            "year": "2008",
+            "citations": "121"
+        },
+        {
+            "title": "Prediction of organizational effectiveness in construction companies",
+            "authors": "I Dikmen, T Birgonul, S Kiziltas",
+            "publication": "Journal of Construction Engineering and Management 131 (2), 252-261, 2005",
+            "year": "2005",
+            "citations": "113"
+        },
+        {
+            "title": "Modeling and analyzing the impact of technology on data capture and transfer processes at construction sites: a case study",
+            "authors": "B Akinci, Kiziltas, E S., Ergen, IZ Karaesmen, F Keceli",
+            "publication": "Journal of Construction Engineering and Management 132 (11), 1148-1157, 2006",
+            "year": "2006",
+            "citations": "90"
+        },
+        {
+            "title": "Towards quantifying human experience in the built environment: A crowdsourcing based experiment to identify influential architectural design features",
+            "authors": "S Ergan, Z Shi, X Yu",
+            "publication": "Journal of Building Engineering 20, 51-59, 2018",
+            "year": "2018",
+            "citations": "83"
+        },
+        {
+            "title": "A data-driven approach to extract operational signatures of HVAC systems and analyze impact on electricity consumption",
+            "authors": "X Yu, S Ergan, G Dedemen",
+            "publication": "Applied Energy 253, 113497, 2019",
+            "year": "2019",
+            "citations": "66"
+        },
+        {
+            "title": "An approach to combine progressively captured point clouds for BIM update",
+            "authors": "T Gao, B Akinci, S Ergan, J Garrett",
+            "publication": "Advanced Engineering Informatics 29 (4), 1001-1012, 2015",
+            "year": "2015",
+            "citations": "56"
+        },
+        {
+            "title": "BIM for FM: Information requirements to support HVAC-related corrective maintenance",
+            "authors": "X Yang, S Ergan",
+            "publication": "Journal of architectural engineering 23 (4), 04017023, 2017",
+            "year": "2017",
+            "citations": "52"
+        },
+        {
+            "title": "Design and Evaluation of an Integrated Visualization Platform to Support Corrective Maintenance of HVAC Problem–Related Work Orders",
+            "authors": "X Yang, S Ergan",
+            "publication": "Journal of Computing in Civil Engineering, 2015",
+            "year": "2015",
+            "citations": "52"
+        },
+        {
+            "title": "Leveraging BIM to Provide Automated Support for Efficient Troubleshooting of HVAC-Related Problems",
+            "authors": "X Yang, S Ergan",
+            "publication": "Journal of Computing in Civil Engineering, 2015",
+            "year": "2015",
+            "citations": "47"
+        },
+        {
+            "title": "Contextual information requirements of cost estimators from past construction projects",
+            "authors": "S Kiziltas, B Akinci",
+            "publication": "Journal of construction engineering and management 135 (9), 841-852, 2009",
+            "year": "2009",
+            "citations": "44"
+        },
+        {
+            "title": "Where do we look? An eye-tracking study of architectural features in building design",
+            "authors": "Z Zou, S Ergan",
+            "publication": "Advances in Informatics and Computing in Civil and Construction Engineering …, 2019",
+            "year": "2019",
+            "citations": "38"
+        },
+        {
+            "title": "The need for prompt schedule update by utilizing reality capture technologies: A case study”",
+            "authors": "S Kiziltas, B Akinci",
+            "publication": "CRC, 2005",
+            "year": "2005",
+            "citations": "37"
+        },
+        {
+            "title": "Evaluation of visualization techniques for use by facility operators during monitoring tasks",
+            "authors": "X Yang, S Ergan",
+            "publication": "Automation in Construction 44, 103-118, 2014",
+            "year": "2014",
+            "citations": "35"
+        },
+        {
+            "title": "Evaluation of different features for matching point clouds to building information models",
+            "authors": "T Gao, S Ergan, B Akinci, J Garrett",
+            "publication": "Journal of Computing in Civil Engineering 30 (1), 04014107, 2016",
+            "year": "2016",
+            "citations": "30"
+        },
+        {
+            "title": "Proactive productivity management at job sites: Understanding characteristics of assumptions made for construction processes during planning based on case studies and interviews",
+            "authors": "T Gao, S Ergan, B Akinci, JH Garrett",
+            "publication": "Journal of Construction Engineering and Management 140 (3), 04013054, 2014",
+            "year": "2014",
+            "citations": "29"
+        },
+        {
+            "title": "Owner requirements in as-built BIM deliverables and a system architecture for FM-specific BIM representation",
+            "authors": "PDR Dias, S Ergan",
+            "publication": "Canadian Journal of Civil Engineering 47 (2), 215-227, 2020",
+            "year": "2020",
+            "citations": "23"
+        }
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "name": "Martin Farach-Colton",
+    "affiliation": "Shustek Professor of Computer Science, New York University",
+    "url": "https://scholar.google.com/citations?user=2uHUSa8AAAAJ&hl=en&oi=ao",
+    "papers": [
+        {
+            "title": "Finding frequent items in data streams",
+            "authors": "M Charikar, K Chen, M Farach-Colton",
+            "publication": "International Colloquium on Automata, Languages, and Programming, 693-703, 2002",
+            "year": "2002",
+            "citations": "1579"
+        },
+        {
+            "title": "The LCA problem revisited",
+            "authors": "MA Bender, M Farach-Colton",
+            "publication": "LATIN 2000: Theoretical Informatics: 4th Latin American Symposium, Punta del …, 2000",
+            "year": "2000",
+            "citations": "1072"
+        },
+        {
+            "title": "Optimal suffix tree construction with large alphabets",
+            "authors": "M Farach",
+            "publication": "Proceedings 38th Annual Symposium on Foundations of Computer Science, 137-143, 1997",
+            "year": "1997",
+            "citations": "718"
+        },
+        {
+            "title": "Finding frequent items in data streams",
+            "authors": "M Charikar, K Chen, M Farach-Colton",
+            "publication": "Theoretical Computer Science 312 (1), 3-15, 2004",
+            "year": "2004",
+            "citations": "629"
+        },
+        {
+            "title": "NOTUNG: a program for dating gene duplications and optimizing gene family trees",
+            "authors": "K Chen, D Durand, M Farach-Colton",
+            "publication": "Journal of Computational Biology 7 (3-4), 429-447, 2000",
+            "year": "2000",
+            "citations": "546"
+        },
+        {
+            "title": "Lowest common ancestors in trees and directed acyclic graphs",
+            "authors": "MA Bender, M Farach-Colton, G Pemmasani, S Skiena, P Sumazin",
+            "publication": "Journal of Algorithms 57 (2), 75-94, 2005",
+            "year": "2005",
+            "citations": "325"
+        },
+        {
+            "title": "Let sleeping files lie: Pattern matching in Z-compressed files",
+            "authors": "A Amir, G Benson, M Farach",
+            "publication": "Journal of Computer and System Sciences 52 (2), 299-307, 1996",
+            "year": "1996",
+            "citations": "297"
+        },
+        {
+            "title": "Don't thrash: How to cache your hash on flash",
+            "authors": "MA Bender, M Farach-Colton, R Johnson, BC Kuszmaul, D Medjedovic, ...",
+            "publication": "3rd Workshop on Hot Topics in Storage and File Systems (HotStorage 11), 2011",
+            "year": "2011",
+            "citations": "289"
+        },
+        {
+            "title": "On the sorting-complexity of suffix tree construction",
+            "authors": "M Farach-Colton, P Ferragina, S Muthukrishnan",
+            "publication": "Journal of the ACM (JACM) 47 (6), 987-1011, 2000",
+            "year": "2000",
+            "citations": "287"
+        },
+        {
+            "title": "String matching in Lempel-Ziv compressed strings",
+            "authors": "M Farach, M Thorup",
+            "publication": "Proceedings of the twenty-seventh annual ACM symposium on Theory of …, 1995",
+            "year": "1995",
+            "citations": "286"
+        },
+        {
+            "title": "Cache-oblivious B-trees",
+            "authors": "MA Bender, ED Demaine, M Farach-Colton",
+            "publication": "Proceedings 41st Annual Symposium on Foundations of Computer Science, 399-409, 2000",
+            "year": "2000",
+            "citations": "285"
+        },
+        {
+            "title": "High-performance streaming dictionary",
+            "authors": "MA Bender, M Farach-Colton, YR Fogel, Z Kasheff, BC Kuszmaul, ...",
+            "publication": "US Patent 8,996,563, 2015",
+            "year": "2015",
+            "citations": "264"
+        },
+        {
+            "title": "The level ancestor problem simplified",
+            "authors": "MA Bender, M Farach-Colton",
+            "publication": "Theoretical Computer Science 321 (1), 5-12, 2004",
+            "year": "2004",
+            "citations": "248"
+        },
+        {
+            "title": "On the approximability of numerical taxonomy (fitting distances by tree metrics)",
+            "authors": "R Agarwala, V Bafna, M Farach, M Paterson, M Thorup",
+            "publication": "SIAM Journal on Computing 28 (3), 1073-1085, 1998",
+            "year": "1998",
+            "citations": "244"
+        },
+        {
+            "title": "A robust model for finding optimal evolutionary trees",
+            "authors": "M Farach, S Kannan, T Warnow",
+            "publication": "Proceedings of the Twenty-Fifth Annual ACM Symposium on Theory of Computing …, 1993",
+            "year": "1993",
+            "citations": "231"
+        },
+        {
+            "title": "Two simplified algorithms for maintaining order in a list",
+            "authors": "MA Bender, R Cole, ED Demaine, M Farach-Colton, J Zito",
+            "publication": "European symposium on algorithms, 152-164, 2002",
+            "year": "2002",
+            "citations": "223"
+        },
+        {
+            "title": "Cache-oblivious streaming B-trees",
+            "authors": "MA Bender, M Farach-Colton, JT Fineman, YR Fogel, BC Kuszmaul, ...",
+            "publication": "Proceedings of the nineteenth annual ACM symposium on Parallel algorithms …, 2007",
+            "year": "2007",
+            "citations": "212"
+        },
+        {
+            "title": "Cache-oblivious B-trees",
+            "authors": "MA Bender, ED Demaine, M Farach-Colton",
+            "publication": "SIAM Journal on Computing 35 (2), 341-358, 2005",
+            "year": "2005",
+            "citations": "182"
+        },
+        {
+            "title": "{BetrFS}: A {Right-Optimized}{Write-Optimized} file system",
+            "authors": "W Jannen, J Yuan, Y Zhan, A Akshintala, J Esmet, Y Jiao, A Mittal, ...",
+            "publication": "13th USENIX Conference on File and Storage Technologies (FAST 15), 301-315, 2015",
+            "year": "2015",
+            "citations": "166"
+        },
+        {
+            "title": "Optimal superprimitivity testing for strings",
+            "authors": "A Apostolico, M Farach, CS Iliopoulos",
+            "publication": "Information Processing Letters 39 (1), 17-20, 1991",
+            "year": "1991",
+            "citations": "157"
+        }
+    ]
+}

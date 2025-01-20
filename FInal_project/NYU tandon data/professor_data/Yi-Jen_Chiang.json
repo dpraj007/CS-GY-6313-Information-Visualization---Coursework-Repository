@@ -1,0 +1,147 @@
+{
+    "name": "Yi-Jen Chiang",
+    "affiliation": "Computer Science & Engineering, New York University",
+    "url": "https://scholar.google.com/citations?user=ZcDNvvEAAAAJ&hl=en",
+    "papers": [
+        {
+            "title": "External-memory graph algorithms",
+            "authors": "YJ Chiang, MT Goodrich, EF Grove, R Tamassia, DE Vengroff, JS Vitter",
+            "publication": "Society for Industrial and Applied Mathematics, 1995",
+            "year": "1995",
+            "citations": "480"
+        },
+        {
+            "title": "Dynamic algorithms in computational geometry",
+            "authors": "YJ Chiang, R Tamassia",
+            "publication": "Proceedings of the IEEE 80 (9), 1412-1434, 1992",
+            "year": "1992",
+            "citations": "248"
+        },
+        {
+            "title": "Interactive out-of-core isosurface extraction",
+            "authors": "YJ Chiang, CT Silva, WJ Schroeder",
+            "publication": "Proceedings Visualization'98 (Cat. No. 98CB36276), 167-174, 1998",
+            "year": "1998",
+            "citations": "203"
+        },
+        {
+            "title": "I/O optimal isosurface extraction",
+            "authors": "YJ Chiang, CT Silva",
+            "publication": "Proceedings. Visualization'97 (Cat. No. 97CB36155), 293-300, 1997",
+            "year": "1997",
+            "citations": "172"
+        },
+        {
+            "title": "Out-of-core algorithms for scientific visualization and computer graphics",
+            "authors": "C Silva, YJ Chiang, J El-Sana, P Lindstrom",
+            "publication": "IEEE Visualization Course Notes 11, 2, 2002",
+            "year": "2002",
+            "citations": "160"
+        },
+        {
+            "title": "External memory view‐dependent simplification",
+            "authors": "J El‐Sana, YJ Chiang",
+            "publication": "Computer Graphics Forum 19 (3), 139-150, 2000",
+            "year": "2000",
+            "citations": "150"
+        },
+        {
+            "title": "Geometric algorithms for conflict detection/resolution in air traffic management",
+            "authors": "YJ Chiang, JT Klosowski, C Lee, JSB Mitchell",
+            "publication": "Proceedings of the 36th IEEE Conference on Decision and Control 2, 1835-1840, 1997",
+            "year": "1997",
+            "citations": "133"
+        },
+        {
+            "title": "Simple and optimal output-sensitive construction of contour trees using monotone paths",
+            "authors": "YJ Chiang, T Lenz, X Lu, G Rote",
+            "publication": "Computational Geometry 30 (2), 165-195, 2005",
+            "year": "2005",
+            "citations": "107"
+        },
+        {
+            "title": "A unified infrastructure for parallel out-of-core isosurface extraction and volume rendering of unstructured grids",
+            "authors": "YJ Chiang, R Farias, CT Silva, B Wei",
+            "publication": "Proceedings IEEE 2001 Symposium on Parallel and Large-Data Visualization and …, 2001",
+            "year": "2001",
+            "citations": "78"
+        },
+        {
+            "title": "Two-point Euclidean shortest path queries in the plane",
+            "authors": "YJ Chiang, JSB Mitchell",
+            "publication": "Proc. 10th ACM-SIAM Symposium on Discrete Algorithms, 1999",
+            "year": "1999",
+            "citations": "76"
+        },
+        {
+            "title": "Progressive simplification of tetrahedral meshes preserving all isosurface topologies",
+            "authors": "YJ Chiang, X Lu",
+            "publication": "Computer Graphics Forum 22 (3), 493-504, 2003",
+            "year": "2003",
+            "citations": "64"
+        },
+        {
+            "title": "A unified approach to dynamic point location, ray shooting, and shortest paths in planar maps",
+            "authors": "YJ Chiang, FP Preparata, R Tamassia",
+            "publication": "SIAM Journal on Computing 25 (1), 207-233, 1996",
+            "year": "1996",
+            "citations": "64"
+        },
+        {
+            "title": "External Memory Techniques for Isosurface Extractions in Scientific Visualization",
+            "authors": "YJ Chiang, CT Silva",
+            "publication": "IBM Thomas J. Watson Research Division, 1998",
+            "year": "1998",
+            "citations": "61"
+        },
+        {
+            "title": "On minimum-area hulls",
+            "authors": "EM Arkin, Y -J. Chiang, M Held, JSB Mitchell, V Sacristán, SS Skiena, ...",
+            "publication": "Algorithmica 21, 119-136, 1998",
+            "year": "1998",
+            "citations": "46"
+        },
+        {
+            "title": "On the maximum scatter traveling salesperson problem",
+            "authors": "EM Arkin, YJ Chiang, JSB Mitchell, SS Skiena, TC Yang",
+            "publication": "SIAM Journal on Computing 29 (2), 515-544, 1999",
+            "year": "1999",
+            "citations": "44"
+        },
+        {
+            "title": "On soft predicates in subdivision motion planning",
+            "authors": "C Wang, YJ Chiang, C Yap",
+            "publication": "Proceedings of the twenty-ninth annual Symposium on Computational Geometry …, 2013",
+            "year": "2013",
+            "citations": "40"
+        },
+        {
+            "title": "Dynamic and I/O-efficient algorithms for computational geometry and graph problems: theoretical and experimental results",
+            "authors": "YJ Chiang",
+            "publication": "Brown University, 1996",
+            "year": "1996",
+            "citations": "38"
+        },
+        {
+            "title": "Out-of-core isosurface extraction of time-varying fields over irregular grids",
+            "authors": "YJ Chiang",
+            "publication": "IEEE Visualization, 2003. VIS 2003., 217-224, 2003",
+            "year": "2003",
+            "citations": "35"
+        },
+        {
+            "title": "Experiments on the practical I/O efficiency of geometric algorithms: Distribution sweep vs. plane sweep",
+            "authors": "YJ Chiang",
+            "publication": "Workshop on Algorithms and Data Structures, 346-357, 1995",
+            "year": "1995",
+            "citations": "34"
+        },
+        {
+            "title": "Dynamization of the trapezoid method for planar point location in monotone subdivisions",
+            "authors": "YJ Chiang, R Tamassia",
+            "publication": "International Journal of Computational Geometry & Applications 2 (03), 311-333, 1992",
+            "year": "1992",
+            "citations": "31"
+        }
+    ]
+}

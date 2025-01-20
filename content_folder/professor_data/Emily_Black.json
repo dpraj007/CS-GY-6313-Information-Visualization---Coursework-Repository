@@ -1,0 +1,147 @@
+{
+    "name": "Emily Black",
+    "affiliation": "Assistant Professor of Computer Science, Barnard College, Columbia University",
+    "url": "https://scholar.google.com/citations?user=dBkGY6gAAAAJ&hl=en",
+    "papers": [
+        {
+            "title": "Fliptest: fairness testing via optimal transport",
+            "authors": "E Black, S Yeom, M Fredrikson",
+            "publication": "Proceedings of the 2020 conference on fairness, accountability, and …, 2020",
+            "year": "2020",
+            "citations": "101"
+        },
+        {
+            "title": "Model multiplicity: Opportunities, concerns, and solutions",
+            "authors": "E Black, M Raghavan, S Barocas",
+            "publication": "Proceedings of the 2022 ACM Conference on Fairness, Accountability, and …, 2022",
+            "year": "2022",
+            "citations": "83"
+        },
+        {
+            "title": "Feature-wise bias amplification",
+            "authors": "K Leino, E Black, M Fredrikson, S Sen, A Datta",
+            "publication": "arXiv preprint arXiv:1812.08999, 2018",
+            "year": "2018",
+            "citations": "52"
+        },
+        {
+            "title": "Consistent counterfactuals for deep models",
+            "authors": "E Black, Z Wang, M Fredrikson, A Datta",
+            "publication": "arXiv preprint arXiv:2110.03109, 2021",
+            "year": "2021",
+            "citations": "48"
+        },
+        {
+            "title": "Leave-one-out unfairness",
+            "authors": "E Black, M Fredrikson",
+            "publication": "Proceedings of the 2021 ACM Conference on Fairness, Accountability, and …, 2021",
+            "year": "2021",
+            "citations": "38"
+        },
+        {
+            "title": "Algorithmic fairness and vertical equity: Income fairness with irs tax audit models",
+            "authors": "E Black, H Elzayn, A Chouldechova, J Goldin, D Ho",
+            "publication": "Proceedings of the 2022 ACM Conference on Fairness, Accountability, and …, 2022",
+            "year": "2022",
+            "citations": "29"
+        },
+        {
+            "title": "Selective ensembles for consistent predictions",
+            "authors": "E Black, K Leino, M Fredrikson",
+            "publication": "arXiv preprint arXiv:2111.08230, 2021",
+            "year": "2021",
+            "citations": "28"
+        },
+        {
+            "title": "Spectral analysis of molecular dynamics simulations on PDZ: MD sectors",
+            "authors": "B Lakhani, KM Thayer, E Black, DL Beveridge",
+            "publication": "Journal of Biomolecular Structure and Dynamics 38 (3), 781-790, 2020",
+            "year": "2020",
+            "citations": "15"
+        },
+        {
+            "title": "Evaluating facial recognition technology: a protocol for performance assessment in new domains",
+            "authors": "DE Ho, E Black, M Agrawala, L Fei-Fei",
+            "publication": "Denv. L. Rev. 98, 753, 2020",
+            "year": "2020",
+            "citations": "14"
+        },
+        {
+            "title": "Toward Operationalizing Pipeline-aware ML Fairness: A Research Agenda for Developing Practical Guidelines and Tools",
+            "authors": "E Black, R Naidu, R Ghani, K Rodolfa, D Ho, H Heidari",
+            "publication": "Proceedings of the 3rd ACM Conference on Equity and Access in Algorithms …, 2023",
+            "year": "2023",
+            "citations": "10"
+        },
+        {
+            "title": "A call for universities to develop requirements for community engagement in ai research",
+            "authors": "E Black, J Williams, MA Madaio, PL Donti",
+            "publication": "The Fair and Responsible AI Workshop at the 2020 CHI Conference on Human …, 2020",
+            "year": "2020",
+            "citations": "10"
+        },
+        {
+            "title": "Fliptest: Fairness auditing via optimal transport",
+            "authors": "E Black, S Yeom, M Fredrikson",
+            "publication": "CoRR, abs/1906.09218, 2019",
+            "year": "2019",
+            "citations": "7"
+        },
+        {
+            "title": "Less discriminatory algorithms",
+            "authors": "E Black, JL Koepke, P Kim, S Barocas, M Hsu",
+            "publication": "Georgetown Law Journal 113 (1), 2024",
+            "year": "2024",
+            "citations": "6"
+        },
+        {
+            "title": "How regulators can get facial recognition technology right",
+            "authors": "DE Ho, E Black, M Agrawala, FF Li",
+            "publication": "< bound method Organization. get_name_with_acronym of< Organization …, 2020",
+            "year": "2020",
+            "citations": "3"
+        },
+        {
+            "title": "Domain Shift and Emerging Questions in Facial Recognition Technology",
+            "authors": "DE Ho, E Black, M Agrwawala, FF Li",
+            "publication": "policy brief, Stanford University Human-Centered Artificial Intelligence …, 2020",
+            "year": "2020",
+            "citations": "2"
+        },
+        {
+            "title": "Generative monoculture in large language models",
+            "authors": "F Wu, E Black, V Chandrasekaran",
+            "publication": "arXiv preprint arXiv:2407.02209, 2024",
+            "year": "2024",
+            "citations": "1"
+        },
+        {
+            "title": "The Legal Duty to Search for Less Discriminatory Algorithms",
+            "authors": "E Black, L Koepke, P Kim, S Barocas, M Hsu",
+            "publication": "arXiv preprint arXiv:2406.06817, 2024",
+            "year": "2024",
+            "citations": "1"
+        },
+        {
+            "title": "D-hacking",
+            "authors": "E Black, T Gillis, ZY Hall",
+            "publication": "The 2024 ACM Conference on Fairness, Accountability, and Transparency, 602-615, 2024",
+            "year": "2024",
+            "citations": "1"
+        },
+        {
+            "title": "Estimating and implementing conventional fairness metrics with probabilistic protected features",
+            "authors": "H Elzayn, E Black, P Vossler, N Jo, J Goldin, DE Ho",
+            "publication": "2024 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML), 161-193, 2024",
+            "year": "2024",
+            "citations": "1"
+        },
+        {
+            "title": "56 Molecular dynamics simulation studies of protein sectors: motional correlations",
+            "authors": "B Lakhani, E Black, DL Beveridge",
+            "publication": "Journal of Biomolecular Structure and Dynamics 33 (sup1), 38-38, 2015",
+            "year": "2015",
+            "citations": ""
+        }
+    ]
+}
